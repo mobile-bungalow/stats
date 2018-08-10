@@ -1,0 +1,3 @@
+Contact: https://hackerone.com/gratipay
+Disclosure: Full
+Acknowledgement: https://hackerone.com/gratipay/thanks

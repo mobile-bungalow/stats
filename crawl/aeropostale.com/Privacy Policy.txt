@@ -1,0 +1,609 @@
+ Aeropostale <ul>
+<li>
+Open submenu ( Girls ) Girls </li>
+<li>
+Open submenu ( Guys ) Guys </li>
+<li>
+Open submenu ( Jeans ) Jeans </li>
+<li>
+Open submenu ( Shorts ) Shorts </li>
+<li>
+Open submenu ( Clearance ) Clearance </li>
+<ul>
+<li> Help? - Contact Us
+Help? - Contact Us
+</li>
+<li> Sign Up/Login </li>
+<li> Refer a Friend </li>
+</ul>
+</ul>Close submenu ( Girls ) Girls <ul>
+<li> View Home </li>
+<li> Open submenu ( Featured ) Featured </li>
+</ul>
+<ul>
+<li> Open submenu ( Tops ) Tops </li>
+</ul>
+<ul>
+<li> Open submenu ( Bottoms ) Bottoms </li>
+</ul>
+<ul>
+<li> Swim </li>
+<li> Dresses + Rompers </li>
+<li> Jackets </li>
+<li> Accessories </li>
+<li> Shoes </li>
+<li> Extended Sizes </li>
+<li> Trending </li>
+<li> Clearance </li>
+</ul>
+<ul>
+<li> Open submenu ( Live Love Dream ) Live Love Dream </li>
+</ul>Close submenu ( Featured ) Featured <ul>
+<li> View All </li>
+<li> New Arrivals </li>
+<li> Stock Up Flash Sale </li>
+<li> SWIM SALE </li>
+<li> 3 for $12 Undies </li>
+<li> $2.87 Undies </li>
+<li> Uniform </li>
+<li> Denim Guide </li>
+<li> Flex Effects </li>
+<li> Tribe Of Tees </li>
+<li> Logo Shop </li>
+<li> Basic Essentials </li>
+<li> Seriously Soft </li>
+<li> Online Only </li>
+</ul>Close submenu ( Tops ) Tops <ul>
+<li> View All </li>
+<li> Tees </li>
+<li> Graphic Tees </li>
+<li> Camis + Tanks </li>
+<li> Polos </li>
+<li> Fashion Tops </li>
+<li> Long Sleeve </li>
+<li> Hoodies + Sweatshirts </li>
+<li> Shirts </li>
+<li> Sweaters </li>
+<li> Active Tops </li>
+<li> $9 Tees </li>
+</ul>Close submenu ( Bottoms ) Bottoms <ul>
+<li> View All </li>
+<li> Jeans </li>
+<li> Jeggings </li>
+<li> Shorts </li>
+<li> Leggings + Active </li>
+<li> Joggers + Lounge </li>
+<li> Pants </li>
+<li> Skirts </li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>Close submenu ( Live Love Dream ) Live Love Dream <ul>
+<li> View All </li>
+<li> Active </li>
+<li> Lounge </li>
+<li> Sleep </li>
+<li> Bras </li>
+<li> Undies </li>
+<li> Accessories </li>
+<li> Clearance </li>
+</ul>Close submenu ( Guys ) Guys <ul>
+<li> View Home </li>
+<li> Open submenu ( Featured ) Featured </li>
+</ul>
+<ul>
+<li> Open submenu ( Tops ) Tops </li>
+</ul>
+<ul>
+<li> Open submenu ( Bottoms ) Bottoms </li>
+</ul>
+<ul>
+<li> Jackets </li>
+<li> Swim </li>
+<li> Accessories </li>
+<li> Underwear </li>
+<li> Clearance </li>
+<li> Extended Sizes </li>
+<li> Trending </li>
+</ul>Close submenu ( Featured ) Featured <ul>
+<li> View All </li>
+<li> New Arrivals </li>
+<li> Stock Up Flash Sale </li>
+<li> Buy 1 Get 2 Underwear </li>
+<li> Uniform </li>
+<li> Denim Guide </li>
+<li> Flex Effects </li>
+<li> Lounge </li>
+<li> Active </li>
+<li> Logo Shop </li>
+<li> Back to Basics </li>
+<li> Online Only </li>
+</ul>Close submenu ( Tops ) Tops <ul>
+<li> View All </li>
+<li> Tees </li>
+<li> Graphic Tees </li>
+<li> Polos </li>
+<li> Shirts </li>
+<li> Long Sleeve </li>
+<li> Hoodies + Sweatshirts </li>
+<li> Sweaters </li>
+<li> Buy 1 Get 2 Free Tees </li>
+</ul>Close submenu ( Bottoms ) Bottoms <ul>
+<li> View All </li>
+<li> Jeans </li>
+<li> Shorts </li>
+<li> Pants </li>
+<li> Joggers + Sweats </li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>Close submenu ( Jeans ) Jeans <ul>
+<li> View Home </li>
+<li> Open submenu ( Girls Jeans ) Girls Jeans </li>
+</ul>
+<ul>
+<li> Open submenu ( Guys Jeans ) Guys Jeans </li>
+</ul>Close submenu ( Girls Jeans ) Girls Jeans <ul>
+<li> View All </li>
+<li> Low Rise Jegging </li>
+<li> High Rise Ankle Jegging </li>
+<li> High Rise Jegging </li>
+<li> Cropped Jegging </li>
+<li> Super High Rise Jegging </li>
+<li> Skinny </li>
+<li> Bootcut </li>
+<li> Boyfriend </li>
+<li> Cheeky </li>
+<li> Overalls </li>
+<li> Flex Effects </li>
+<li> Ripped Repaired Destroyed </li>
+</ul>Close submenu ( Guys Jeans ) Guys Jeans <ul>
+<li> View All </li>
+<li> Super Skinny </li>
+<li> Skinny </li>
+<li> Straight </li>
+<li> Slim </li>
+<li> Slim Straight </li>
+<li> Slim Boot </li>
+<li> Relaxed </li>
+<li> Flex Effects </li>
+<li> Ripped Repaired Destroyed </li>
+</ul>Close submenu ( Shorts ) Shorts <ul>
+<li> View Home </li>
+<li> Open submenu ( Girls Shorts ) Girls Shorts </li>
+</ul>
+<ul>
+<li> Open submenu ( Guys Shorts ) Guys Shorts </li>
+</ul>Close submenu ( Girls Shorts ) Girls Shorts <ul>
+<li> View All </li>
+<li> Low Rise Shorty </li>
+<li> High-Waisted Shorty </li>
+<li> High-Waisted Cheeky </li>
+<li> Low Rise Midi </li>
+<li> High-Waisted Midi </li>
+<li> Low Rise Twill Midi </li>
+<li> Low Rise Tomboy </li>
+<li> Low Rise Bermuda </li>
+<li> Soft Shorts </li>
+<li> Shortall </li>
+<li> Lounge </li>
+<li> Active </li>
+</ul>Close submenu ( Guys Shorts ) Guys Shorts <ul>
+<li> View All </li>
+<li> Classic Chino Short </li>
+<li> Longboard </li>
+<li> Cargo Short </li>
+<li> Long Cargo </li>
+<li> Cut-Off Denim </li>
+<li> Cuffed Denim </li>
+<li> Color Denim </li>
+<li> Jogger Short </li>
+<li> Athletic </li>
+</ul>Close submenu ( Clearance ) Clearance <ul>
+<li> View Home </li>
+<li> Open submenu ( Girls ) Girls </li>
+</ul>
+<ul>
+<li> Open submenu ( Guys ) Guys </li>
+</ul>
+<ul>
+<li> Open submenu ( Live Love Dream ) Live Love Dream </li>
+</ul>Close submenu ( Girls ) Girls <ul>
+<li> View All </li>
+<li> New to Clearance </li>
+<li> $9.99 + Under </li>
+<li> Tops </li>
+<li> Bottoms </li>
+<li> Dresses + Skirts </li>
+<li> Swim </li>
+<li> Accessories </li>
+<li> Intimates </li>
+</ul>Close submenu ( Guys ) Guys <ul>
+<li> View All </li>
+<li> New to Clearance </li>
+<li> $9.99 + Under </li>
+<li> Tops </li>
+<li> Bottoms </li>
+<li> Accessories </li>
+<li>
+</li>
+</ul>Close submenu ( Live Love Dream ) Live Love Dream <ul>
+<li> View All </li>
+<li> New to Clearance </li>
+<li> $9.99 + Under </li>
+<li> Tops </li>
+<li> Bottoms </li>
+<li> Intimates </li>
+<li> Swim </li>
+<li> Active </li>
+<li> Lounge </li>
+</ul>
+<strong>SAVE UP TO 15% OFF </strong>USE CODE<strong> FLASH15  </strong>
+<u>GIRLS</u>
+<u> GUYS</u>
+<strong>50-70% OFF + FREE SHIPPING OVER $50</strong>
+<ul>
+<li>
+</li>
+<li> My Account My Account Login Register </li>
+</ul> Menu Find a Store Aeropostale <ul>
+<li> Girls <ul>
+<li> View Home </li>
+<li> Featured <ul>
+<li> View All </li>
+<li> New Arrivals </li>
+<li> Stock Up Flash Sale </li>
+<li> SWIM SALE </li>
+<li> 3 for $12 Undies </li>
+<li> $2.87 Undies </li>
+<li> Uniform </li>
+<li> Denim Guide </li>
+<li> Flex Effects </li>
+<li> Tribe Of Tees </li>
+<li> Logo Shop </li>
+<li> Basic Essentials </li>
+<li> Seriously Soft </li>
+<li> Online Only </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Tops <ul>
+<li> View All </li>
+<li> Tees </li>
+<li> Graphic Tees </li>
+<li> Camis + Tanks </li>
+<li> Polos </li>
+<li> Fashion Tops </li>
+<li> Long Sleeve </li>
+<li> Hoodies + Sweatshirts </li>
+<li> Shirts </li>
+<li> Sweaters </li>
+<li> Active Tops </li>
+<li> $9 Tees </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Bottoms <ul>
+<li> View All </li>
+<li> Jeans </li>
+<li> Jeggings </li>
+<li> Shorts </li>
+<li> Leggings + Active </li>
+<li> Joggers + Lounge </li>
+<li> Pants </li>
+<li> Skirts </li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Swim </li>
+<li> Dresses + Rompers </li>
+<li> Jackets </li>
+<li> Accessories </li>
+<li> Shoes </li>
+<li> Extended Sizes </li>
+<li> Trending </li>
+<li> Clearance </li>
+</ul>
+<ul>
+<li> Live Love Dream <ul>
+<li> View All </li>
+<li> Active </li>
+<li> Lounge </li>
+<li> Sleep </li>
+<li> Bras </li>
+<li> Undies </li>
+<li> Accessories </li>
+<li> Clearance </li>
+</ul>
+</li>
+</ul>
+</li>
+<li> Guys <ul>
+<li> View Home </li>
+<li> Featured <ul>
+<li> View All </li>
+<li> New Arrivals </li>
+<li> Stock Up Flash Sale </li>
+<li> Buy 1 Get 2 Underwear </li>
+<li> Uniform </li>
+<li> Denim Guide </li>
+<li> Flex Effects </li>
+<li> Lounge </li>
+<li> Active </li>
+<li> Logo Shop </li>
+<li> Back to Basics </li>
+<li> Online Only </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Tops <ul>
+<li> View All </li>
+<li> Tees </li>
+<li> Graphic Tees </li>
+<li> Polos </li>
+<li> Shirts </li>
+<li> Long Sleeve </li>
+<li> Hoodies + Sweatshirts </li>
+<li> Sweaters </li>
+<li> Buy 1 Get 2 Free Tees </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Bottoms <ul>
+<li> View All </li>
+<li> Jeans </li>
+<li> Shorts </li>
+<li> Pants </li>
+<li> Joggers + Sweats </li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Jackets </li>
+<li> Swim </li>
+<li> Accessories </li>
+<li> Underwear </li>
+<li> Clearance </li>
+<li> Extended Sizes </li>
+<li> Trending </li>
+</ul>
+<p>
+</p>
+</li>
+<li> Jeans <ul>
+<li> View Home </li>
+<li> Girls Jeans <ul>
+<li> View All </li>
+<li> Low Rise Jegging </li>
+<li> High Rise Ankle Jegging </li>
+<li> High Rise Jegging </li>
+<li> Cropped Jegging </li>
+<li> Super High Rise Jegging </li>
+<li> Skinny </li>
+<li> Bootcut </li>
+<li> Boyfriend </li>
+<li> Cheeky </li>
+<li> Overalls </li>
+<li> Flex Effects </li>
+<li> Ripped Repaired Destroyed </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Guys Jeans <ul>
+<li> View All </li>
+<li> Super Skinny </li>
+<li> Skinny </li>
+<li> Straight </li>
+<li> Slim </li>
+<li> Slim Straight </li>
+<li> Slim Boot </li>
+<li> Relaxed </li>
+<li> Flex Effects </li>
+<li> Ripped Repaired Destroyed </li>
+</ul>
+</li>
+</ul>
+<p>
+</p>
+</li>
+<li> Shorts <ul>
+<li> View Home </li>
+<li> Girls Shorts <ul>
+<li> View All </li>
+<li> Low Rise Shorty </li>
+<li> High-Waisted Shorty </li>
+<li> High-Waisted Cheeky </li>
+<li> Low Rise Midi </li>
+<li> High-Waisted Midi </li>
+<li> Low Rise Twill Midi </li>
+<li> Low Rise Tomboy </li>
+<li> Low Rise Bermuda </li>
+<li> Soft Shorts </li>
+<li> Shortall </li>
+<li> Lounge </li>
+<li> Active </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Guys Shorts <ul>
+<li> View All </li>
+<li> Classic Chino Short </li>
+<li> Longboard </li>
+<li> Cargo Short </li>
+<li> Long Cargo </li>
+<li> Cut-Off Denim </li>
+<li> Cuffed Denim </li>
+<li> Color Denim </li>
+<li> Jogger Short </li>
+<li> Athletic </li>
+</ul>
+</li>
+</ul>
+<p>
+</p>
+</li>
+<li> Clearance <ul>
+<li> View Home </li>
+<li> Girls <ul>
+<li> View All </li>
+<li> New to Clearance </li>
+<li> $9.99 + Under </li>
+<li> Tops </li>
+<li> Bottoms </li>
+<li> Dresses + Skirts </li>
+<li> Swim </li>
+<li> Accessories </li>
+<li> Intimates </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Guys <ul>
+<li> View All </li>
+<li> New to Clearance </li>
+<li> $9.99 + Under </li>
+<li> Tops </li>
+<li> Bottoms </li>
+<li> Accessories </li>
+<li>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li> Live Love Dream <ul>
+<li> View All </li>
+<li> New to Clearance </li>
+<li> $9.99 + Under </li>
+<li> Tops </li>
+<li> Bottoms </li>
+<li> Intimates </li>
+<li> Swim </li>
+<li> Active </li>
+<li> Lounge </li>
+</ul>
+</li>
+</ul>
+<p>
+</p>
+</li>
+<ul>
+<li> Help? - Contact Us
+Help? - Contact Us
+</li>
+<li> Sign Up/Login </li>
+<li> Refer a Friend </li>
+</ul>
+</ul> 0 Your Shopping Cart is Empty FREE SHIPPING<br>ON ORDERS OVER $50 Search Catalog
+Search Shop Girls Shop Guys Shop Girls Flex Effects Shop Guys Flex Effects Shop All Our Jeans Shop Girls Shop Guys Shop Girls Shop Guys Shop Girls Shorts Shop Guys Shorts Shop Girls Polos Shop Guys Polos Shop Guys Tees Shop Girls Uniform Shop Guys Uniform Shop Girls Shop Guys &lt;div class="browser-compatibility-alert"&gt.
+&lt;i class="fa fa-exclamation-triangle fa-2x pull-left"&gt;&lt;/i&gt.
+&lt;p class="browser-error"&gt;Your browser's Javascript functionality is turned off.
+Please turn it on so that you can experience the full capabilities of this site.&lt;/p&gt.
+&lt;/div&gt.
+SIGN UP for email
+SIGN UP FOR AÉROPOSTALE EMAILS TO GET THE LATEST STYLES &amp.
+OFFERS Enter Your Email
+Sign Up Give $15, Get $15 SIGN UP For AERO TEXTS Join the party!<br> Text JOIN to 237687.
+Terms &amp.
+Conditions FOLLOW US Customer Care <ul>
+<li>Order Status</li>
+<li>Track Your Order</li>
+<li>Shipping and Handling</li>
+<li>Returns</li>
+<li>Size Charts</li>
+<li>Contact Us</li>
+<li>Help</li>
+<li>Coupon Page</li>
+</ul> Gift Cards <ul>
+<li>eGift Cards</li>
+<li>Lost/Stolen Gift Cards</li>
+<li>Check Gift Card Balance</li>
+</ul> About Us <ul>
+<li>About Aeropostale</li>
+<li>Careers</li>
+<li>Terms of Use</li>
+<li>Privacy Policy</li>
+<li>CA Transparency Act</li>
+<li>Supply Chain</li>
+</ul> Stay Connected <ul>
+<li>Visit A Store</li>
+<li>Find Store Coupons</li>
+<li>Live Chat (9am - 10pm EST)Call Us</li>
+<li>Use Student Discount</li>
+</ul> © 2018 Aeropostale.
+All Rights Reserved.
+BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy <p>Refer a friend and get $15 off.</p>
+<p>Refer a friend</p>
+<p>GET Our Gratitude when they make a purchase</p> Refer Now <p>Were You Referred to Us?</p>
+<p>Enter Your Friend's Code</p> Submit<i>
+</i>
+<i>
+</i>
+<i>
+</i> ...
+Refer Now 
