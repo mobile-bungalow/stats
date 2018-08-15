@@ -1,0 +1,3 @@
+
+308 Permanent Redirect
+nginx/1.13.12

@@ -1,0 +1,259 @@
+<div class="content pad-vert-medium"><h2 id="additional-cash-terms-of-service">Additional Cash Terms of Service</h2>
+
+<p><strong>Last updated: July 27, 2018</strong></p>
+
+<p>These Additional Cash Terms of Service (the “Cash Terms”) govern your use of Cash App, a payment service (the “Service”) offered by Square, Inc. (“Square,” “we,” “our,” or “us”). By using the Service, you agree to be bound by these Cash Terms, the <a href="/legal/sign">E-Sign Consent</a>, and the <a href="/legal/ua">General Terms of Service</a> (“General Terms”) and all other terms, policies, and guidelines applicable to the Services, including, but not limited to, the <a href="/legal/payment">Payment Terms</a>. If you are using the Service on behalf of a business or entity, that business or entity accepts these terms.</p>
+
+<h4 id="i-eligibility">I. Eligibility</h4>
+
+<p>You must be a resident of the United States and at least 18 years, and the age of majority in your State of residence, or older to use the Services. You must use the Services in the United States and create an account with your email or a wireless telephone number you own.</p>
+
+<h4 id="ii-cash-app-account-and-communication">II. Cash App Account and Communication</h4>
+
+<h5 id="cash-app-account">1. Cash App Account</h5>
+
+<p>Your Cash App account consists of the information entered or collected in the course of signing up for the Service and any information you subsequently add or update from your settings (“Account”). You represent and warrant that any information you enter in your Account is true and accurate. All Account information is subject to Square’s <a href="/legal/copyright">Copyright and Trademark Policy</a>.</p>
+
+<p>To register, create and use an account, Square may require that you submit certain information, including but not limited to your name, email address, text-enabled cellular/wireless telephone number, street address or zip code, date of birth, social security number, and a government issued form of identification to Square. You agree that the information you provide is true, accurate, current and complete, and you agree to maintain and update this information with us as necessary.</p>
+
+<p>The first time you access your Account using a new device we may require you to authenticate your Account with additional information.  If your Account cannot be verified you may be required to set up a new account.</p>
+
+<p>You hereby authorize Square, directly or through third parties, to make any inquiries we consider necessary to validate your identity and/or authenticate your identity and account information and, for business accounts, your company or employer. This may include asking you for further information and/or documentation about your account usage or identity, or requiring you to take steps to confirm ownership of your email address, wireless/cellular telephone number or financial instruments, and verifying your information against third party databases or through other sources.</p>
+
+<p>In connection with your use of the Services, you may not refuse to (a) cooperate in an investigation concerning activity that potentially violates the law and/or Cash Terms, (b) provide confirmation of your identity or, (c) provide confirmation of any information you provide us.</p>
+
+<h5 id="receipts-and-account-statements">2. Receipts and Account Statements</h5>
+
+<ol>
+  <li>
+    <p>You have the right to recieve a receipt for some of your Cash App transactions.  Such transaction receipts can be found in the activity section of your Cash App and by logging into your Account at Cash.me.</p>
+  </li>
+  <li>
+    <p>You have the right to receive an account statement. You may view your account statement by logging into your Account at Cash.me.</p>
+  </li>
+</ol>
+
+<h5 id="cashtags">3. Cashtags</h5>
+
+<p>You may select a unique alpha-numeric name to identify yourself on the Service (a “Cashtag”). Your Cashtag must accurately and truthfully represent your business or personal identity. You may not select a Cashtag that misleads or deceives others as to your identity or creates an undue risk of chargebacks or mistaken payments. We may require you to change your Cashtag or details of your Profile in our sole discretion, and we may reclaim or make unavailable Cashtags without liability to you.</p>
+
+<h5 id="sharing-of-your-information">4. Sharing of Your Information</h5>
+
+<p>We will share certain Account information and transaction information, including your name, the amount, and a description, with the other party to your transaction and in accordance with our <a href="/legal/privacy">Privacy Policy</a>. We will also share information from your Account with others, as expressly authorized by you in connection with certain transactions such as charity or political campaigns.</p>
+
+<h5 id="text-messages">5. Text Messages</h5>
+
+<p>By providing us with a mobile phone number, you consent to receiving text (SMS) messages from us. If you provide us with the mobile number of any other person or entity when initiating or requesting a payment through the Service, you represent and warrant to us that the person or entity has consented to receive text messages from us related to that payment. Standard text messaging rates may apply based on your plan with your mobile phone carrier.</p>
+
+<h3 id="iii--sources">III.  Sources</h3>
+
+<h5 id="cash-app">1. Cash App</h5>
+
+<ol>
+  <li>
+    <p><strong>Receipt of payment</strong>. You can keep funds in your Cash App. Such funds are available for new transfers. You do not need to use funds held in your Cash App to make payments. Square may impose limitations on how much money you can keep in your Cash App and reserves the right to change the limitation at any time and shall settle funds to your bank account as necessary. If you do hold funds in your Cash App, Square will hold such funds separate from its corporate funds, will not use your funds for any corporate purposes, nor will Square voluntarily make your funds available to its creditors in the event of bankruptcy. Square will combine your funds with the funds of other users and place those pooled accounts in one or more bank accounts in Square’s name.</p>
+  </li>
+  <li>
+    <p><strong>Caviar Courier Earnings</strong>.  If you are a Caviar courier, you may elect, through the Caviar app, to receive your earnings from services performed with Caviar directly into your Cash App.  Information on how to make this election is available in the Caviar app. Once funds are available in your Cash App, you can use those funds as permitted under these Cash Terms. The Courier Independent Contractor Agreement, and other agreements you have entered into directly with Caviar will continue to apply to your work with Caviar. In the event of any conflict between the Cash Terms and the the Courier Agreement related to your work with Caviar, the Courier Independent Contractor Agreement shall prevail. </p>
+  </li>
+  <li>
+    <p><strong>Interest to Square</strong>. You agree that you will not receive interest on or other monies derived from the funds that Square handles and places in pooled accounts. It is likely that Square will receive interest on funds held for its users. In consideration for your use of the service, and with full knowledge and understanding that Square will receive this interest, you irrevocably transfer and assign to Square all right that you may have in any interest that may accrue on funds held in pooled accounts.</p>
+  </li>
+  <li>
+    <p><strong>Transferring Money to Your Bank Account</strong></p>
+  </li>
+</ol>
+
+<p>a. <strong>Generally</strong>: You may electronically transfer funds from your Cash App to your bank account. We may limit how many transfers you can initiate from your Cash App to your bank account and how much money you can transfer in a single transaction. We reserve the right to delay or further limit such transfers while we screen for risk, or we may request you provide additional information to verify your identity.</p>
+
+<p>b. <strong>Limitations</strong>: You may not transfer funds from your Cash App to your bank account to evade a payment investigation. If you attempt to transfer your Cash App while we are conducting an investigation, we may hold your funds for up to 180 days to protect Square or a third party against the risk of reversals, chargebacks, claims, fees, fines, penalties and other liability. You will remain liable for all obligations related to your account even after the account is closed.</p>
+
+<h5 id="card-as-funding-source">2. Card as Funding Source</h5>
+
+<p>To send funds or make a payment transaction using a credit or debit card as your funding source you must have either (i) a credit card issued by a U.S.-based bank or financial institution bearing the trademark of MasterCard International Inc. (“MasterCard”), Visa Inc. (“Visa”), American Express Travel Related Payment Services Company, Inc. (“American Express”), or DFS Services, LLC (“Discover”), or (ii) a valid debit card issued by a U.S.-based bank or financial institution bearing the Visa, MasterCard or Discover logo (a credit or debit card, each a “Card”). Any such debit card is an “Eligible Debit Account” and any such credit card is an “Eligible Credit Account” (and together with an Eligible Debit Account and funds held in the Cash App, an “Eligible Transaction Account”) once you register it with your Account. You may not use prepaid cards or gift cards with the Service.</p>
+
+<p>If your credit card account number changes or your credit card expiration date changes, we may acquire that information from our financial services partner and update your account accordingly.</p>
+
+<h5 id="default-funding-sources">3. Default Funding Sources </h5>
+
+<p>When you make a Cash App payment:</p>
+
+<ol>
+  <li>If you have funds in your Cash App that can cover your full transaction, and no credit card linked, your default funding source will be the funds held in your Cash App;</li>
+  <li>If you have a credit card linked and hold funds in your Cash App that can cover your full transaction, you will be prompted to select your preferred funding source;</li>
+  <li>If the funds in your Cash App will not cover your full transaction, the Service will use the Eligible Transaction Account you have designated as your primary funding source to make the full payment.</li>
+</ol>
+
+<h5 id="limitations">4. Limitations</h5>
+
+<p>Square may limit the funding sources available for your use for a specific transaction to reduce risk.</p>
+
+<p>Each funding source will have different dispute resolution rights and procedures in the event your transaction turns out to be unsatisfactory. Your dispute resolution rights are determined by the funding source used to fund your transaction.</p>
+
+<h4 id="iv-peer-to-peer-service">IV. Peer to Peer Service</h4>
+
+<h5 id="description-of-service">1. Description Of Service</h5>
+
+<p>The peer-to-peer Service (“P2P”) allows you to transmit funds or receive funds for P2P personal, non-commercial purposes.</p>
+
+<h5 id="sending-cash">2. Sending Cash</h5>
+
+<p>Once you have registered for Cash App and have an Eligible Transaction Account you will be able to initiate funds transfers. As a party initiating a transfer (“Sender”), you will transfer funds to your selected recipient (“Recipient”) by designating the Recipient and the transfer amount to us (collectively “Payment Instructions”). Your Payment Instructions authorize us (1) to move funds from your Eligible Transaction Account and to your designated Recipient (a “Payment”). By submitting a Payment Instruction, you are also authorizing us to move money to your Eligible Transaction Account for Payments that are canceled or otherwise returned (a “Credit”).</p>
+
+<p>You understand and agree that when you initiate a Payment Instruction from an Eligible Transaction Account using the Service, the processing of the Payment Instruction will begin, and funds will leave your Eligible Transaction Account, as early as the day of the initiation of such Payment Instruction. However, we will only begin to process the requested transfer of funds to the Recipient once the Recipient has provided all required information, and you hereby authorize and direct us to retain such funds until the earlier of such time as the Recipient has provided all required information or fifteen (15) days.</p>
+
+<p>You agree that we shall incur no liability if we are unable to complete any transaction because of: (i) insufficient funds in the Eligible Transaction Account; (ii) malfunction of the Service due to circumstances beyond our control or due to circumstances that you were already aware of at the time you initiated your Payment Instruction; (iii) inaccurate or insufficient Payment Instructions; or (iv) failure of the Recipient to claim the Payment.</p>
+
+<h5 id="requesting-cash">3. Requesting Cash</h5>
+
+<p>You may also initiate a P2P request for funds to be transferred to you by designating the amount of funds requested and your selected Sender (a “Cash Request”). If the Sender approves your Cash Request, your Cash Request will become the Sender’s Payment Instructions and be processed as described in these Cash Terms.</p>
+
+<h5 id="receiving-cash">4. Receiving Cash</h5>
+
+<p>Once you have created an Account, when you receive a Cash App payment:</p>
+
+<ol>
+  <li>
+    <p>If you have turned on Cash’s capability to hold funds in the App, in-bound payments will be held in your Cash App. To transfer such funds you will have the option to:</p>
+  </li>
+  <li>keep the funds in the Cash App for future P2P or Cash for Business transactions,</li>
+  <li>deposit funds into a bank account issued by a U.S.-based bank (“Eligible Bank Account”).  By linking your bank account and using it as your deposit source, you are requesting that we settle an electronic transfer to your bank account. Square will settle these electronic transfers (via the Automated Clearing House (“ACH”) of NACHA - The Electronic Payment Association (“NACHA”)) to your linked bank account in the amount you provide. You agree that by making such requests you authorize Square to make the ACH transfer, and you will not be able to cancel the ACH transfer. Such transfer to your Eligible Bank Account via ACH will arrive within three (3) business days, or</li>
+  <li>
+    <p>if available to you, transfer the funds to your Eligible Debit Account instantly via the Service’s instant deposit feature (“Instant Deposit”), which is subject to the fee listed on the <a href="/help/us/en/article/5187#square-cash-fees">Fee Schedule</a>.</p>
+  </li>
+  <li>
+    <p>If you have not turned on Cash’s capability to hold funds in the App, you will have the option to:</p>
+  </li>
+  <li>receive funds in your Eligible Bank Account via ACH, as detailed in Section 4(a)(ii) above, which will arrive within three (3) business days, or</li>
+  <li>
+    <p>receive funds to your Eligible Debit Account via Instant Deposit.  Each Instant Deposit transfer is subject to the fee listed on the <a href="/help/us/en/article/5187#square-cash-fees">Fee Schedule</a>.</p>
+  </li>
+  <li>You may change the settings to route in-bound payments to remain in the Cash App, be transferred via ACH, or transferred via Instant Deposit in the Service’s settings.</li>
+</ol>
+
+<p>You understand and agree that there may be a delay between the time you are notified of a pending Payment Instruction and the deposit of the Payment into your Eligible Debit Account, Eligible Bank Account, or Cash App, and that you may be required to take additional steps to facilitate the deposit. You authorize us to send you emails or text messages related to any Payment directed to you.</p>
+
+<h5 id="p2p-payment-amounts">5. P2P Payment Amounts</h5>
+
+<p>Additional identification information will be required to send more than two hundred and fifty dollars ($250) in any one transaction or in multiple transactions over any rolling seven (7) day period or to receive more than one thousand dollars ($1,000) in any trailing thirty (30) day period. Senders may not send more than two thousand five hundred dollars ($2,500) in any one transaction or in multiple transactions over any rolling seven (7) day period. We may adjust these limits at any time in our reasonable discretion. Current limits are posted on our <a href="/help/us/en/article/5505">Support Center</a>.</p>
+
+<h5 id="p2p-fees">6. P2P Fees</h5>
+
+<p>There are currently no fees for sending money using an Eligible Debit Account, or funds held in the Cash App through P2P. The fee for sending money using an Eligible Credit Account through P2P is found on the <a href="/help/us/en/article/5187#square-cash-fees">Fee Schedule</a>. There are currently no fees for transferring funds into your Eligible Bank Account using ACH. The fee for transferring funds via Instant Deposit is found on the <a href="/help/us/en/article/5187#square-cash-fees">Fee Schedule</a>. We reserve the right to charge for and/or change the fees associated with use of the Service at any time subject to these Cash Terms.</p>
+
+<h5 id="p2p-payment-cancellation-stop-payment-requests-and-refused-payments">7. P2P Payment Cancellation, Stop Payment Requests and Refused Payments</h5>
+
+<p>Sender may cancel or stop a Payment Instruction at any time until the processing of the Payment Instruction to the Recipient’s Eligible Debit Account has begun. Our ability to stop a Payment Instruction or recover funds associated with an unauthorized Payment Instruction will depend on how the Payment Instruction was initiated, and whether the Payment Instruction has begun processing. Payments not claimed by a Recipient for fifteen (15) days after the processing has begun will be canceled automatically. We will attempt to return any unclaimed, refused, refunded, prohibited, or denied Payment to your Eligible Transaction Account. If we are not able to do so, we may use other reasonable means to return the Payment to you, as permitted by applicable law.</p>
+
+<h5 id="liability-for-unauthorized-p2p-transfers">8. Liability For Unauthorized P2P Transfers</h5>
+
+<ol>
+  <li>
+<strong>Unauthorized Card Transfers</strong>. We treat unauthorized P2P transfers seriously and will provide you with all the support we can to help you resolve an unauthorized P2P transfer. You should, however, follow the terms of your Card agreement and contact the issuer of the Card immediately upon becoming aware of any unauthorized transfers because if a Sender later disputes the payment, the Card issuing bank will determine whether the dispute is valid and to whom payment is due. You agree to allow Square to recover any amounts due to cover your liability. However, fraudulent transactions may result in the loss of your money with no recourse.  </li>
+  <li>
+<strong>Unauthorized Transfers from your Cash App</strong>.You agree to notify us immediately upon becoming aware of any error or omission by us related to funds held in your Cash App. When you contact us, you must provide: (i) your name; (ii) a description of the suspected error or omission, an explanation of why you believe it is an error or why you need more information; and (iii) the dollar amount of the suspected error. If you provide this information orally, we may require that you also send written notification within ten (10) business days.</li>
+</ol>
+
+<p>We will generally tell you the results of our investigation into the suspected error within ten (10) business days of receipt of your written notification (or your oral notification, if no written notification is requested). However, if necessary, we may take up to forty-five (45) days to complete our investigation. If we do so, we will provisionally credit funds to your Cash App within ten (10) business days for the amount of the suspected error. If we ask you to submit your complaint or question in writing and we do not receive it within ten (10) business days, we may not provisionally credit funds to your Cash App. We will correct any confirmed error promptly. If we determine there was no error, we will mail you a written explanation within three (3) business days of completing our investigation, and we may revoke any provisional credit provided to you. You may ask for copies of documents used in our investigation.</p>
+
+<h4 id="v-cash-card">V. Cash Card</h4>
+
+<h5 id="issuance-of-the-cash-card">1. Issuance of the Cash Card</h5>
+
+<p>Square may arrange for Sutton Bank to provide you with access to a prepaid payment card under the <a href="/legal/virtual-card-agreement">Cash App Prepaid Card Program</a> (“Cash Card”). By using the Cash Card, you also agree to the Cash App Prepaid Card Program Agreement (“Cash Card Terms”), which may be updated from time to time. For avoidance of doubt, the Cash Card Terms are between you and Sutton Bank, not Square, and in the event of any inconsistency between these Cash Terms and the Cash Card Terms, the Cash Card Terms shall govern your use of the Cash Card and your relationship with Sutton Bank.</p>
+
+<p>The Card may be issued in virtual and/or physical form. To activate the virtual card, you will need to click to access funds stored in your Cash App and toggle on the virtual card button.  To request a physical card, you need to follow in-app prompts to request a card and provide your mailing address and signature.  Prohibited signatures include, but are not limited to, those signatures that depict inappropriate subject matter, the intellectual property rights of others, or an ink-intensive design.We reserve the right to reject signatures and card applications for any reason.  Once you receive your physical card in the mail you must follow the directions in the mailing to activate your card prior to use.  Your personal identification number (“PIN”) will be the code you set as your Cash passcode, and you may reset the PIN in the Cash App. Your physical card may be cancelled, repossessed, and/or revoked at any time without prior notice at our discretion (including for depicting a prohibited signature) subject to applicable law. </p>
+
+<h5 id="using-the-cash-card">2. Using the Cash Card</h5>
+
+<p>The Cash Card is a prepaid card that can be used to make purchases with a merchant using any available amounts in your Cash App once you have activated the service. Upon activating the service, you instruct Square to use the available balance in your Cash App to load your Cash Card account for making purchases with your Cash Card. You further instruct Square to transfer the funds from your Cash App to your Cash Card account upon receipt of funds into your Cash App.</p>
+
+<h5 id="payment-transaction-limits">3. Payment Transaction Limits</h5>
+
+<p>You can only make transactions using the Cash Card to the extent that you have funds in your Cash App to support those transactions. You agree not to make a purchase or other transaction in excess of the funds available in your Cash App. If you do make a purchase or other transaction that exceeds the balance available in your Cash App, you agree that we can recover any negative balance incurred.</p>
+
+<p>If you have zero funds in your Cash App, any subsequent transaction authorizations using your funds in the Cash App will be declined. Any transaction attempted for more than the amount available in your Cash App may be declined if that merchant does not accept more than one form of payment. When you use your Cash Card to initiate a transaction at certain merchant locations, websites or mobile applications where the final purchase amount is unknown at the time of authorization, a hold may be placed on the available funds in your Cash App for transfer to the Account for an amount equal to or in excess of the final transaction amount. The funds subject to the hold will not be available to you for any other purpose until Sutton Bank informs Square that the merchant has sent the final transaction amount. Once Square receives the final transaction amount, it may take up to seven days for the hold to be removed. During that period, you will not have access to the funds subject to the hold.</p>
+
+<h5 id="access-to-physical-cash">4. Access to Physical Cash</h5>
+
+<p>You may transfer to an external bank account free of charge subject to normal processing times and withdraw physical cash from that account, as permitted by your external account. In addition, with your PIN, you may use your Csh Card to obtain cash at ATMs that display the Visa marks or at any point-of- sale (POS) devices that bear the Visa marks as permitted by the merchant and subject to your available Card Account balance, the cash access transaction limits and other terms described in the <a href="https://squareup.com/legal/cash-card-agreement">Cash Card Terms of Service</a>.</p>
+
+<h5 id="no-cash-value">5. No Cash Value</h5>
+
+<p>The Cash Card is not redeemable for cash or other cards, and cannot be resold, exchanged or transferred for value, except as required by law. Square disclaims all express or implied warranties as to the Cash Card. Except as otherwise set forth herein or required by applicable law, Square is not responsible if your Cash Card is lost, stolen, destroyed, or used without your permission.</p>
+
+<h5 id="illegal-activity">6. Illegal Activity</h5>
+
+<p>The Cash Card may not be used for any illegal activity. You agree not to use the Cash Card for Internet gambling, whether or not internet gambling is illegal in the jurisdiction in which you are located. You are liable for transactions you initiate by the use of the Cash Card, whether deemed legal or illegal.</p>
+
+<h5 id="no-right-to-stop-payment">7. No Right to Stop Payment</h5>
+
+<p>You do not have the right to stop payment on a transaction originated with the Cash Card. You are responsible for all authorized transactions initiated by use of the Cash Card.</p>
+
+<h5 id="disable-card-feature">8. “Disable Card” Feature</h5>
+
+<p>If you have misplaced your Cash Card, or you otherwise want to prevent future transactions from your Cash Card, you may disable the Cash Card with the Cash App’s “Disable Card” feature. Use of this feature will not prevent processing of pending transactions initiated prior to disabling your Cash Card. A Cash Card will only be considered “disabled” once the properly functioning Cash App has provided confirmation that the card has been disabled.</p>
+
+<p>In the event you have found your card, or otherwise want to enable a disabled Cash Card, a “disabled” Cash Card cannot be used for transactions until you have selected the Cash App’s “Enable Card” option and a properly functioning Cash App has provided confirmation that the card has been enabled. You are responsible for preventing unauthorized disabling and enabling activity on your device relating to your Cash Card. Such activity, when not authorized, may be deemed invalid in Square’s sole discretion.</p>
+
+<h5 id="request-new-card">9. Request New Card</h5>
+
+<p>If your card is lost or stolen and you want to request a new card, you should tap the virtual card in your Cash App and click “report lost card” to request a new Cash Card.</p>
+
+<h5 id="card-cancellation">10. Card Cancellation</h5>
+
+<h6 id="by-you">
+<em>By You</em>.</h6>
+
+<p>If you would like to cancel your Cash Card, contact support through your profile page in the Cash App.</p>
+
+<h6 id="by-us">
+<em>By Us</em>.</h6>
+
+<p>We will inform Sutton Bank if we determine that you are no longer eligible for your Cash Card. If you are no longer eligible for your Cash Card it may be canceled at any time without notice as detailed in Section 31 ( Cancellation and Suspension) in the Cash Card Terms and your funds will be returned to you unless they are the subject of an investigation into suspected unlawful activity, or if Square is otherwise required by law to withhold your funds.</p>
+
+<h5 id="refunds">11. Refunds</h5>
+
+<p>Refunds for Cash Card transactions will be credited to your Cash App after we receive notice from Sutton Bank of the amount of credit from refunds that is available to be returned to your Cash App.</p>
+
+<h4 id="vi-cash-for-business">VI. Cash for Business</h4>
+
+<h5 id="purchases-from-cash-for-business-sellers">1. Purchases from Cash for Business Sellers</h5>
+
+<p>Your Eligible Transaction Account or funds held in your Cash App may also be used to purchase goods and services from sellers that use Cash for Business or to make donations to charities or political campaigns who use Cash for Business (“Cash for Business Sellers”). Typically Cash for Business Sellers will be identified to you by a badge in the Service. By initiating a Payment Instruction with a Cash for Business Seller via the Service, you authorize the Cash for Business Seller to charge your Eligible Transaction Account or you authorize the Service to pull funds from your Cash App to complete the purchase or donation and you consent to sharing information from your Account with the Cash for Business Seller. In the event you are entitled to a reversal, refund, chargeback, or other adjustment associated with any purchase through the Service, you also authorize a credit to your Eligible Transaction Account or to your Cash App to accomplish that transaction.</p>
+
+<h5 id="transaction-processing-for-cash-for-business-sellers">2. Transaction Processing for Cash for Business Sellers</h5>
+
+<p>By classifying yourself as a business and signing up for Cash for Business, you are creating an account with us (a “Square Account”), and you accept and agree to <a href="/legal/ua">General Terms</a> and <a href="/legal/payment">Payment Terms</a>, subject to any amendments or modifications contained herein. We may use certain information from your Profile to create your Square Account and display such information to your customers, such as on receipts. Once you have created a Cash App account and have linked your Eligible Transaction Account, you will be able to accept debit and credit card transactions for the sale of goods and services. We will, acting on your behalf, facilitate the processing of such debit and credit card transactions. We will charge you a <a href="/help/us/en/article/5187#square-cash-fees">fee</a> for doing so. Your payments, less our fee, will be deposited to your Cash for Business Merchant’s Square Account. We may use certain information from your Profile to create your Square Account and display such information to your customers, such as on receipts. To protect the integrity of the system and reduce risk that a transaction may be reversed or charged back to your Square Account (a “Chargeback”), in some cases where we reasonably believe a Chargeback is likely, you also direct and authorize us, as your agent, to void the transaction, rather than hold funds as described in Sections 18-21 of the Payment Terms.</p>
+
+<h4 id="vii-other-legal-terms">VII. OTHER LEGAL TERMS</h4>
+
+<h5 id="invalid-payments">1. Invalid Payments</h5>
+
+<p>If you receive a Payment and we later determine in our sole discretion that the Payment was invalid for any reason, then you hereby authorize us to move funds from your Eligible Debit Account in an amount equal to the Payment.</p>
+
+<p>You agree that we will not be liable in any way for any Payments that you may receive, regardless of whether you authorized the Sender to send them to you.</p>
+
+<h5 id="limitations-on-use">2. Limitations on Use</h5>
+
+<p>You agree that you are independently responsible for complying with all applicable laws in all of your activities related to your use of the Service, and for all communications you send through the Service.</p>
+
+<p>You further agree that in connection with your use of the Services, or in the course of your interactions with Square, a user or a third party, you will not (a) use your account or the services in a manner that Square, Visa, MasterCard, American Express or Discover reasonably believe to be an abuse of the payment card system or a violation of payment card association rules, (b) provide yourself a cash advance from your credit card (or help others to do so), or (c) use the Service to make transactions for the purpose of earning rewards, perks, miles, points, etc. with your credit card.</p>
+
+<p>We reserve the right to block, refuse, or reverse any Payment, in our sole discretion. We will notify the Sender promptly if we decide to do so, but notification is not required if the Sender attempted to make a Payment prohibited by these terms or applicable law. Neither we nor third parties to whom we assign or delegate rights or responsibilities will be liable for any claims or damages resulting from Senders’ initiation of prohibited Payments. All costs for research and resolution for any misapplied, misposted or misdirected prohibited Payments will be your sole responsibility and not ours.</p>
+
+<h5 id="our-relationship-with-you">3. Our Relationship With You</h5>
+
+<p>We are an independent contractor for all purposes, except that we act as your limited agent with respect to the custody and transfer of your funds for P2P only.</p>
+
+<h5 id="referral-programs">4. Referral Programs</h5>
+
+<p>From time to time, we may offer referral programs or incentives for inviting others to use the Service (a “Referral Program”). Any bonuses or incentives under such Referral Program shall be subject to the then current Referral Program terms, if applicable, and otherwise at our sole discretion.</p>
+
+<h5 id="taxes">5. Taxes</h5>
+
+<p>As a Recipient or Cash for Business Merchant, you may be asked to provide certain information used to assist Square in complying with its obligations under the United States Internal Revenue Code and the applicable Treasury Regulations. By providing Square with this information you are certifying that the information provided is true and accurately reflective of your use of the Service. When indicating that you are a Cash for Business Merchant, you certify that such use of Cash App is to receive payment(s) that are “reportable payment transactions” as defined in Treas. Reg. § 1.6050W–1(a)(3) including, but not limited to, the payments for goods and services. When indicating that your use of the Service is “Personal” use, you certify that such use is solely for receipt of payments other than non-reportable payment transactions. For avoidance of doubt, “Personal use” allows for payment in exchange for goods and services (i.e., to pay a Cash for Business account), but does not allow for the receipt of payment for goods and services you provide others.</p>
+
+<h5 id="other-provisions">6. Other Provisions</h5>
+
+<p>These Cash Terms, along with any applicable additional terms or policies, are a complete statement of the agreement between you and Square regarding the Services.</p></div>

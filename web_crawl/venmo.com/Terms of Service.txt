@@ -1,0 +1,708 @@
+<div>
+<h3 class="text-center">User Agreement</h3>
+<div class="row">
+<div class="col-md-12">
+<p>Valid as of June 25, 2018</p>
+<p>This User Agreement (“Agreement”) is a contract between you and PayPal, Inc. (“Company”) and applies to your use of Venmo® products and services and any other Venmo® features, technologies, and/or functionalities offered by Company on our website, in the Venmo app or through any other means (the “Venmo Services”). The Venmo Services are provided to you subject to this Agreement as well as our Privacy Policy (“Privacy Policy”) which is available at>
+<a href="/legal/us-privacy-policy">https://venmo.com/legal/us-privacy-policy/</a> and is incorporated in this Agreement by this reference.</p></div></div>
+<div class="row">
+<ol class="upper-latin">
+<li>
+<p class="bold">THIRD PARTY AGREEMENTS</p>
+<p>You acknowledge and agree that this Agreement is between you and Company, not with any third party (including, but not limited to, Apple®, Google®, or any mobile carrier), and that Company is solely responsible for the Venmo Services. Your use of the Venmo Services may be subject to separate agreements you may enter into with your mobile device operating system provider (e.g., Apple, Google or Microsoft®), your mobile device manufacturer (e.g., Apple, Samsung®), your mobile service carrier (e.g., AT&amp;T® or Verizon®), and other parties involved in providing your mobile device service. Third party operating system providers such as Apple, Google, and Microsoft, your phone or other mobile device manufacturer, your wireless carrier or other network provider, any other product or service provider related to your mobile device service are collectively referred to as “Covered Third Parties.” You agree to comply with all applicable third party terms of agreement when using the Venmo Services. Company is not a party to those agreements and has no responsibility for the products and services provided by third parties.</p></li>
+<li>
+<p class="bold">VENMO SERVICE TERMS</p>
+<ol>
+<li>
+<p>Terms for Venmo Services</p>
+<p>The Venmo Services allow you to make payments to and accept payments from third parties. You may use the Venmo Services on your mobile device, or, if you are an approved merchant, you may accept Venmo payments through your mobile application or website.</p>
+<p>PayPal, Inc. is a licensed provider of money transfer services and all money transmission is provided by PayPal, Inc., pursuant to PayPal, Inc.’s licenses.</p>
+<p>See>
+<a href="/legal/us-licenses/">https://venmo.com/legal/us-licenses/</a> for additional information and for disclosures that Company is required to post by certain jurisdictions. Company has no responsibility for the actions of your transfer recipient or for the subject of the transfer. We do not guarantee the identity of any user of the Venmo Services or that a sender or a recipient can or will complete a transaction.</p>
+<ol class="lower-latin">
+<li>
+<p>Eligibility and Account Registration</p>
+<p>To be eligible to use the Venmo Services, you must be a resident of the United States, be 18 years or older, use the Venmo Services in the United States, and create an account with a cellular/wireless telephone number that you own. You may also initiate account registration by connecting with your Facebook® account, however, we will still need additional information to create your account. As further detailed in our Privacy Policy, in order to register, create and use an account, Company may require that you submit certain Personal Information (as defined in the Privacy Policy), including but not limited to your name, email address, text-enabled cellular/wireless telephone number, street address or zip code, date of birth, and social security number to Company. During the registration process, or when you access the Venmo Services from a phone, your phone’s device ID is also stored. You agree that the Personal Information you provide to Company upon registration and at all other times will be true, accurate, current and complete, and you agree to maintain and update this Personal Information with us as necessary.</p></li>
+<li>
+<p>Types of Accounts</p>
+<p>We offer two different types of accounts, personal and business accounts. You may have only one personal account. Personal accounts are for use in person-to-person transfers with friends and family, and other people whom you know. Personal accounts may also be used to make Authorized Merchant Payments as described in this Agreement. Some features of personal accounts may be limited based on how you wish to use the Venmo Services, how much you need to send or spend and what we know about you. We may require that you provide more information in order to complete a transaction. Personal accounts may not be used to receive business, commercial or merchant transactions, which includes (without limitation) paying or accepting payment from other users you do not personally know for goods or services (for example, concert tickets, electronic equipment, sneakers, a watch, or other merchandise) (“Prohibited Business Transactions”).</p>
+<p>For each business you are involved with, you may have only one business account. Business account use is limited. Business accounts must be applied for and explicitly authorized. By opening a business account and accepting the terms as outlined in this Agreement, including, but not limited to, the Rules and Restrictions for Business Accounts set forth below, you attest that neither you nor your business is establishing a business account primarily for personal, family or household purposes. We may reverse or place a hold on your transactions or place a reserve on your funds if you are in breach of this Agreement, including, but not limited to, if you are using a personal account to conduct Prohibited Business Transactions or a business account for personal, family or household purposes.</p></li>
+<li>
+<p>Identity Authentication</p>
+<p>You hereby authorize Company, directly or through third parties, to make any inquiries we consider necessary to validate your identity and/or authenticate your identity and account information and, for business accounts, your company or employer. This may include asking you for further information and/or documentation about your account usage or identity, or requiring you to take steps to confirm ownership of your email address, wireless/cellular telephone number or financial instruments, and verifying your information against third party databases or through other sources. This process is for internal verification purposes.</p></li>
+<li>
+<p>Transaction History</p>
+<p>You have the right to receive an account statement. You may view your account statement by logging into your Venmo account.</p></li>
+<li>
+<p>Sending Money</p>
+<ol class="lower-roman">
+<li>
+<p>Sending Limits</p>
+<p>We may, at our discretion, impose limits on the amount of transactions you conduct through the Venmo Services. Please see our>
+<a href="https://help.venmo.com/hc/en-us/articles/221010968">Help Center here</a> for more details on limits. If we have authenticated your identity, we may increase your transaction limits. These limits may change from time to time in Company’s sole discretion. You may not send money to your own account.</p></li>
+<li>
+<p>Default Funding Sources</p>
+<p>Your Venmo balance consists of the funds you have in your Venmo account that are available for new transactions and are not subject to pending transactions.</p>
+<p>When you make a payment through the Venmo Services, we first see if your Venmo balance can cover the transaction. You may also be able to fund payments with a bank account, debit card or credit card, designating one of these to be your primary funding source.</p>
+<p>We always use your Venmo balance first if the balance is sufficient to cover your payment. If there is not enough money available in your Venmo balance to cover the transaction, we use your designated primary funding source to make the payment in its entirety. This funding source may differ depending on the type of payment you are making.</p>
+<p>If you don’t want to use your balance, you can withdraw it at any time. If your balance is not used within 30 days we may remind you to withdraw funds or return the funds to your attached bank account.</p></li>
+<li>
+<p>Funding Source Limitations</p>
+<p>In order to manage risk, Company may limit the funding sources available for your use to fund any particular transaction. For example, we may limit your funding sources for a particular transaction to debit cards or your checking account.</p>
+<p>Please note that the various funding sources have different dispute resolution rights and procedures in the event your transaction turns out to be unsatisfactory. Your dispute resolution rights are determined by the funding source used to fund your transaction. Please see our>
+<a href="/legal/us-payment-method-rights">Help Center here</a> for more details</p></li>
+<li>
+<p>Bank Transfers</p>
+<p>When your checking account is used as your funding source, you are requesting that we initiate on your behalf an electronic transfer from your bank account. For these transactions, Company will make electronic transfers (via the Automated Clearing House (“ACH”) of NACHA - The Electronic Payment Association (“NACHA”)) from your bank account in the amount you specify. You agree that such requests constitute your authorization to Company to make the ACH transfer, and once you have provided your authorization for the transfer, you will not be able to cancel the electronic transfer and Company may resubmit any ACH debit you authorized that is returned for insufficient or uncollected funds, except as otherwise provided by NACHA’s ACH rules (collectively, the “ACH Rules”), or applicable law.</p>
+<p>IF YOU DO NOT HAVE ENOUGH IN YOUR VENMO BALANCE TO COMPLETE A VENMO TRANSACTION, YOU SHOULD CONFIRM THAT YOUR FUNDING SOURCES CONTAIN FUNDS SUFFICIENT TO COVER THE TRANSACTION BEFORE MAKING THE TRANSACTION. THIS WILL HELP YOU AVOID OVERDRAFT OR OTHER FEES YOUR FINANCIAL INSTITUTION MAY CHARGE.</p></li>
+<li>
+<p>Refused and Refunded Transactions</p>
+<p>When you send money, the recipient is not required to accept it. You agree that you will not hold Company liable for any damages resulting from a recipient’s decision not to accept a payment made through the Venmo Services.</p>
+<p>If a recipient of funds is not a Venmo user and does not register for the Venmo Services, Company will return your funds in 30 days. If the recipient does not register, set up an email address or mobile number and accept the transfer within 30 days, the transaction will be canceled. During this period, a hold will be placed on your account for the amount of the transfer and the applicable fee, if any. Once the recipient has successfully registered as a Venmo user, transfers will automatically be debited from your account and credited in the recipient’s account. We will return any unclaimed, refunded or denied payment within 30 days of the date you initiate payment. If a payment is unclaimed, denied or refunded for any reason, we will return the money to your balance or to the original funding source.</p></li>
+<li>
+<p>Debit Card Processing</p>
+<p>Company will process your debit card-funded transactions through either the debit card’s ATM debit network or the Visa/MasterCard network, as Company may elect at its discretion.</p></li>
+<li>
+<p>Credit Card Information</p>
+<p>If your credit card account number changes or your credit card expiration date changes, we may acquire that information from our financial services partner and update your account accordingly.</p></li>
+<li>
+<p>Fees for Sending Money</p>
+<p>You may use the Venmo Services for a standard 3% fee that is waived when transactions to send money are funded by Venmo balance, bank account, or debit card. The 3% fee still applies when a credit card is used to send money, but is waived for Authorized Merchant Payments. Please see>
+<a href="/about/fees/">here</a> for more information on fees. These fees may change from time to time in Company’s sole discretion. You may be subject to third party fees, such as insufficient fund fees, reversal fees, or ACH insufficient fund fees that a bank may charge if your payment is rejected.</p></li></ol></li>
+<li>
+<p>Payment Investigation</p>
+<p>Payment investigation is a process by which Company reviews certain potentially high-risk transactions. If a payment is subject to payment investigation, Company will place a hold on the payment and may provide notice to the recipient. Company will conduct a review and either clear or cancel the payment. If the payment is cleared, Company will provide notice to the recipient. Otherwise, Company will cancel the payment and the funds will be returned. Company will provide notice to you by email and/or in the account history tab of your Venmo account if the payment is canceled.</p></li>
+<li>
+<p>Risk of Reversals, Chargebacks and Claims</p>
+<p>When you receive a payment, you are liable to Company for the full amount of the payment plus any fees if the payment is later invalidated for any reason. This means that, in addition to any other liability, you will be responsible for the amount of the payment, plus applicable fees if you lose a claim or a chargeback, or if there is a reversal of the payment. If a sender of a payment later disputes the payment or files a claim for a chargeback, the debit or credit card issuer or the originating bank, not Company, will determine whether the dispute is valid and to whom payment is due. You agree to allow Company to recover any amounts due to Company by debiting your balance. If there are insufficient funds in your balance to cover your liability, you agree to reimburse Company through other means. If Company is unable to recover the funds from your primary funding source, Company may attempt to contact you, Company may recover the funds from your alternate funding sources, or may take other legal actions to collect the amount due, to the extent allowed by applicable law.</p>
+<p>IF YOU HAVE AMOUNTS DUE, YOU SHOULD CONFIRM THAT YOUR FUNDING SOURCES CONTAIN FUNDS SUFFICIENT TO COVER ANY AMOUNTS DUE. THIS WILL HELP YOU AVOID OVERDRAFT OR OTHER FEES YOUR FINANCIAL INSTITUTION MAY CHARGE.</p></li>
+<li>
+<p>Account Balances</p>
+<ol class="lower-roman">
+<li>
+<p>Balances</p>
+<p>You do not need to maintain a balance in your account in order to make payments. If you do hold a balance, Company will hold your funds separate from its corporate funds, will not use your funds for its operating expenses or any other corporate purposes, and will not voluntarily make your funds available to its creditors in the event of bankruptcy. While your funds are in our custody, Company will combine your funds with the funds of other users and place those pooled accounts in one or more bank accounts in Company’s name.</p>
+<p>Company is not a bank or other chartered depository institution. Funds held by Company or its service providers (including any bank service providers) in connection with the processing of transactions are not deposit obligations and are not insured for the benefit of the user by the Federal Deposit Insurance Corporation or any other governmental agency. Funds held in balance are an ancillary function of enabling money transmission and not for other benefit.</p></li>
+<li>
+<p>Assignment of Interest to Company</p>
+<p>You agree that you will not receive interest or other earnings on the funds that Company handles and places in pooled accounts. Company does not typically receive interest on funds held for its users. However, in consideration for your use of the service, you irrevocably transfer and assign to Company any ownership right that you may have in any interest that may accrue on funds held in pooled accounts. This assignment applies only to interest earned on your funds, and nothing in this Agreement grants Company any ownership right to the principal of the funds you maintain with Company.</p></li>
+<li>
+<p>Negative Balances</p>
+<p>If the balance in your account is negative for any reason, Company may set off the negative balance by deducting amounts you owe Company from money you receive into your account, or money you attempt to withdraw or send from your account. You agree to allow Company to recover any amounts due to Company by debiting your balance. If there are insufficient funds in your balance to cover your liability, you agree to reimburse Company through other means. If Company is unable to recover the funds from your primary funding source, Company may attempt to contact you, Company may recover the funds from your alternate funding sources, or may take other legal actions to collect the amount due, to the extent allowed by applicable law.</p></li>
+<li>
+<p>Setoff of Past Due Amounts</p>
+<p>If you have a negative balance or other past due amount to Company, Company may make attempts on your funding source to cover the amounts. If Company is unable to recover the funds from your primary funding source, Company may attempt to contact you, Company may recover the funds from your alternate funding sources, or may take other legal actions to collect any amounts that are more than 14 days past due, to the extent allowed by applicable law.</p>
+<p>IF YOU HAVE AMOUNTS PAST DUE, YOU SHOULD CONFIRM THAT YOUR FUNDING SOURCES CONTAIN FUNDS SUFFICIENT TO COVER ANY AMOUNTS PAST DUE. THIS WILL HELP YOU AVOID OVERDRAFT OR OTHER FEES YOUR FINANCIAL INSTITUTION MAY CHARGE.</p></li>
+<li>
+<p>Security Interest</p>
+<p>To secure your performance of this Agreement, you hereby grant to Company a lien on and security interest in your account and agree to execute any further documentation to perfect these Company rights.</p></li></ol></li>
+<li>
+<p>Transferring Funds out of Venmo</p>
+<ol class="lower-roman">
+<li>
+<p>Options</p>
+<p>You may transfer funds to your: (1) verified bank account using the standard transfer option or (2) eligible debit cards using the expedited transfer option. The bank that issues your debit card, not Venmo, determines whether your card is eligible for our expedited transfer option.</p></li>
+<li>
+<p>Transfer Limits</p>
+<p>We limit the amount you can transfer out of Venmo at a given time. Please see our>
+<a href="https://help.venmo.com/hc/en-us/articles/209690048">Help Center here</a> for more details.</p></li>
+<li>
+<p>Transaction Reviews</p>
+<p>We review account and transaction activity at various times, including when you initiate a transfer of funds out of Venmo. This review checks for, among other things, suspicious or illegal activity, and whether your account activity and the activity of users with whom you’ve transacted comply with this Agreement.</p>
+<p>Reviews may result in:</p>
+<ol class="no-bullets">
+<li>
+<p>(i) delayed, blocked or cancelled transfers;</p></li>
+<li>
+<p>(ii) funds being held by Venmo;</p></li>
+<li>
+<p>(iii) funds being applied to a negative Venmo account balance or used to offset loss incurred by Venmo;</p></li>
+<li>
+<p>(iv) account suspension or termination;</p></li>
+<li>
+<p>(v) funds being seized to comply with a court order, warrant or other legal process; and/or</p></li>
+<li>
+<p>(vi) funds you previously received being reversed (i.e., sent back to the sender’s Venmo balance or to the card or bank account that was used to fund the payment).</p>
+<p>Among other reasons, we may take the above actions if you knowingly or unknowingly received a payment that was made from a stolen card, compromised bank account, or compromised Venmo account, or if you conducted a Prohibited Business Transaction.</p>
+<p>In connection with our review process, you may be required to provide us with additional information and/or documentation to verify your identity. We may limit your account and your access to funds in it until verification is completed.</p>
+<p>VENMO SHOULD ONLY BE USED TO PAY OR ACCEPT PAYMENT FROM PEOPLE YOU KNOW AND TRUST. DO NOT USE VENMO TO TRANSACT WITH PEOPLE YOU DON’T KNOW, ESPECIALLY IF THE PAYMENT INVOLVES THE PURCHASE OR SALE OF A GOOD OR SERVICE. THIS IS CONSIDERED A PROBHIBITED BUSINESS TRANSACTION AND IS NOT PERMITTED UNDER THIS AGREEMENT. IF YOU USE VENMO TO CONDUCT A PROHIBITED BUSINESS TRANSACTION AND WE LATER REVERSE THE PAYMENT (WHICH COULD OCCUR IF IT IS DETERMINED THAT YOU HAVE VIOLATED THIS AGREEMENT OR IF THE PAYMENT WAS MADE USING A COMPROMISED FUNDING SOURCE OR ACCOUNT), YOU COULD LOSE BOTH THE UNDERLYING GOODS SOLD AND THE FUNDS PREVIOUSLY RECEIVED FOR THEM.</p></li></ol></li>
+<li>
+<p>Fees</p>
+<p>Venmo does not charge a fee for transfers out of Venmo using the standard transfer option (i.e., transfers using your bank account). A $0.25 fee is charged for each expedited transfer (i.e., transfers using an eligible debit card). Please see>
+<a href="/about/fees/">here</a> for more information on fees. Fees may change from time to time in our sole discretion.</p></li></ol></li>
+<li>
+<p>Closing Your Account</p>
+<ol class="lower-roman">
+<li>
+<p>How to Close Your Account</p>
+<p>As long as there are no pending or in progress transactions, you may close your account at any time. You may close your account by logging into your account from a web browser, clicking on the “Settings” tab, clicking on the “Cancel my Venmo Account” link, and then following the instructions; however, you must withdraw your balance prior to closing your account. Closing your account will cancel the Visa-branded, prepaid debit card (the “Venmo Visa Debit Card”) or the MasterCard-branded, prepaid debit card (the “Venmo MasterCard”) (each of the Venmo Mastercard or the Venmo Visa Debit Card, the “Venmo Card”) associated with your account, if any.</p></li>
+<li>
+<p>Limitations on Closing Your Account</p>
+<p>You may not close your account to evade a payment investigation. If you attempt to close your account while we are conducting an investigation, we may hold your funds for up to 180 days to protect Company or a third party against the risk of reversals, chargebacks, claims, fees, fines, penalties and other liability. You will remain liable for all obligations related to your account even after the account is closed.</p></li></ol></li>
+<li>
+<p>Item Hold</p>
+<p>Company, in its sole discretion, may place a hold on a payment you receive for a transaction when Company believes there may be a high level of risk associated with the transaction. If Company places a hold on your payment, it will show as “pending” in your Venmo account.</p>
+<ol class="lower-roman">
+<li>
+<p>Release of Item Hold</p>
+<p>Company will release the payment hold after 21 days unless we receive a dispute, claim, chargeback, or reversal on the transaction subject to the hold. Company may release the hold earlier if the sender of funds provides us confirmation, Company is able to confirm proper delivery, or Company otherwise completes its investigation.</p></li>
+<li>
+<p>Additional hold period</p>
+<p>If you receive a dispute, claim, chargeback, or reversal on the transaction subject to the item hold, Company may hold the payment in your account until the matter is resolved pursuant to this Agreement.</p></li></ol></li>
+<li>
+<p>Account Hold and Reserves</p>
+<p>For high volume accounts, including business accounts, Company may, in its sole discretion, place a reserve on funds held in your account when it believes there may be a high level of risk associated with your account. If your account is subject to a reserve, Company will provide you with notice specifying the terms of the reserve. The terms may require that a certain percentage of the amounts received into your account are held for a certain period of time, or that a certain amount of money is held in reserve, or anything else that Company determines is necessary to protect against the risk associated with your account. Company may change the terms of the reserve at any time by providing you with notice of the new terms.</p></li>
+<li>
+<p>Termination</p>
+<p>Upon termination of this Agreement for any reason, we have the right to prohibit your access to the Venmo Services, including without limitation by deactivating your username and password, and cancelling your Venmo Card (if any), and to refuse future access to the Venmo Services by you or if a business entity, its parent, affiliates or subsidiaries or its or their successors.</p></li>
+<li>
+<p>Rules and Restrictions for Personal Accounts</p>
+<p>The following Rules and Restrictions for personal accounts apply to your use of a personal account under this Agreement.</p>
+<ol class="lower-roman">
+<li>
+<p>Receiving Money</p>
+<p>Please see>
+<a href="https://help.venmo.com/hc/en-us/articles/221010968">Help Center here</a> for more details on limits, including limits on receiving and sending money. These limits may change from time to time in Company’s sole discretion.</p></li>
+<li>
+<p>Transaction Fees for Receiving Money</p>
+<p>Please see>
+<a href="/about/fees">here</a> for more details on fees. These fees may change from time to time in Company’s sole discretion.</p></li>
+<li>
+<p>Error in Receiving Money</p>
+<p>In the event of an error, you give Company permission, subject to Company’s compliance with applicable law, to make appropriate corrections by debiting or crediting your Venmo balance, or debiting or crediting your primary or alternate funding sources as applicable.</p></li>
+<li>
+<p>Account Errors</p>
+<p>If your account history shows transfers you did not make, follow the procedures outlined in Section D.11 of this Agreement.</p></li></ol></li>
+<li>
+<p>Rules and Restrictions for Business Accounts</p>
+<p>The following Rules and Restrictions for Business Accounts apply to your use of a business account under this Agreement.</p>
+<ol class="lower-roman">
+<li>
+<p>Receiving Money</p>
+<p>Except as may be otherwise provided by applicable law, there is no pre-set limit to the amount of funds you can receive using the Venmo Services. There are limits on the amount you may send using Venmo Services. There are also limits on the amount you can withdraw. Please see our>
+<a href="https://help.venmo.com/hc/en-us/articles/221010968">Help Center here</a> for more details on limits, including limits on receiving and sending money. These limits may change from time to time in Company’s sole discretion and the requirements to lift those limits may vary based on product usage.</p></li>
+<li>
+<p>Error in Receiving Money</p>
+<p>In the event of an error, you give Company permission, subject to Company’s compliance with applicable law, to make appropriate corrections by debiting or crediting your Venmo balance, or debiting or crediting your primary or alternate funding sources as applicable.</p></li>
+<li>
+<p>Credit Authorization</p>
+<p>If you open a business account, you are providing us with written instructions and authorization in accordance with the Fair Credit Reporting Act to obtain your personal and/or business credit report from a credit bureau. You are also authorizing us to obtain your personal and/or business credit report: (a) when you upgrade your personal account to a business account, or at any time we reasonably believe there may be an increased level of risk associated with your account. An increased level of risk includes, but is not limited to, a high number of chargebacks or reversals, or suspicious activity associated with your account.</p></li>
+<li>
+<p>Representations</p>
+<p>If you are a business entity, you represent that you are duly authorized to do business in the United States; and your employees, officers, representatives, and other agents accessing the Venmo Services are duly authorized to access the Venmo Services and to legally bind you to this User Agreement and all transactions conducted under your username and password.</p></li>
+<li>
+<p>Authority of Officers and Employees</p>
+<p>If you are a business entity, you agree that all officers, employees, agents, representatives and others having access to the username and/or password shall be vested by you with the authority to use the Venmo Services and to legally bind you. You shall be responsible for all actions by current and former officers, employees, agents, representatives and others, regardless of whether authorized by you, that access the Venmo Services using your username and password. YOU ASSUME THE ENTIRE RISK FOR THE FRAUDULENT, UNAUTHORIZED OR OTHERWISE IMPROPER USE OF YOUR PASSWORD. WE SHALL BE ENTITLED TO RELY ON THE GENUINENESS AND AUTHORITY OF ALL INSTRUCTIONS RECEIVED BY US WHEN ACCOMPANIED BY SUCH PASSWORD, AND TO ACT ON SUCH INSTRUCTIONS.</p></li></ol></li>
+<li>
+<p>Authorized Merchant Payments</p>
+<p>Subject to the terms of this Agreement, you may use your Venmo account to pay for goods or services only via certain mobile websites or applications offered by merchants that have been approved by Company to offer Venmo as a payment option (such payments being “Authorized Merchant Payments”). If available, the option to pay using your Venmo account will appear on an approved merchant’s mobile site or in its app as a Venmo-branded payment button offered during the checkout process or, in some cases, may appear if you first select PayPal as your payment method on the merchant’s mobile site. Payments sent via the Venmo app or Venmo.com to another Venmo user do not qualify as Authorized Merchant Payments. Similarly, if you are charged via the Venmo app or Venmo.com and accept the charge, this is not an Authorized Merchant Payment. If the option to pay using your Venmo account appears after you first select PayPal as your payment method on the merchant’s mobile site, those transactions are governed by the Venmo User Agreement, Venmo Privacy Policy and other Venmo specific terms and conditions, rather than PayPal’s terms and conditions.</p>
+<ol class="lower-roman">
+<li>
+<p>Fees for Authorized Merchant Payments</p>
+<p>While you are responsible for the amount of any Authorized Merchant Payment, Company will not charge you any fees for using your Venmo account to complete an Authorized Merchant Payment, regardless of how the payment was funded. Company may elect to implement and alter Authorized Merchant Payment fees from time to time in its sole discretion. You may be subject to third party fees, including, without limitation, insufficient fund fees, reversal fees, or ACH insufficient fund fees that a bank may charge if your Authorized Merchant Payment transaction is rejected.</p></li>
+<li>
+<p>Funding Authorized Merchant Payments</p>
+<p>Your Venmo account balance will be used to make Authorized Merchant Payments when the balance is sufficient to cover the entire payment amount. If your balance is not sufficient to cover the entire payment amount, your default backup payment method will be used to fund the entire payment amount instead. Authorized Merchant Payments will not be split between your Venmo account balance and a backup payment method. You will be asked to select a default backup payment method at the time you enable Authorized Merchant Payments. You may decline to select a default backup payment method. If your balance is insufficient to cover an Authorized Merchant Payment and you have not selected a default backup payment method, or if your backup payment method is invalid or insufficient, your transaction will be declined. You can set or change your default payment method for Authorized Merchant Payments in the Banks &amp; Cards section of your Venmo account settings.</p></li>
+<li>
+<p>Linking Your Venmo Account to an Authorized Merchant</p>
+<p>When you use Venmo to make an Authorized Merchant Payment, you may be given the option to link your Venmo account to the merchant (and if you choose, to set it as the default payment method for that merchant). Use caution when linking your Venmo account to a merchant. Once linked, that merchant will have the ability to charge your linked Venmo account for future purchases in accordance with your agreement with the merchant.</p>
+<p>By linking your Venmo account to a merchant or otherwise using Venmo to make an Authorized Merchant Payment, you authorize Company to facilitate Authorized Merchant Payments using (i) your Venmo account balance (when sufficient to cover the entire payment) and (ii) your default backup payment method (when your Venmo account balance is not sufficient to cover the entire payment).</p>
+<p>When you link your Venmo account to a merchant, you authorize the merchant to charge your Venmo account balance (and your default backup payment method when your balance is insufficient to cover the transaction amount) for all Authorized Merchant Payments made with that merchant, in accordance with your agreement with the merchant. If you no longer wish to have your Venmo account linked to a merchant (for example, you no longer wish to make purchases at a particular merchant, or you are concerned that someone may have unauthorized access to your Venmo account), you can disconnect your Venmo account from that merchant in the Connected Merchants section of your account settings via the Venmo mobile app. If you disconnect your Venmo account from a merchant, you may still owe the merchant money for the purchase or have additional obligations to the merchant for any goods or services that you receive but have not paid for.</p>
+<p>Once disconnected from a merchant, you will not be able to conduct Authorized Merchant Payments with that merchant unless you re-link your Venmo account to that merchant.</p></li>
+<li>
+<p>Logins and Security</p>
+<p>Depending on the merchant, once you’ve connected your Venmo account, you may be asked to log into Venmo and/or to provide your Touch ID or PIN (if enabled) before you will be able to complete a purchase. To enable Touch ID or PIN on iOS, go to go to Settings &gt; Touch ID &amp; PIN. To enable PIN on Android, go to Settings &gt; Security Settings.</p></li>
+<li>
+<p>Authorized Merchant Payment Limits</p>
+<p>We impose limits on the total amount of Authorized Merchant Payments you can make using your Venmo account. Please see our>
+<a href="https://help.venmo.com/hc/en-us/articles/221010968">Help Center here</a> for more details on limits. These limits may change from time to time in Company’s sole discretion.</p></li>
+<li>
+<p>Sharing Authorized Merchant Payments</p>
+<p>Authorized Merchant Payments will not be shared with others on your Venmo social feed unless you choose to share. If you elect to share an Authorized Merchant Payment and your default audience setting is public or friends, that setting will control who sees the payment. If you elect to share an Authorized Merchant Payment and your default audience setting is private, the payment will be shared with your Venmo friends. You can change your default audience setting in the privacy section of your Venmo account settings. You can change the audience setting for any Authorized Merchant Payment you have already shared by selecting it from your Venmo social feed and changing the audience setting.</p></li>
+<li>
+<p>Payment Authorizations and Processing Delays</p>
+<p>When you make an Authorized Merchant Payment, you are providing the merchant with an authorization to process your payment. Your payment will be held as pending until the merchant processes it, which may not occur immediately depending on the merchant. In such cases, your authorization will remain valid for up to thirty (30) days, and we may place a temporary hold on the funds in your Venmo account for the payment amount. In addition, for payments to certain merchants, we or the merchant may request an authorization for what is estimated to be the final payment amount. This estimate may exceed the actual payment amount. For example, a merchant may request an authorization for an estimated service fee and for a tip, and that estimate may be higher than what you ultimately pay. In such cases, we may place a temporary hold on the funds in your Venmo account for the estimated payment amount. We will release any temporarily-held funds that exceed the actual payment amount within thirty (30) days of the payment. Until released, the funds subject to any hold will not be available to you.</p></li>
+<li>
+<p>Authorized Merchant Payment Protection</p>
+<p>IMPORTANT: ONLY QUALIFYING AUTHORIZED MERCHANT PAYMENTS WILL BE ELIGIBLE FOR AUTHORIZED MERCHANT PAYMENT PROTECTION. THIS PROTECTION DOES NOT APPLY TO ANY OTHER TRANSACTION CONDUCTED USING VENMO. FOR EXAMPLE, AUTHORIZED MERCHANT PAYMENT PROTECTION WOULD NOT APPLY TO ANY PAYMENT YOU MAKE (OR CHARGE YOU ACCEPT) USING THE VENMO APP, REGARDLESS OF THE NATURE OF THE PAYMENT (OR CHARGE) OR THE RECIPIENT (OR REQUESTOR). PAYPAL PURCHASE PROTECTION DOES NOT APPLY TO AUTHORIZED MERCHANT PAYMENTS.</p>
+<p>When you make an Authorized Merchant Payment you may be covered by the Authorized Merchant Payment Protection program. When applicable, Authorized Merchant Payment Protection entitles you to reimbursement for the full purchase price of the item purchased plus the original shipping costs you paid, if any. When you submit a claim, Company determines, in its sole discretion, whether the claim qualifies for Authorized Merchant Payment Protection using the eligibility guidelines below. Company’s determination is considered final, but you may be able to appeal the decision if you have new or compelling information not available at the time of the original determination or you believe there was an error in the decision-making process.</p>
+<p>You may be required to return the item to the authorized merchant or other party specified by Company as part of the settlement of the claim. Authorized Merchant Payment Protection does not entitle you to reimbursement for return shipping costs that may be incurred.</p>
+<p>Authorized Merchant Payment Protection may apply when you encounter these specific problems with an eligible Authorized Merchant Payment transaction:</p>
+<ul>
+<li>INR (“Item Not Received”): You didn’t receive the item from the authorized merchant</li>
+<li>SNAD (“Significantly Not as Described”): You received item, but the item differs significantly from what you ordered.</li></ul>
+<p>Note that these claims are different than Unauthorized or Error claims, which are handled according to Section D.11 of this Agreement.</p>
+<p class="text-italic">Eligibility</p>
+<p>You must meet all of the following requirements in order to be eligible for protection:</p>
+<ul>
+<li>The transaction must qualify as an Authorized Merchant Payment.</li>
+<li>The Authorized Merchant Payment was made to purchase an eligible item.</li>
+<li>You have previously attempted to resolve the issue directly with the merchant.</li>
+<li>Have a Venmo account in good standing.</li>
+<li>Respond to requests for documentation and other information in a timely manner.</li>
+<li>File a dispute with Company within 180 days of the date the Authorized Merchant Payment was made.</li>
+<li>You have not received reimbursement related to the purchase from another source.</li></ul>
+<p class="text-italic">Ineligible Items</p>
+<p>Only Authorized Merchant Payments are eligible for protection. The following payment, claim and transaction types are, however, not eligible for protection under any circumstances:</p>
+<ul>
+<li>Any payment made using Venmo that does not qualify as an Authorized Merchant Payment (including, without limitation, any payment you make or charge you accept using the Venmo app or Venmo.com).</li>
+<li>Real estate, including residential property.</li>
+<li>Buying or investing in a business.</li>
+<li>Investments in gold or financial products.</li>
+<li>Donation payments.</li>
+<li>Vehicles, including, but not limited to, motor vehicles, motorcycles, caravans, aircraft and boats.</li>
+<li>Significantly Not As Described claims for custom-made items.</li>
+<li>Payments on crowdfunding platforms.</li>
+<li>Items or transaction types prohibited in this Agreement.</li>
+<li>For Item Not Received claims, items which you collect in person or arrange to be collected on your behalf, including items bought in an authorized merchant’s store location.</li>
+<li>Industrial machinery used in manufacturing.</li>
+<li>Anything purchased from, or an amount paid to, a government agency.</li>
+<li>Stored value items such as gift cards and prepaid cards.</li>
+<li>Gambling, gaming and/or any other activity with an entry fee and a prize.</li></ul>
+<p>Even if your purchase is not eligible for Authorized Merchant Payment Protection, you can try to resolve the issue directly with the authorized merchant.</p>
+<p class="text-italic">INR (Item Not Received) Claims</p>Your claim will not qualify for Authorized Merchant Payment Protection if>
+<ul>
+<li>You collect the item in person, or arrange for it to be collected on your behalf, including purchases made at an authorized merchant’s store location.</li>
+<li>Company has adequate proof from the authorized merchant indicating that the item was delivered or order was fulfilled.</li></ul>
+<p>If the merchant presents evidence that they delivered the goods to your address, Company may find in favor of the merchant even if you did not receive the goods.</p>
+<p class="text-italic">SNAD (Significantly Not as Described) Claims</p>
+<p>In order to qualify for Authorized Merchant Payment Protection as a result of a Significantly Not as Described claim, the item must be materially different from the authorized merchant’s description of the item.</p>
+<p>The following claims will qualify as a Significantly Not as Described claim:</p>
+<ul>
+<li>You received a completely different item (e.g., you purchased a book and received a DVD or an empty box).</li>
+<li>The condition of the item was misrepresented (e.g., the item was described as “new” but the item was used).</li>
+<li>The item was advertised as authentic but is not authentic (i.e., counterfeit).</li>
+<li>The item is missing major parts or features and those facts were not disclosed in the description of the item when you bought it.</li>
+<li>You purchased multiple items but order received was incomplete.</li>
+<li>The item was damaged during shipment.</li></ul>
+<p>The following claims will not qualify as a Significantly Not as Described claim:</p>
+<ul>
+<li>A defect in an item was correctly described by the authorized merchant in its description of the item.</li>
+<li>The item was properly described but you didn’t want it after you received it.</li>
+<li>The item was properly described but did not meet your expectations.</li>
+<li>The item has minor scratches and was described as “used.”</li></ul>
+<p class="text-italic">Authorized Merchant Payment Protection Claim Process</p>
+<p>If you’re unable to resolve an Authorized Merchant Payment related issue directly with an authorized merchant, you can file an Authorized Merchant Payment Protection claim with Company using the steps described below. If you do not follow these steps, your claim may be denied.</p>
+<p>Step 1: File a claim by emailing or calling an agent at 1 (855) 812-4430 within 180 days of the date you made the Authorized Merchant Payment. Please include information on the Authorized Merchant Payment you’re disputing and the reason for your claim, including: the date and amount of purchase, the authorized merchant’s name, and an explanation of your issue.</p>
+<p>Step 2: Respond to Company’s requests for documentation or other information. Company may require you to provide receipts, photographs, police reports or other documents that Company specifies. You must respond to these requests in a timely manner as requested in our correspondence.</p>
+<p>Step 3: Comply with Company’s shipping requests in a timely manner. If you file a SNAD claim Company may require you, at your expense, to ship the item back to the authorized merchant, to Company, or to a third party specified by Company and to provide proof of delivery. Proof of delivery means:</p>
+<ul>
+<li>Confirmation that can be viewed online and includes the delivery address showing at least city/state or zip code, delivery date, and the identity of the shipping company you used.</li>
+<li>For transactions that total $750 U.S. dollars or more, you must provide signature confirmation of delivery.</li></ul>
+<p>Step 4: Company will make a final decision on the claim, in its sole discretion, based on the coverage and eligibility requirements set forth above, any additional information provided during the claim process, and any other information Company deems relevant and appropriate under the circumstances. You may appeal the decision if you have new or compelling information not available at the time of the original determination or you believe there was an error in the decision-making process.</p>
+<p class="text-italic">Chargebacks</p>
+<p>You may dispute an Authorized Merchant Payment with your card issuer if you used a debit or credit card to fund your Authorized Merchant Payment. Your rights with the card issuer may be broader than those available under the Authorized Merchant Payment Protection plan and you may be able to recover amounts even if you don’t qualify for Authorized Merchant Payment Protection.</p>
+<p>You must choose to either pursue a claim with Company under the Authorized Merchant Payment Protection program or pursue a dispute with your card issuer. You cannot do both and cannot recover funds from both Company and card issuer. If you submit a claim to us and file a chargeback relating to the same transaction with your card issuer, we’ll deny and close your claim with us. Similarly, if you pursue a dispute with your card issuer, you cannot pursue a claim with us later.</p>
+<p>If you submit an Authorized Merchant Payment Protection claim with Company and we deny the claim, you can seek to pursue a dispute with your card issuer. If Company does not make a final decision on your claim until after your card issuer’s deadline for filing a dispute, and because of our delay you recover less than the full amount you would have been entitled to recover from the card issuer, we will reimburse you for the remainder of your loss minus any amount you have already recovered from the authorized merchant or your card issuer.</p>
+<p>Before filing a dispute or claim with either your card issuer or Company, you should contact the authorized merchant to attempt to resolve your issue.</p>
+<p>Other payment methods may provide you with additional protection or other benefits that you will not receive if you use your Venmo account to make a purchase. Please consider this when choosing whether to use your Venmo account for Authorized Merchant Payments.</p></li>
+<li>
+<p>Unauthorized Activity</p>
+<p>If you become aware of a payment that you did not authorize, please follow the procedures outlined in Section D.11 of this Agreement.</p></li>
+<li>
+<p>Questions</p>
+<p>If you have any questions regarding Authorized Merchant Payments, please>
+<a href="https://help.venmo.com/hc/en-us/requests/new">contact us</a>. Learn more about Authorized Merchant Payments>
+<a href="https://help.venmo.com/hc/en-us/sections/203918628">here</a>.</p></li></ol></li>
+<li>
+<p>Using Venmo with Apple’s Siri or iMessage</p>
+<p>You may use certain Venmo Services via iMessage and Siri on iPhones running iOS 10 or higher on which the Venmo app has been installed. Such use is subject to Apple’s applicable terms and conditions for use of iMessage and/or Siri and the terms of this Agreement, including, without limitation, those set forth below.</p>
+<p>If you choose to use Siri or iMessage to send payments via Venmo, you must permit Venmo to integrate with iOS, and you authorize Venmo to share some of your Venmo account data (including your friends list, list of persons you have transacted with most recently and most frequently, transaction instructions and transaction notes) with Apple to allow it to facilitate transaction requests made through Siri or iMessage on iOS. Data shared with Apple will be used pursuant to Apple’s then-current user agreements and privacy policies.</p>
+<p>You can grant or revoke Apple’s access to Venmo on iOS at any time under the “Siri” or “iMessage” settings on your iPhone.</p>
+<ol class="lower-roman">
+<li>
+<p>Using Venmo in iMessage</p>
+<p>Unlike most payments sent with Venmo, a Venmo payment sent via iMessage must be accepted by a recipient with a Venmo account before that payment can be added to the recipient’s Venmo balance. When you send a payment in iMessage, the recipient will be prompted to tap a link to accept the funds. Payment recipients do not need iOS 10 or an iPhone, but their device must have the ability to receive text messages from you and be able to access the internet. In addition, the recipient must have a Venmo account in order to accept the payment. If a recipient without a Venmo account attempts to accept funds, he or she must create a Venmo account first.</p>
+<p>When you send a payment in iMessage, the payment will leave your Venmo account immediately, but it will not be added to the recipient’s Venmo balance until he or she accepts the payment. Payments sent via iMessage will appear in your Venmo social feed.</p>
+<p>If a payment sent in iMessage is not accepted within three (3) days, it will be canceled automatically. You may cancel a payment sent via iMessage any time prior to it being accepted by going to Incomplete in the Venmo app menu, selecting the relevant payment and cancelling it.</p>
+<p>When a payment initiated via iMessage is canceled, the funds will be returned to the original funding source for the payment. If the payment was funded via your Venmo balance, the payment will be returned to your balance. If the payment was funded by a credit or debit card, the payment will be returned that card. It may take up to thirty (30) days for the returned payment to be applied by your card issuer. You can contact them directly for specific timeframes. If you funded a payment via bank account, the payment will be returned to that account. Bank transfers initiated before 7 PM Eastern Time on business days will typically be available in your bank account the next business day (Monday through Friday, excluding bank holidays). Bank transfers could be delayed or blocked if we identify an issue. You will be notified via email should this occur. Bank transfers will not be deposited on weekends or holidays.</p>
+<p>You can view the status of a payment sent via iMessage by going to Incomplete in the Venmo app menu or by tapping the payment note in iMessage.</p>
+<p>You may also initiate a charge request in iMessage. Any charge request not accepted within three (3) days will be canceled automatically.</p>
+<p>You cannot use Venmo to initiate a payment or charge request in iMessage group conversations.</p></li>
+<li>
+<p>Payments via Siri</p>
+<p>Payments sent using Siri are similar to other standard payments sent in the Venmo app. Once initiated, the payment will leave your Venmo account and be made available to the recipient as soon as you confirm the payment. You’ll also be able to see the payment in your Venmo social feed.</p>
+<p>Siri can only be used to pay or request payment from persons on your Venmo friends list, those who are Venmo friends with your Venmo friends and your “top people” on Venmo, which you can see in the Venmo app when you tap to initiate a payment. The top people may include those who are not your friends on Venmo so long as you have transacted with them previously.</p>
+<p>When initiating a Venmo payment or charge request on Siri, you must specify the name of the individual Venmo user you are seeking to pay or charge. Siri cannot be used to send payments to email addresses, phone numbers or Venmo usernames. If you’re trying to send a payment to someone that’s not showing up while using Siri, you may be asked to proceed to the Venmo app so that you can find the recipient and proceed with the transaction.</p>
+<p>To initiate a Venmo payment using Siri, please use one of the following formats: “Pay [name of friend] [amount] dollars on Venmo for [payment note],” or “Venmo [name of friend] [amount] dollars for [payment note].”</p>
+<p>Examples:</p>
+<p class="text-italic">Hey Siri, pay Keith $5 on Venmo for coffee.</p>
+<p class="text-italic">Hey Siri, Venmo Isabel $100 for groceries.</p>
+<p>Prior to completing any Venmo transaction through Siri, Siri will show you an overview of your proposed payment or request and ask you to confirm the transaction details. If everything is correct, you can say “yes” or “send” or tap send on the confirmation screen to initiate the transaction. If any details are not correct, you need to change something, or have changed your mind, you can just say “no” or tap “cancel” on the confirmation screen, Siri will discard the proposed payment or request.</p>
+<p>You can grant or revoke Siri’s access to Venmo at any time under Siri settings on your iPhone.</p>
+<p>You cannot use Venmo to initiate payments to multiple persons in a single transaction through Siri.</p></li>
+<li>
+<p>Audience Settings for Transactions in iMessage and Siri</p>
+<p>When sending or requesting a payment via iMessage, the audience setting for the transaction will be the default audience setting (public, friends or participants only) for your Venmo account. You can change your audience setting for any individual Venmo transaction while in iMessage prior to confirming and submitting your transaction details. You can also change your default audience setting in the privacy section of your Venmo account settings.</p>
+<p>When sending or requesting a payment using Siri, the audience setting for the transaction will be the default audience setting (public, friends or participants only) for your Venmo account. You will be shown your default audience setting on the confirmation screen for the transaction but you will not be able to change your audience setting during the transaction through Siri. If you want to change your default audience setting during a transaction on Siri, you will need to cancel the transaction and change your default audience setting in the privacy section of your Venmo account settings.</p>
+<p>You can change the audience setting for any Venmo transaction conducted through iMessage or Siri after it has been completed by selecting the transaction from your Venmo transaction feed and changing the audience setting for the transaction.</p></li>
+<li>
+<p>Logins and Security</p>
+<p>You must be logged into Venmo in order to access the Venmo Services using iMessage and/or Siri. If enabled, you will also need to provide Touch ID or PIN for Venmo before you will be able to complete a transaction using Siri or iMessage. To enable Touch ID or PIN for Venmo on iOS, go to Venmo Settings &gt; Touch ID &amp; PIN. Venmo transactions cannot be made from a locked iOS device.</p></li>
+<li>
+<p>Modifications; No Liability for Third Party Materials</p>
+<p>We may add, change, suspend or eliminate any or all Venmo Services available via iMessage and/or Siri at any time, with or without notice. Company has no liability or responsibility for any errors or other issues with Siri, iMessage, iOS or any other third party software, device or service that may impact your ability to use the Venmo Services.</p></li>
+<li>
+<p>Questions</p>
+<p>If you have any questions about using Venmo with iMessage and/or Siri, you can learn more>
+<a href="https://help.venmo.com/hc/en-us/sections/205529147">here</a>.</p></li></ol></li>
+<li>
+<p>Venmo Visa Debit Card</p>
+<p>THE VENMO VISA DEBIT CARD IS NO LONGER ACCEPTING APPLICATIONS. FOR THE VENMO MASTERCARD TERMS, PLEASE SEE SECTION s BELOW.</p>
+<p>As part of the Venmo Services, you may be offered the opportunity to apply for a Venmo Visa Debit Card via a designated website or the Venmo app. The Venmo Visa Debit Card is linked to your Venmo account, funded by your Venmo account balance and allows you to make purchases at merchants in the United States that accept Visa cards.</p>
+<ol class="lower-roman">
+<li>
+<p>Issuance of the Venmo Visa Debit Card</p>
+<p>The Venmo Visa Debit Card is issued by Metropolitan Commercial Bank (“MCB”) and your use of the card will be subject to MCB’s Cardholder Agreement available at>
+<a href="/legal/mcb-cardholder-agreement/">https://venmo.com/legal/mcb-cardholder-agreement/</a> (the “Venmo Visa Debit Cardholder Agreement”), as well this Agreement. The Venmo Visa Debit Cardholder Agreement is entered into by and between you and MCB. In the event of any inconsistency between this Agreement and the Venmo Visa Debit Cardholder Agreement, the Venmo Visa Debit Cardholder Agreement shall govern your use of the Venmo Visa Debit Card and your relationship with the MCB to the extent of such conflict.</p></li>
+<li>
+<p>Automatic Reloads; Authorization to Debit Your Linked Bank Account</p>
+<p>Venmo Visa Debit transactions are funded solely by your Venmo account balance. To ensure that your balance is sufficient to cover Venmo Visa Debit Card transactions, we’ll automatically add funds to (or “reload”) your Venmo balance by transferring funds from your linked bank account whenever your balance is less than the transaction amount. We cannot reload your Venmo balance using a linked credit or debit card. You cannot opt-out of automatic reloads at this time. In order to use the Venmo Visa Debit Card, you must link a bank account to allow for balance reloads.</p>
+<p>Venmo establishes a set, default amount for each reload (currently $10). The default amount (or a multiple thereof) will be transferred from your linked bank account to your Venmo balance each time a reload is required to complete a Venmo Visa Debit Card transaction. To the extent multiple reloads are required to complete a transaction, we’ll reload your Venmo balance with a multiple of the reload amount. Venmo may alter the default reload amount from time to time.</p>
+<p>For example:</p>
+<p>Single Reload - You have $0 in your Venmo balance and attempt to make a $8 Venmo Visa Debit Card purchase. The default reload amount is $10. Since the purchase amount exceeds your balance by $8, an automatic reload to your Venmo balance is triggered in the default amount of $10. This brings your account balance to $10 and allows you to complete the $8 transaction, leaving $2 in your Venmo balance. Your bank statement will show a corresponding $10 transfer to Venmo. The $2 that remains in your balance can be used for future Venmo transactions.</p>
+<p>Multiple Reloads - You have $12 in your Venmo account and attempt to make a $100 Venmo Visa Debit Card purchase. The default reload amount is $10. Since the purchase amount exceeds your current balance by $88, an automatic reload to your Venmo account is triggered. A single default reload of $10, however, would not allow you to complete the transaction. Instead, we reload a multiple of the default reload amount as necessary to complete the transaction. In this case, it would take 9 reloads of $10 to complete the transaction ($10 x 9 = $90). Venmo would combine the nine reloads into a single $90 reload, bringing your account balance to $102. This allows you to complete the $100 transaction and leaves $2 in your balance. Your bank statement will show a corresponding $90 transfer to Venmo (as the nine required reloads were combined into a single reload transaction). The $2 that remains in your balance can be used for future Venmo transactions.</p>
+<p>By using the Venmo Visa Debit Card, you hereby authorize Venmo to automatically debit your linked bank account for the default reload amount (or multiple thereof) as necessary to complete any transaction conducted using your Venmo Visa Debit Card. You further agree that once a reload transfer from your bank account has been initiated, you will not be able to cancel the transfer and that Venmo may resubmit any reload transfer that is returned for insufficient or uncollected funds, except as otherwise provided by the ACH Rules or applicable law. You may be subject to third party fees, such as insufficient fund fees, reversal fees, overdraft or other fees that a bank may charge if your reload transfer is rejected.</p>
+<p>IF YOU DO NOT HAVE ENOUGH IN YOUR VENMO BALANCE TO COMPLETE A VENMO VISA DEBIT CARD TRANSACTION, YOU SHOULD CONFIRM THAT YOUR LINKED BANK ACCOUNT CONTAINS FUNDS SUFFICIENT TO COVER THE TRANSACTION BEFORE USING YOUR VENMO VISA DEBIT CARD. THIS WILL HELP YOU AVOID OVERDRAFT OR OTHER FEES YOUR BANK MAY CHARGE.</p>
+<p>If you delete your bank account from Venmo, we will not be able to reload your Venmo account balance and any Venmo Visa Debit Card transaction that exceeds your available balance will be declined. We may disable your Venmo Visa Debit Card at the time you remove your linked bank account.</p></li>
+<li>
+<p>Venmo Visa Debit Card Limits</p>
+<p>We impose limits on the total amount of transactions you can conduct using your Venmo Visa Debit Card. Please see our>
+<a href="https://help.venmo.com/hc/en-us/articles/221010968">Help Center here</a> for more details on Venmo Visa Debit Card limits. These limits may change from time to time in Company’s sole discretion, subject to applicable law.</p></li>
+<li>
+<p>Audience Settings for Venmo Visa Debit Card Transactions</p>
+<p>When you visit the Venmo app following completion of a Venmo Visa Debit Card transaction, you will be offered the opportunity to share your transaction on the Venmo social feed. You can choose to share the transaction with all Venmo users by selecting the public audience setting or you can limit your sharing to your Venmo friends by selecting friends as the audience setting. You can change the audience setting for any Venmo Visa Debit Card transaction by selecting the transaction from your Venmo transaction feed and changing the audience setting for the transaction.</p></li>
+<li>
+<p>Privacy and Data Sharing</p></li>
+<li>By applying for and using the Venmo Visa Debit Card, you authorize Company, MCB, and their mutual service provider, Shift Financial Inc. (“Shift”) to share your Venmo account and personal information with one another as necessary to provide Venmo Visa Debit Card related services. You further authorize Company to use Venmo Visa Debit Card program related information provided by MCB (or Shift on behalf of MCB) to provide customer service, service your Venmo account and/or Venmo Visa Debit Card, investigate and act on Venmo account and/or Venmo Visa Debit Card related claims, as necessary to comply with applicable law, and as otherwise permitted by our Privacy Policy. By applying for and using the Venmo Visa Debit Card, you will also be subject to additional data sharing terms and conditions as provided for in the Venmo Visa Debit Cardholder Agreement.</li>
+<li>
+<p>Modifications</p>
+<p>We may add, change, suspend or eliminate any or all Venmo Visa Debit Card related features and services at any time, with or without notice, subject to applicable law. We may terminate your access to any or all Venmo Services, including the Venmo Visa Debit Card, in the event you violate the Venmo Visa Debit Cardholder Agreement or any other agreement in force between you and Company or its affiliates.</p></li>
+<li>
+<p>Authorized Merchant Payment Protection and Venmo Visa Debit Card Transactions</p>
+<p>Venmo Visa Debit Card transactions shall be considered Authorized Merchant Payment transactions for purposes of Venmo’s Authorized Merchant Payment Protection policy and will be eligible for coverage under the policy subject to its terms and conditions. See Section B.1.p.viii (entitled Authorized Merchant Payment Protection) for details.</p></li>
+<li>
+<p>Lost or Stolen Venmo Visa Debit Card; Unauthorized Venmo Visa Debit Card Transactions</p>
+<p>Contact Company at once if you believe your Venmo Visa Debit Card or PIN has been lost, stolen or otherwise compromised, or if you believe an electronic transfer has been made using the information from your Venmo Visa Debit Card or PIN without your permission. You can call us at 1-844-288-9628 or email us at>
+<a href="mailto:cardsupport@venmo.com">cardsupport@venmo.com</a>. You can also send a written notice to PayPal, Inc., Attn: Venmo Error Resolution Department at 222 W. Merchandise Plaza, Suite 800, Chicago, IL 60654. You can also temporarily disable your Venmo Visa Debit Card at any time from within the Venmo app. Disabling your Venmo Visa Debit Card will not impact any transactions conducted prior to the time the card was disabled. We may suspend or cancel your Venmo Visa Debit Card and/or corresponding Venmo account in the event of excessive reports of card loss or theft.</p>
+<p>Please see the Venmo Visa Debit Cardholder Agreement for additional information, including information regarding your potential liability for unauthorized transactions.</p></li>
+<li>
+<p>Venmo Visa Debit Card Identity Verification Process</p>
+<p>If you are offered the opportunity to apply for the Venmo Visa Debit Card and proceed to apply, you will be subject to MCB’s approval criteria, which includes successful identity verification. If you are unable to pass MCB’s identity verification procedures, you will not be eligible to receive a Venmo Visa Debit Card. In addition, you may be subject to separate identity verification by Company, and/or Company may suspend or terminate your access to the Venmo Services.</p></li>
+<li>
+<p>Support</p>
+<p>If you have any questions about your Venmo Visa Debit Card, you can call us at 1-844-288-9628 or email us at>
+<a href="mailto:cardsupport@venmo.com">cardsupport@venmo.com</a>.</p></li></ol></li>
+<li>
+<p>Venmo Mastercard</p>
+<p>As part of the Venmo Services, you may be offered the opportunity to apply for a Venmo Mastercard via a designated website or the Venmo app. The Venmo Mastercard is linked to your Venmo account, funded by your Venmo account balance and allows you to make purchases at merchants in the United States that accept Mastercards.</p>
+<ol class="lower-roman">
+<li>
+<p>Issuance of the Venmo Mastercard</p>
+<p>The Venmo Mastercard is issued by The Bancorp Bank (the “Bancorp Bank”) and your use of the card will be subject to the Bancorp Bank’s Venmo Mastercard Cardholder Agreement available at>
+<a href="/legal/bancorp-cardholder-agreement">https://venmo.com/legal/bancorp-cardholder-agreement</a> (the “Venmo Mastercard Cardholder Agreement”), as well this Agreement. The Venmo Mastercard Cardholder Agreement is entered into by and between you and the Bancorp Bank. In the event of any inconsistency between this Agreement and the Venmo Mastercard Cardholder Agreement, the Venmo Mastercard Cardholder Agreement shall govern your use of the Venmo Mastercard and your relationship with the Bancorp Bank to the extent of such conflict.</p></li>
+<li>
+<p>Automatic Reloads; Authorization to Debit Your Linked Funding Source</p>
+<p>Venmo Mastercard transactions are funded solely by your Venmo account balance. To ensure that your balance is sufficient to cover Venmo Mastercard transactions, we’ll automatically add funds to (or “reload”) your Venmo balance by transferring funds from your designated linked Venmo funding source (“reload source”) whenever your balance is less than the transaction amount and the reload feature is turned on. Venmo reserves the right to restrict the types of reload sources >
+<span class="text-italic">e.g.</span>, bank account, debit card, credit card) you can use to reload your Venmo Mastercard. You can toggle the reload feature ‘on’ or ‘off’ in your Venmo settings.</p>
+<p>Venmo cannot reload your Venmo balance for ATM or other cash back with purchase transactions using your Venmo Mastercard. Any use of your Venmo Mastercard to withdraw funds that exceeds your available Venmo balance will be declined.</p>
+<p>Venmo establishes a set, default amount for each reload (currently $10). Venmo may offer you the ability to select from one or more default amounts >
+<span class="text-italic">e.g.</span>, $10, $20, $50, $100, or $200) or you may be permitted to set a custom default amount. The default amount (or a multiple thereof) will be transferred from your reload source to your Venmo balance each time a reload is required to complete a Venmo Mastercard transaction. To the extent multiple reloads are required to complete a transaction, we’ll reload your Venmo balance with a multiple of the reload amount.</p>
+<p>For example:</p>
+<p>Single Reload - You have $0 in your Venmo balance and attempt to make a $8 Venmo Mastercard purchase. The default reload amount is $10. Since the purchase amount exceeds your balance by $8, an automatic reload to your Venmo balance is triggered in the default amount of $10. This brings your account balance to $10 and allows you to complete the $8 transaction, leaving $2 in your Venmo balance. Your reload source statement will show a corresponding $10 transfer to Venmo. The $2 that remains in your balance can be used for future Venmo transactions.</p>
+<p>Multiple Reloads - You have $12 in your Venmo account and attempt to make a $100 Venmo Mastercard purchase. The default reload amount is $10. Since the purchase amount exceeds your current balance by $88, an automatic reload to your Venmo account is triggered. A single default reload of $10, however, would not allow you to complete the transaction. Instead, we reload a multiple of the default reload amount as necessary to complete the transaction. In this case, it would take 9 reloads of $10 to complete the transaction ($10 x 9 = $90). Venmo would combine the nine reloads into a single $90 reload, bringing your account balance to $102. This allows you to complete the $100 transaction and leaves $2 in your balance. Your reload source statement will show a corresponding $90 transfer to Venmo (as the nine required reloads were combined into a single reload transaction). The $2 that remains in your balance can be used for future Venmo transactions.</p>
+<p>By using the Venmo Mastercard, you hereby authorize Venmo to automatically debit your reload source for the default reload amount (or multiple thereof) as necessary to complete any transaction conducted using your Venmo Mastercard. You further agree that once a reload transfer from your reload source has been initiated, you will not be able to cancel the transfer and that Venmo may resubmit any reload transfer that is returned for insufficient or uncollected funds or that is returned for any other reason, except as otherwise provided by the ACH Rules or applicable law. You may be subject to third party fees, such as insufficient fund fees, reversal fees, overdraft or other fees that a financial institution may charge if your reload transfer is rejected.</p>
+<p>IF YOU DO NOT HAVE ENOUGH IN YOUR VENMO BALANCE TO COMPLETE A VENMO MASTERCARD TRANSACTION, YOU SHOULD CONFIRM THAT YOUR RELOAD SOURCE CONTAINS FUNDS SUFFICIENT TO COVER THE TRANSACTION BEFORE USING YOUR VENMO MASTERCARD. THIS WILL HELP YOU AVOID OVERDRAFT OR OTHER FEES YOUR FINANCIAL INSTITUTION MAY CHARGE.</p>
+<p>If you delete your reload source from Venmo or turn off the reload feature, we will not be able to reload your Venmo account balance and any Venmo Mastercard transaction that exceeds your available balance will be declined.</p></li>
+<li>
+<p>Venmo Mastercard Limits</p>
+<p>We impose limits on the total amount of transactions you can conduct using your Venmo Mastercard. Please see our>
+<a href="https://help.venmo.com/hc/en-us/articles/221010968">Help Center here</a> for more details on Venmo Mastercard limits. These limits may change from time to time in Company’s sole discretion, subject to applicable law.</p></li>
+<li>
+<p>Audience Settings for Venmo Mastercard Transactions</p>
+<p>When you visit the Venmo app following completion of a Venmo Mastercard transaction, you will be offered the opportunity to share your transaction on the Venmo social feed. You can choose to share the transaction with all Venmo users by selecting the public audience setting or you can limit your sharing to your Venmo friends by selecting friends as the audience setting. You can change the audience setting for any Venmo Mastercard transaction by selecting the transaction from your Venmo transaction feed and changing the audience setting for the transaction.</p></li>
+<li>
+<p>Privacy and Data Sharing</p>
+<p>By applying for and using the Venmo Mastercard, you authorize Company and the Bancorp Bank to share your Venmo account and personal information with one another as necessary to provide Venmo Mastercard related services. You further authorize Company to use Venmo Mastercard program related information provided by the Bancorp Bank to provide customer service, service your Venmo account and/or Venmo Mastercard, investigate and act on Venmo account and/or Venmo Mastercard related claims, as necessary to comply with applicable law, and as otherwise permitted by our Privacy Policy. By applying for and using the Venmo Mastercard, you will also be subject to additional data sharing terms and conditions as provided for in the Venmo Mastercard Cardholder Agreement.</p></li>
+<li>
+<p>Modifications</p>
+<p>We may add, change, suspend or eliminate any or all Venmo Mastercard related features and services at any time, with or without notice, subject to applicable law. We may terminate your access to any or all Venmo Services, including the Venmo Mastercard, in the event you violate the Venmo Mastercard Cardholder Agreement or any other agreement in force between you and Company or its affiliates.</p></li>
+<li>
+<p>Authorized Merchant Payment Protection and Venmo Mastercard Transactions</p>
+<p>Venmo Mastercard transactions shall be considered Authorized Merchant Payment transactions for purposes of Venmo’s Authorized Merchant Payment Protection policy and will be eligible for coverage under the policy subject to its terms and conditions. See Section B.1.p.viii (entitled Authorized Merchant Payment Protection) for details.</p></li>
+<li>
+<p>Lost or Stolen Venmo Mastercard; Unauthorized Venmo Mastercard Transactions</p>
+<p>Contact Company at once if you believe your Venmo Mastercard or PIN has been lost, stolen or otherwise compromised, or if you believe an electronic transfer has been made using the information from your Venmo Mastercard or PIN without your permission. You can call us at 1-844-288-9628 or email us at>
+<a href="mailto:cardsupport@venmo.com">cardsupport@venmo.com</a>. You can also send a written notice to Venmo Card Support, 222 W. Merchandise Plaza, Suite 800, Chicago, IL 60654-1103. You can also temporarily disable your Venmo Mastercard at any time from within the Venmo app. Disabling your Venmo Mastercard will not impact any transactions conducted prior to the time the card was disabled. We may suspend or cancel your Venmo Mastercard and/or corresponding Venmo account in the event of excessive reports of card loss or theft.</p>
+<p>Please see the Venmo Mastercard Cardholder Agreement for additional information, including information regarding your potential liability for unauthorized transactions.</p></li>
+<li>
+<p>Venmo Mastercard Identity Verification Process</p>
+<p>If you are offered the opportunity to apply for the Venmo Mastercard and proceed to apply, you will be subject to the Bancorp Bank’s approval criteria, which includes successful identity verification. If you are unable to pass the Bancorp Bank’s identity verification procedures, you will not be eligible to receive a Venmo Mastercard. In addition, you may be subject to separate identity verification by Company, and/or Company may suspend or terminate your access to the Venmo Services.</p></li>
+<li>
+<p>Support</p>
+<p>If you have any questions about your Venmo Mastercard, you can call us at 1-844-288-9628 or email us at>
+<a href="mailto:cardsupport@venmo.com">cardsupport@venmo.com</a>.</p></li></ol></li></ol></li></ol></li>
+<li>
+<p>MOBILE APPLICATIONS</p>
+<ol>
+<li>
+<p>Third Party Operating System Providers, Phone Manufacturers, and Wireless Carriers</p>
+<p>The Venmo mobile application works on an application linked to a particular device and operating system, such as Apple’s iOS operating system. Company is solely responsible for providing maintenance and support services for the Venmo Services. Covered Third Parties have no obligation to provide maintenance or support services for the Venmo Services.</p>
+<p>Covered Third Parties have no warranty obligations whatsoever with respect to the Venmo Services and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure of the Venmo Services to conform to any warranty provided by Company, if any, will be Company’s sole responsibility.</p>
+<p>Company, not any Covered Third Parties, is responsible for addressing any claims relating to the Venmo Services, including, but not limited to: (i) product liability claims; (ii) any claim that the Venmo Services fail to conform to any applicable legal or regulatory requirement; (iii) claims arising under consumer protection or similar legislation; and (iv) intellectual property claims. Please see the Contact Us section below for how to contact Company.</p>
+<p>If you are using the Venmo Services on an Apple device, you acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of this Agreement, and that Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary. Such rights may also accrue to other handset manufacturers and operating systems which participate in the Services.</p></li>
+<li>
+<p>Services via SMS or Mobile Data</p>
+<p>The Venmo Services allow you to send and receive payments through your mobile phone via SMS or mobile data plan. If you use the Services on your mobile phone, you are responsible for any fees that your phone service provider charges for SMS, data services, etc. Your phone service provider is not the provider of the Venmo Services.</p></li></ol></li>
+<li>
+<p>GENERAL TERMS AND CONDITIONS.</p>
+<ol>
+<li>
+<p>Notices to You</p>
+<p>You agree that Company may provide notice to you by posting it on our website (including but not limited to our>
+<a href="/legal/us-user-agreement/">User Agreement</a>,>
+<a href="/legal/us-policy-updates/">Policy Updates</a>,>
+<a href="/legal/us-licenses/">Licenses</a>,>
+<a href="/legal/us-privacy-policy/">Privacy Policy</a> and>
+<a href="/about/security/">Security Statement</a> documents), or if we have your email address or street address, by emailing it to the email address listed in your account or mailing it to the street address listed in your account. Such notice shall be considered to be received by you within 24 hours of the time it is posted to our website or emailed to you unless we receive notice that the email was not delivered. If the notice is sent by mail, we will consider it to have been received by you three Business Days after it is sent. Company’s Business Days include all days on which the New York Federal Reserve Bank is open for business. We may also provide notice when you access the Venmo Services.</p>
+<p>You acknowledge and agree that we will provide the notice to you in accordance with our>
+<a href="/legal/us-consent/">Consent to Receive Electronic Disclosure Policy</a>. If you do not consent or at any time withdraw your consent to receive electronic notices from us, we reserve the right to close your accounts.</p></li>
+<li>
+<p>Business Days</p>
+<p>“Business Days” means Monday through Friday, excluding Holidays. “Holidays” means New Year’s Day (January 1), Birthday of Martin Luther King, Jr. (the third Monday in January), Washington’s Birthday (the third Monday in February), Memorial Day (the last Monday in May), Independence Day (July 4), Labor Day (the first Monday in September), Columbus Day (the second Monday in October), Veterans Day (November 11), Thanksgiving Day (the fourth Thursday in November) and Christmas Day (December 25).If a Holiday falls on a Saturday, Company shall observe the Holiday on the prior Friday. If the Holiday falls on a Sunday, Company shall observe the Holiday on the following Monday.</p></li>
+<li>
+<p>Notices to Company</p>
+<p>Notice to Company must be sent by postal mail to: PayPal, Inc., Attention: Legal Department, 2211 North First Street, San Jose, CA 95131.</p></li>
+<li>
+<p>Calls to You</p>
+<p>By Providing Company a telephone number (including a wireless/cellular telephone), you consent to receiving autodialed and prerecorded message calls from Company at that number should the need arise. However, we will never call you for promotional purposes.</p></li>
+<li>
+<p>Venmo Websites</p>
+<p>The Company’s Venmo websites may feature third party offers and enable product searches. Company does not warrant that product descriptions, pricing, search results, user ratings and reviews or any other content on Company websites is accurate, complete, reliable or current. This information is provided for informational purposes only and does not constitute an endorsement by Company of any product, service or vendor.</p></li>
+<li>
+<p>Intellectual Property</p>
+<p>“Venmo.com”, “Venmo”, and all related logos, products and services described in our website and mobile applications are either trademarks or registered trademarks of Company or its licensors. You may not copy, imitate or use them without Company’s prior written consent. In addition, all page headers, custom graphics, button icons, and scripts are service marks, trademarks, and/or trade dress of Company. You may not copy, imitate, or use them without our prior written consent. You may use HTML logos provided by Company through our vendor services, SMS tools, promotional tools or affiliate programs without prior written consent for the purpose of directing web and SMS traffic to the service. You may not alter, modify or change these HTML logos in any way, use them in a manner that is disparaging to Company or the Service or display them in any manner that implies Company’s sponsorship or endorsement. All right, title and interest in and to the Venmo website and any content thereon is the exclusive property of Company and its licensors.</p>
+<p>Certain other product or service names, brand names and company names may be trademarks of their respective owners.</p></li>
+<li>
+<p>Taxes</p>
+<p>It is your responsibility to determine what, if any, taxes apply to the payments you make or receive, and it is your responsibility to collect, report and remit the correct tax to the appropriate tax authority. Company is not responsible for determining whether taxes apply to your transaction, or for collecting, reporting or remitting any taxes arising from any transaction.</p></li>
+<li>
+<p>Privacy</p>
+<p>Protecting your privacy is very important to us. Please review our>
+<a href="/legal/us-privacy-policy">Privacy Policy</a> in order to better understand our commitment to maintaining your privacy, as well as our use and disclosure of your information.</p>
+<p>If you receive information about another Venmo user through the Venmo Services, you must keep the information confidential and only use it in connection with the service. You may not disclose or distribute a Venmo user’s information to a third party or use the information for marketing purposes unless you receive the user’s express consent to do so.</p></li>
+<li>
+<p>Children’s Privacy</p>
+<p>Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow anyone under 18 to register for the Venmo Services. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal or payment information to us through the Venmo Services. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at the information provided below in the “Contact Us” section.</p></li>
+<li>
+<p>Loss or Theft of Account Information, PIN, and Mobile Device</p>
+<p>If you believe that any of your Venmo account registration information, PIN or mobile device containing the Venmo App has been lost or stolen, or if your account history shows transfers that you did not make, immediately contact Company via the Contact Us information below or by email to>
+<a href="mailto:support@venmo.com">support@venmo.com.</a></p></li>
+<li>
+<p>Resolution Procedures for Unauthorized Transactions and Other Errors</p>
+<ol class="lower-latin">
+<li>
+<p>Protection for Unauthorized Transactions and Other Errors</p>
+<p>The following terms and conditions apply with respect to all Venmo Services other than the Venmo Card. For provisions regarding unauthorized Venmo Card transaction or other Venmo Card errors, please see the Venmo Visa Debit Cardholder Agreement or the Venmo Mastercard Cardholder Agreement, as applicable. You can also call us at 1-844-288-9628 or email us at cardsupport@venmo.com for Venmo Card related support.</p>
+<p>When an Unauthorized Transaction (defined below) or Other Error (defined below) occurs in your account, including Unauthorized Transactions that occur because your Venmo mobile-activated phone has been lost or stolen, Company will cover you for the full amount of every eligible Unauthorized Transaction or Other Error as long as you follow the procedures discussed below.</p>
+<p>An>
+<strong>“Unauthorized Transaction”</strong> is a type of error that occurs when money is sent from your account that you did not authorize and that did not benefit you. For example, if someone steals your password, uses the password to access your account, and sends a payment from your account, an Unauthorized Transaction has occurred. However, if you give someone access to your account (for example, by giving them your login information) and they conduct transactions without your knowledge or permission, you are responsible for any resulting use. Such transactions are not considered Unauthorized Transactions.</p>
+<p>In addition,>
+<strong>“Other Errors”</strong> occur when money is either incorrectly credited to your account or incorrectly debited from your account, or when transactions are incorrectly recorded in your account. Other Errors that are covered by Company are limited to the following events: (i) if you send a payment and we debit an incorrect amount from your account; (ii) if we credit an incorrect amount to your account; (iii) if a transaction is missing from or not properly identified in your account statement; and (iv) if there is a computational or mathematical error by Company. Routine inquiries about your balance or the status of a pending transfer into or out of your account are not considered Unauthorized Transactions or Other Errors unless you expressly notify us of an Unauthorized Transaction or Other Error in connection with the transfer. Requests for information for tax or other recordkeeping purposes and requests for duplicate documentation also are not deemed to be Unauthorized Transactions or Other Errors. You may request documentation or information regarding your account or transaction to determine whether an Unauthorized Transaction or Other Error exists by contacting us through the “Contact Us” link on the Venmo website.</p></li>
+<li>
+<p>Notification Requirements</p>
+<p>You should immediately notify Company if you believe:</p>
+<ol>
+<li>There has been an Unauthorized Transaction, unauthorized access to your account, or the occurrence of an Other Error;</li>
+<li>There is an error in your transaction history or your transaction confirmation sent to you by email;</li>
+<li>Your password has been compromised;</li>
+<li>Your Venmo mobile-activated phone has been lost, stolen or deactivated; or</li>
+<li>You need more information about a transaction listed in your transaction history or transaction confirmation email.</li></ol>
+<p>To be eligible for 100% protection for Unauthorized Transactions sent from your account, you must notify us within 60 days after any Unauthorized Transaction or Other Error first appears in your account statement. If you do not tell us within 60 days after the account statement was made available to you, you may not get back any money you lost after the 60 days if we can prove that we could have stopped someone from taking the money if you had told us in time. If a good reason (such as a long trip or a hospital stay) kept you from telling us, we will extend the time periods.</p>
+<p>You should regularly log into your account and review your transaction history to ensure that there has not been an Unauthorized Transaction or Other Error. Company will also send an email to the primary email address on file in order to notify you of each transaction from your account. You should review these emails to ensure that each transaction was authorized and is accurate.</p>
+<p>For Unauthorized Transactions or Other Errors in your account, notify us as follows:</p>
+<ol>
+<li>By writing to us through>
+<a href="https://help.venmo.com">https://help.venmo.com</a> under the “Contact Us” tab; or</li>
+<li>By emailing us at>
+<a href="mailto:support@venmo.com">support@venmo.com</a>; or</li>
+<li>By writing to PayPal, Inc., Attn: Venmo Error Resolution Department, P.O. Box 45950, Omaha, NE 68145-0950; or</li>
+<li>Telephone Venmo Customer Service at 1 (855) 812-4430.</li></ol>
+<p>When you notify us, provide us with all of the following information:</p>
+<ol>
+<li>Your name, and the email address and phone number registered to your account;</li>
+<li>A description of any suspected Unauthorized Transaction or Other Error and an explanation of why you believe it is incorrect or why you need more information to identify the transaction; and</li>
+<li>The dollar amount of any suspected Unauthorized Transaction or Other Error.</li></ol>
+<p>If you notify us orally, we may require that you send us written confirmation within 10 Business Days. During the course of our investigation, we may request additional information from you.</p></li>
+<li>
+<p>Company Actions After Receipt of your Notification</p>
+<p>Once you notify us of any suspected Unauthorized Transaction or Other Error, or we otherwise learn of one, we will do the following:</p>
+<ol>
+<li>We will conduct an investigation to determine whether there has been an Unauthorized Transaction or Other Error that is eligible for protection.</li>
+<li>We will complete our investigation within 10 Business Days of the date we received your notification of the suspected Unauthorized Transaction or Other Error. If your account is new (the first transaction from your account was less than 30 Business Days from the date you notify us), we may take up to 20 Business Days to complete this investigation. If we need more time, we may take up to 45 days to complete our investigation (or up to 90 days for new accounts).</li>
+<li>If we decide that we need more time to complete our investigation, we will provisionally credit your account for the amount of the suspected Unauthorized Transaction or Other Error. You will receive the provisional credit within 10 Business Days of the date we received your notice (or 20 Business Days for new accounts). This will allow you to have use of the money until we complete the investigation. We will notify you of the provisional credit within 2 Business Days of the crediting. If we ask you to provide written confirmation and we do not receive it within 10 Business Days (or 20 Business Days for new accounts), we will not provisionally credit your account.</li>
+<li>We will inform you of our decision within 3 Business Days after completing our investigation. If we determine that there was an error, we will promptly credit the full amount of the error into your account within 1 Business Day of our determination. Or, if you have already received a provisional credit, you will be allowed to retain those amounts.</li>
+<li>If we decide that there was not an Unauthorized Transaction or Other Error, we will include an explanation of our decision in our email or other communications to you. If you received a provisional credit, after giving you 5 Business Days advance notice of the date and amount of the debit, we will remove it from your account. You may request copies of the documents that we used in our investigation.</li></ol></li>
+<li>
+<p>Processing Errors</p>
+<p>We will rectify any processing error that we discover. If the error results in your receipt of less than the correct amount to which you are entitled, Company will credit your account for the difference. If the error results in your receipt of more than the correct amount to which you are entitled, Company will debit the extra funds from your account. If the error resulted in our not completing a transaction on time or in the correct amount, we will be liable for your losses or damages directly caused by this failure, unless: (a) through no fault of ours, you did not have enough available funds to complete the transaction, (b) our system was not working properly and you knew about the breakdown when you started the transaction, or (c) circumstances beyond our control (such as fire, flood or loss of Internet connection) prevented the transaction, despite our reasonable precautions.</p></li></ol></li>
+<li>
+<p>Restricted Activities</p>
+<p>In connection with your use of our website, your account, or the Venmo Services, or in the course of your interactions with Company, a user or a third party, you will not:</p>
+<ul>
+<li>breach this Agreement, the card processing Agreement, or any other Agreement that you have entered into with Company (including a policy);</li>
+<li>violate any law, statute, ordinance, or regulation (for example, those governing financial services, consumer protections, unfair competition, anti-discrimination or false advertising);</li>
+<li>infringe Company’s or any third party’s copyright, patent, trademark, trade secret or other intellectual property rights, or rights of publicity or privacy;</li>
+<li>act in a manner that is defamatory, trade libelous, unlawfully threatening or unlawfully harassing;</li>
+<li>provide false, inaccurate or misleading Personal Information;</li>
+<li>create more than one Venmo account for yourself, through, among other methods, using a name that is not yours, using temporary email address(es) or phone number(s), or providing any other falsified Personal Information;</li>
+<li>send or receive what we reasonably believe to be potentially fraudulent funds;</li>
+<li>refuse to cooperate in an investigation or provide confirmation of your identity or any Personal Information you provide to us;</li>
+<li>attempt to double dip during the course of a dispute by receiving or attempting to receive funds from both Company and the recipient of funds, bank, or credit card issuer for the same transaction;</li>
+<li>use an anonymizing proxy;</li>
+<li>control an account that is linked to another account that has engaged in any of these restricted activities;</li>
+<li>control or possess more than one account without authorization from Company;</li>
+<li>conduct your business or use the services in a manner that results in or may result in complaints, disputes, claims, reversals, chargebacks, fees, fines, penalties and other liability to Company, a user, a third party or you;</li>
+<li>use the Service to make transactions for the purpose of earning rewards, perks, miles, points, etc. with your credit card, debit card, or bank account;</li>
+<li>have a credit score from a credit reporting agency that indicates a high level of risk associated with your use of the services;</li>
+<li>use your account or the services in a manner that Company, Visa, MasterCard, American Express or Discover reasonably believe to be an abuse of the credit card system or a violation of credit card association rules;</li>
+<li>allow your Venmo account to have a negative balance; provide yourself a cash advance from your credit card (or help others to do so);</li>
+<li>disclose or distribute another Venmo user’s Personal Information to a third party, or use the information for marketing purposes unless you receive the user’s express consent to do so;</li>
+<li>send unsolicited email to a user or use the services to collect payments for sending, or assisting in sending, unsolicited email to third parties;</li>
+<li>take any action that imposes an unreasonable or disproportionately large load on our infrastructure;</li>
+<li>facilitate any viruses, Trojan horses, worms or other computer programming routines that may damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or information;</li>
+<li>use any robot, spider, other automatic device, or manual process to monitor or copy our website without our prior written permission;</li>
+<li>use any device, software or routine to bypass our robot exclusion headers, or interfere or attempt to interfere, with our website or the services;</li>
+<li>take any action that may cause us to lose any of the services from our internet service providers, payment processors, or other suppliers;</li>
+<li>use the Venmo Service to test credit card behaviors.</li></ul></li>
+<li>
+<p>Acceptable Use</p>
+<p>You agree you will not use the Venmo Services to violate any law, statute, ordinance, or regulation relating to sales of:</p>
+<ul>
+<li>counterfeit goods;</li>
+<li>narcotics, steroids, certain controlled substances or other products that present a risk to consumer safety;</li>
+<li>drug paraphernalia;</li>
+<li>items that encourage, promote, facilitate or instruct others to engage in illegal activity;</li>
+<li>items that promote hate, violence, racial intolerance, or the financial exploitation of a crime;</li>
+<li>items that are considered obscene;</li>
+<li>items that infringe or violate any copyright, trademark, right of publicity or privacy or any other proprietary right under the laws of any jurisdiction;</li>
+<li>certain sexually oriented materials or services;</li>
+<li>ammunition, firearms, or certain firearm parts or accessories; or</li>
+<li>certain weapons or knives regulated under applicable law;</li></ul>
+<p>You further agree that you will not use the Venmo Services to conduct transactions that:</p>
+<ul>
+<li>show the personal information of third parties in violation of applicable law;</li>
+<li>support pyramid or ponzi schemes, matrix programs, other “get rich quick” schemes or certain multi-level marketing programs;</li>
+<li>are associated with purchases of annuities or lottery contracts, lay-away systems, off-shore banking or transactions to finance or refinance debts funded by a credit card;</li>
+<li>are for the sale of certain items before the seller has control or possession of the item;</li>
+<li>are by payment processors to collect payments on behalf of merchants;</li>
+<li>are associated with the sale of traveler’s checks or money orders;</li>
+<li>involve currency exchanges or check cashing businesses or digital currencies such as bitcoins;</li>
+<li>provide certain credit repair or debt settlement services involve the sales of products or services identified by government agencies to have a high likelihood of being fraudulent;</li>
+<li>are otherwise related to illegal activity, gambling, pornography, obscene material or otherwise objectionable content or activities</li></ul>
+<p>Violating applicable laws or industry regulations regarding the sale of:</p>
+<ul>
+<li>tobacco products;</li>
+<li>prescription drugs and devices involve gambling, gaming and/or any other activity with an entry fee and a prize, including, but not limited to casino games, sports betting, horse or greyhound racing, lottery tickets, other ventures that facilitate gambling, games of skill (whether or not it is legally defined as a lottery) and sweepstakes unless the operator has obtained prior approval from Company and the operator and customers are located exclusively in jurisdictions where such activities are permitted by law; or</li>
+<li>provide certain credit repair or debt settlement services involve the sales of products or services identified by government agencies to have a high likelihood of being fraudulent.</li></ul></li>
+<li>
+<p>Legal Compliance</p>
+<p>You are solely responsible for ensuring that your use of the Venmo Services is in conformance with applicable federal, state and local laws and regulations. By using the Venmo Services, you warrant and represent that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.</p></li>
+<li>
+<p>Your Liability - Actions We May Take</p>
+<p>You are solely responsible for ensuring that your use of the Venmo Services is in conformance with applicable federal, state and local laws and regulations. By using the Venmo Services, you warrant and represent that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.</p>
+<ol class="lower-latin">
+<li>
+<p>Your Liability</p>
+<p>You are responsible for all reversals, chargebacks, claims, fees, fines, penalties and other liability incurred by Company, a Venmo user, or a third party caused by or arising out of your breach of this Agreement, and/or your use of the Venmo Services. You agree to reimburse Company, a user, or a third party for any and all such liability.</p>
+<p>You acknowledge that you are responsible for the accuracy of all payments sent using the Venmo Services, including but not limited to the accuracy of the amount paid and the recipient. Company shall not be responsible or in any way held liable due to inaccurate payments, including but not limited to sending an incorrect amount of money or sending money to an incorrect recipient.</p></li>
+<li>
+<p>Actions by Company</p>
+<p>If we have reason to believe that you have engaged in any restricted activities, made excessive or unexplainable transactions, violated any parts of this Agreement or provided any incorrect information, we may take various actions to protect Company, another Venmo user, a third party, or you from reversals, chargebacks, claims, fees, fines, penalties and any other liability. The actions we may take include but are not limited to the following:</p>
+<ul>
+<li>We may close, suspend, or limit your access to your account or the Venmo Services (such as limiting access to any of your funding sources, and your ability to send money, make withdrawals, or remove financial information);</li>
+<li>we may contact users who have sent you money, contact your bank or credit card issuer, and warn other users, law enforcement, or impacted third parties of your actions;</li>
+<li>may update inaccurate information you provided us;</li>
+<li>we may refuse to provide our Venmo Services to you in the future;</li>
+<li>we may hold your funds for up to 180 days if reasonably needed to protect against the risk of liability; and</li>
+<li>we may take legal action against you.</li></ul>
+<p>Company, in its sole discretion, reserves the right to terminate this Agreement, access to its website, or access to the Service for any reason and at any time upon notice to you and payment to you of any unrestricted funds held in custody for you.</p></li></ol></li>
+<li>
+<p>Account Closure, Termination of Service, or Limited Account Access</p>
+<p>If we limit or close your account or terminate your use of our Services for any reason, you may contact us and request restoration of access if appropriate. However, if we deem you violated this Agreement, restoration is at our sole discretion.</p>
+<p>You may stop using the Venmo Services at any time or may close your accounts by contacting us. Company, in its sole discretion, reserves the right to terminate the Venmo Services, to terminate this Agreement, or to terminate your access to the Venmo Services for any reason and at any time. If we terminate or limit your use of our Venmo Services for any reason, we will use commercially reasonable efforts to provide you with notice of our actions.</p></li>
+<li>
+<p>Policy Violation - User Fines</p>
+<p>If Company incurs any damages because you violate our policies, break any laws, or otherwise cause Company to suffer any damages or incur any expenses then we may hold your funds up to 180 days, fine you for each such violation and take legal action against you to recover additional losses, investigation costs, fines, or legal fees we may incur. You acknowledge and agree that a fine of US $2,500.00 for violations of our Agreement is presently a reasonable minimum estimate of Company’s damages, considering all currently existing circumstances, including the relationship of the sum to the range of harm to Company that reasonably could be anticipated and the anticipation that proof of actual damages may be impractical or extremely difficult. Company may deduct such fines directly from any existing balance in the offending account, or any other Venmo account you control.</p></li>
+<li>
+<p>Disputes with Company</p>
+<ol class="lower-latin">
+<li>
+<p>Dispute with Company</p>
+<p>If a dispute arises between you and Company, our goal is to learn about and address your concerns and, if we are unable to do so to your satisfaction, to provide you with a neutral and cost effective means of resolving the dispute quickly. Disputes between you and Company regarding our services may be reported by emailing us at the following email address:>
+<a href="mailto:support@venmo.com">support@venmo.com</a></p></li>
+<li>
+<p>Law and Forum for Disputes; Arbitration</p>
+<p>This User Agreement shall be governed in all respects by the laws of the State of New York, without regard to conflict of law provisions, except to the extent that federal law applies.</p>
+<p>ANY CLAIMS ARISING OUT OF, RELATING TO, OR CONNECTED WITH THIS USER AGREEMENT MUST BE ASSERTED INDIVIDUALLY IN BINDING ARBITRATION CONDUCTED BY A SINGLE ARBITRATOR WITH EXPERIENCE IN CONSUMER ONLINE PAYMENT SERVICES DISPUTES ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION (“AAA”) IN ACCORDANCE WITH ITS COMMERCIAL ARBITRATION RULES AND THE AAA SUPPLEMENTARY PROCEDURES FOR CONSUMER-RELATED DISPUTES. The forum for arbitration shall be in the city closest to your residence having a federal district courthouse. The arbitrator shall not conduct any form of class or collective arbitration nor join or consolidate claims by or for individuals. To the extent allowed by applicable law, the Arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve any dispute relating to the interpretation, applicability, enforceability or formation of this User Agreement including, but not limited to, any claim that all or any part of this User Agreement is void or voidable. Judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. For any non-frivolous claim, Company will pay the costs of the arbitration (but not your attorney fees), up to $3,000.</p>
+<p>This User Agreement and each of its parts evidence a transaction involving interstate commerce, and the United States Arbitration Act shall apply in all cases and govern the interpretation and enforcement of the arbitration rules and arbitration proceedings.</p>
+<p>There are only two exceptions to this agreement to arbitrate. First, if we reasonably believe that you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in any court of competent jurisdiction. Second, any claim of $500 or less may, at the option of the claiming party, be resolved in small claims court in New York City, New York, if the claim and the parties are within the jurisdiction of the small claims court. For these two exceptions, you agree to submit to the personal jurisdiction of the courts located within New York City, New York for the purpose of litigating such claims or disputes.</p></li>
+<li>
+<p>Waiver of Right to Jury; Class Action Waiver</p>
+<p>TO THE EXTENT ALLOWED BY LAW, YOU AGREE TO IRREVOCABLY WAIVE ANY RIGHT YOU MAY HAVE TO A TRIAL BY JURY OR OTHER COURT TRIAL (OTHER THAN SMALL CLAIMS COURT) OR TO SERVE AS A REPRESENTATIVE, AS A PRIVATE ATTORNEY GENERAL, OR IN ANY OTHER REPRESENTATIVE CAPACITY, OR TO PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS, IN ANY LAWSUIT, ARBITRATION OR OTHER PROCEEDING FILED AGAINST US AND/OR RELATED THIRD PARTIES.</p></li></ol></li>
+<li>
+<p>Liability of Company for Failure to Complete Transfers</p>
+<p>If Company does not complete a transfer to or from your account, or using your saved payment information, on time or in the correct amount according to this Agreement, Company will be liable for your losses or damages to the extent required by law. Company will not be liable:</p>
+<ul>
+<li>If, through no fault of Company’s, you do not have enough money in your balance, and Company is unable to charge the transaction to your linked credit card, for reasons including but not limited to you exceeding any applicable credit limit;</li>
+<li>the funds in your account are subject to legal process or other encumbrance restricting their use;</li>
+<li>If the Venmo Services were not working properly and you knew about the breakdown when you started the transfer;</li>
+<li>If the failure results from a failure of a financial institution that issues the credit card or debit card linked to your account, or Company is unable to access a linked credit card for any reason other than due to Company’s fault;</li>
+<li>If you provided inaccurate or incomplete information regarding the transfer;</li>
+<li>If the transfer appears suspicious, fraudulent, or unauthorized, and Company cannot confirm that it is a legitimate transfer, or if the account of either user involved in the transfer is under investigation by Company or if the transfer is or appears to be prohibited by any applicable law or rules</li></ul></li>
+<li>
+<p>Disclaimers of Warranty; Damages Exclusions</p>
+<p>Unless otherwise prohibited by law, you assume all responsibility for your use of the Venmo Services and use them at your own risk. To the fullest extent permissible under applicable law, all such representations, warranties, guarantees and conditions are disclaimed, including, but not limited to, any implied warranties of merchantability, fitness for a particular purpose, title, noninfringement of intellectual property rights, or other terms which might otherwise be implied by statute, common law or in equity. Company does not warrant that the services will be uninterrupted or error-free, that defects will be corrected, or that the services, or the servers that process information for the services, are free of viruses, bugs or other harmful components. On behalf of Company, Covered Third Parties, and each of our respective affiliates, vendors, agents and suppliers, Company makes the following disclaimers set forth in this section: the Venmo Services are provided on an>
+<strong>“as is”, “as available” and “with all faults”</strong> basis, without any representations, warranties, guarantees, or conditions of any kind, express, implied or statutory, including, but not limited to, any warranty as to the use or operation of the services, or the information, content or other materials related to the services, whether provided by Company, any third party, or any of the Covered Third Parties. Neither Company, nor any third party, nor any of the Covered Third Parties warrant nor make any representations regarding the use or the results of the services in terms of correctness, accuracy, timeliness, reliability, or otherwise. You assume the entire cost of all necessary maintenance, repair, or correction to any equipment you use in accessing any of the services, including, but not limited to, your mobile phone or other device.</p>
+<p>COMPANY IS NOT LIABLE FOR THE CONSEQUENCES OF YOU CHOOSING TO SHARE ANY PAYMENT DETAILS ON SOCIAL MEDIA OR WITHIN THE VENMO SERVICES, AND YOU AGREE TO HOLD COMPANY HARMLESS AND INDEMNIFY COMPANY FROM ANY LIABILITY arising from the actions or inactions of any external social media network in connection with the permissions you grant to the external social media network.</p>
+<p>None of Company, any third party (including, without limitation, the Bank or Shift), or the Covered Third Parties, or any of their respective affiliates, vendors, agents or suppliers will be liable for, and you agree not to seek against any of the foregoing, any damages of any kind arising from the use of the services, including, but not limited to, indirect, special, incidental, punitive, exemplary, consequential damages or damages resulting from the use of service, loss of use of the service, lost data, lost profits, or business interruption arising out of or in any way connected with the use of the services, any delays in the services, or the inability to use the services, or any portion thereof, whether based on contract, tort, negligence, strict liability or otherwise, even if all or any of us have been advised of the possibility of such damages and even if any remedy fails of its essential purpose.</p>
+<p>Company does not have any control over any products or services that are paid for with our services and Company cannot ensure that any party you are dealing with will actually complete the transaction or is authorized to do so.</p>
+<p>Company will make reasonable efforts to ensure that requests for electronic debits and credits involving bank accounts, credit cards, and check issuances are processed in a timely manner but Company makes no representations or warranties regarding the amount of time needed to complete processing because Company is dependent upon many factors outside of our control, such as delays in the banking system or the U.S. or international mail service.</p>
+<p>SOME STATES OR OTHER JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED WARRANTIES OR THE EXCLUSION OF CERTAIN DAMAGES, SO THE ABOVE DISCLAIMERS AND EXCLUSIONS MAY NOT APPLY TO YOU. YOU MAY ALSO HAVE OTHER RIGHTS THAT VARY FROM STATE TO STATE AND JURISDICTION TO JURISDICTION.</p></li>
+<li>
+<p>Limitations on Liability</p>
+<p>Except as otherwise EXPRESSLY provided in this agreement, and to the extent permissible under applicable law, Company’s cumulative liability to you for any claims or damages arising out of or related to your use of the Venmo Services shall not exceed the greater of the fee you paid to Company for the use of the Venmo Services or $1.00 USD.</p>
+<p>These limitations on liability apply to: anything related to a service or any application or content made available through any such service; and claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law. These limitations on liability also apply even if: repair, replacement or a refund for the service does not fully compensate you for any losses; or Company, any third party (including, without limitation, the Bank or Shift) or a Covered Third Party knew or should have known about the possibility of the damages.</p>
+<p>These limitations on liability will apply to the maximum extent permitted by applicable law, even if any remedy fails of its essential purpose.</p>
+<p>Some states or other jurisdictions do not allow the limitation of liability so the foregoing limitations may not apply to you. You may also have other rights that vary from state to state and jurisdiction to jurisdiction.</p></li>
+<li>
+<p>License Grant</p>
+<p>Certain of the Services require the use of software and software applications provided to you by Company (collectively “Software”). Company and its licensors grant you a limited, nonexclusive license to use Company’s Software in the United States that we provide to you solely in accordance with this Agreement and any user documentation we may provide, including all updates, upgrades, new versions and replacements of the Software (all of which become part of the “Software”) for your personal use only in accordance with this Agreement. If the Software will be downloaded to a mobile device, this license extends to your use of the Software on a device that you own or control, as long as your use is permitted by the usage rules set forth for your particular device (for example, the Apple App Store Terms of Use). You may not rent, lease or otherwise transfer your rights in the Software to a third party. You must comply with the implementation and use requirements for the Software contained in this Agreement or in any Venmo Services documentation we provide to you. If you do not comply with such implementation and use requirements, you will be liable for all resulting damages suffered by you, Company or any third parties. You agree not to alter, reproduce, adapt, distribute, display, publish, reverse engineer, translate, disassemble, decompile or otherwise attempt to create any source code which is derived from the software. You acknowledge that all rights, title and interest to Company’s software are owned by Company. Your rights to use the Software cease immediately upon termination of this Agreement and you must delete all of your copies of the Software.</p></li>
+<li>
+<p>Indemnification</p>
+<p>You agree to defend, indemnify and hold harmless Company and its parent, affiliates, officers, directors and employees from any claim or demand (including any damages, losses, expenses and attorneys fees resulting therefrom) made or incurred by any third party due to or arising out of your breach of this Agreement and/or your use of the Venmo Services.</p></li>
+<li>
+<p>Assumption of Rights</p>
+<p>If Company makes a payment to you for a claim, reversal or chargeback that you file with us against a recipient of your payment, you agree that Company assumes your rights against the recipient and third parties related to the payment, and may pursue those rights directly or on your behalf, in Company’s discretion.</p></li>
+<li>
+<p>Release of Company</p>
+<p>If you have a dispute with one or more users relating to payment, Company is not responsible for any such dispute and you hereby release Company (and our officers, directors, agents, joint ventures and employees) from any and all claims, demands and damages (actual and consequential) of every kind and nature arising out of or in any way connected with such disputes.</p></li>
+<li>
+<p>Modification of Terms</p>
+<p>We may amend this Agreement at any time by posting a revised version on our website. The revised version will be effective at the time we post it unless it contains material changes. If we make changes to our Agreements with you that either reduce your rights or increase your responsibilities, we will provide 21 days notice to you before the changes become effective. By using the Venmo Services after a new Agreement has been posted, you agree to the revised Agreement.</p></li>
+<li>
+<p>Survival</p>
+<p>In the event of termination of this Agreement or the Venmo Services, the terms in this Agreement that by their nature are continuing shall survive such termination, including but not limited to the disclaimers and limitations of liabilities.</p></li>
+<li>
+<p>Force Majeure</p>
+<p>We shall not be liable for any delay or failure in the performance or in delivery or shipment of materials, or for any damages suffered by you by reason of such delay or failures, directly or indirectly caused by or in any manner arising from or connected with acts of God, acts of public enemies, riots, strikes, acts of governmental agencies, labor difficulties, failure of our power, telecommunications or other suppliers, delays in securing or shortages of raw materials, breakdown or destruction of any system or equipment, or any other cause or causes beyond our control, whether or not similar to those enumerated herein.</p></li>
+<li>
+<p>Miscellaneous</p>
+<p>This Agreement and other documents (including but not limited to the Privacy Policy) referenced in or linked to this Agreement, which are hereby incorporated herein and made a part of this Agreement by this reference, contain yours and our entire Agreement regarding your use of the Venmo Services. If any provision of this Agreement is deemed to be illegal or unenforceable, such provision shall be enforced to the extent possible, and any remaining illegality or unenforceability will not affect the validity or enforceability of any other provisions of this Agreement, which together will be construed as if such illegal or unenforceable provision had not been included in this Agreement. Any legal action arising out of your use of the Venmo Services must be brought within one year after the cause of action has arisen. The section headings in this Agreement are for convenience of reference only and are not to be considered as parts, provisions or interpretations of this Agreement. You may not transfer or assign any rights or obligations you have under this Agreement without Company’s prior written consent. Company reserves the right to transfer or assign this Agreement or any right or obligation under this Agreement at any time. Our failure to act with respect to a breach by you or others does not waive our right to act with respect to that breach or subsequent or similar breaches.</p></li>
+<li>
+<p>Independent Contractors</p>
+<p>Independent Contractors. The parties agree they are independent contractors to each other in performing their respective obligations hereunder. Nothing in this Agreement or in the working relationship being established and developed hereunder shall be deemed or is intended to be deemed, nor shall it cause, the parties to be treated as partners, joint venturers, or otherwise as joint associates for profit.</p></li></ol></li></ol>
+<p>HOW TO CONTACT US</p>
+<p>If you have questions or concerns regarding this Agreement or your Venmo account, or any feedback that you would like us to consider, please email us at>
+<a href="mailto:legal+useragreement@venmo.com">legal+useragreement@venmo.com</a> or>
+<a href="https://help.venmo.com/hc/en-us/requests/new">click here</a>. You may also write to us at PayPal, Inc., Attn: Legal Department, 2211 North First Street, San Jose, CA 95131, or call us at 1 (855) 812-4430.</p></div></div>
