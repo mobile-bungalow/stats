@@ -95,15 +95,10 @@ reference_dict = {'terms of service':terms,
 
 #-------------- Company Groups ---------------
 
-#
-public_broadcasting = ['cbc.ca','pbs.org','bbc.co.uk','npr.org']
-
-private_broadcasting = ['foxnews.com','nbc.com','nytimes.com','huffingtonpost.com',
-'abcnews.com','usatoday.com','wsj.com','chicagotribune.com','latimes.com','newser.com',
-'drudgereport.com','time.com',]
-
-network_utilities = ['att.com','xfinity.comcast.net','centurylink.com','windstream.com','cox.com']
-
+'''
+Todo:
+    fill these lists with at least 30 files each
+'''
 
 social_media = ['facebook.com','twitter.com','instagram.com','pinterest.com',
 'reddit.com','tumblr.com','myspace.com','okcupid.com']
@@ -112,23 +107,21 @@ retail = ['amazon.com','target.com','alibaba.com','adidas.com','basspro.com',
 'barneys.com','crateandbarrel.com','safeway.com','walmart.com',
 'gap.com','dickssportinggoods.com','ikea.com','officemax.com','orientaltrading.com']
 
+geo_location = []
 
 streaming = ['spotify.com','netflix.com','syfy.com','hulu.com','pandora.com']
-
-media_hosting = ['thepiratebay.org','mega.co.nz','dropbox.com','box.com']
 
 search_engines = ['google.com','bing.com','yahoo.com','aol.com','duckduckgo.com','ask.com']
 
 banks_and_finanical = ['wellsfargo.com','chase.com','venmo.com','citizensbank.com','squareup.com']
-
-pornography = ['xhamster.com','spankbang.com','pornhub.com']
-#short because i had to scrape by hand 
 
 word_tokenizer = RegexpTokenizer(r'[\w\'.]+\w+')
 
 sent_tokenizer = RegexpTokenizer(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s')
 
 char_tokenizer = RegexpTokenizer(r'\w{1}')
+
+PAGELENGTH = 350
 
 def count_words(path):
     '''
@@ -181,74 +174,131 @@ def get_doc_type(document_name):
         if document_name in value:
             return key
 
-
 def to_path(com_list):
-    return list(['./crawl/'+f for f in com_list])
+    return list(['./web_crawl/'+f for f in com_list])
 
-'''
-for i in range(1,20000,350):
-    bar_map[i] = []
+def map_from_list(list,dict):
+    '''
+    takes a list of values and adds them to a dict
+    under the first key it is less than or equal to.
 
-tokenizer = RegexpTokenizer(r'\w+')
-chartokenizer = RegexpTokenizer(r'\w{1}')
+    for example: dict = {1:[],3:[],5:[]}
+                 list = [1,1,3,4,5]
+                 map_from_list(list,dict)
+                 >>> dict
+                 ... {1:[1,1],3:[3],5:[4,5]}
 
-for key,value in com_map.items():
-    path_list = to_path(value)
-    aggregator = []
-    numdocs = 0
-    for item in path_list:
-        files = os.listdir(item)
-        files = list([item+'/'+f for f in files])
-        for i in files:
-            temp_file = open(i,'r',encoding='utf-8')
-            html = temp_file.read()
-            temp_file.close()
-            soup = BeautifulSoup(html,"html.parser")
-            data = soup.find_all(text=True)
-            data = "".join(data)
-            words = len(tokenizer.tokenize(data))
-            if not( words == 0):
-                for k,v in bar_map.items():
-                        if words <= k:
-                            bar_map[k].append(words)
-                            break
-                aggregator.append(words)
-            numdocs +=1 
+    @param param1: a list of integer values
+    @param param2: a dict of lists with keys ranging from 0 to max(list)
+    '''
+    for list_val in list:
+        dict[math.ceil(list_val)].append(list_val)
+ 
 
-    average = np.average(aggregator)
-    var = np.var(aggregator)
-    result_map[key] = {'avg':average,'var':var, 'sample size':numdocs}
+def overall_page_distribution():
 
+    bar_graph_map = {}
+    aggr = []
 
+    #max page length found through experimentation
+    for i in range(1,62):
+        bar_graph_map[i] = []
 
-    retail_dict = result_map['retail']
+    file_list = to_path(os.listdir("./web_crawl"))
 
-    avg = retail_dict['avg']/350
-    std = math.sqrt(retail_dict['var'])/350
-    siz = retail_dict['sample size']
+    for fname in file_list:
+        contents = [fname+'/'+text_file for text_file in os.listdir(fname)]
+        page_count = [count_words(path)/PAGELENGTH for path in contents]
+        page_count = list(filter(lambda x: x != 0.0 ,page_count))
+        aggr += page_count
+        map_from_list(page_count,bar_graph_map)
     
-keys = bar_map.keys()
-values = bar_map.values()
-aggr = []
+    mean = np.average(aggr)
+    median = np.median(aggr)
+    std = np.std(aggr)
 
-for i in values:
-    aggr += i
+    keys = bar_graph_map.keys()
+    values = bar_graph_map.values()
 
-mean = np.average(list(aggr))/350
-std = np.std(aggr)/350
-median =np.median(aggr)/350
-values = [len(val) for val in values]
-x = np.arange(len(keys))
-plt.bar(x, values,color="grey")
-plt.ylabel('No. of Documents', fontsize=10)
-plt.xlabel('ARI score', fontsize=10)
-mean_patch = mpatches.Patch(color='white', label='Mean: '+str(mean))
-std_patch = mpatches.Patch(color='white', label='Median: '+str(median))
-plt.legend(handles=[mean_patch,std_patch])
-plt.xticks(x, keys, fontsize=8, rotation=75)
-plt.show()
-'''
+    values = [len(val) for val in values]
+    x = np.arange(len(keys))
+
+    plt.bar(x, values,color="black")
+    plt.ylabel('No. of Documents', fontsize=10)
+    plt.xlabel('approximate length in pages', fontsize=10)
+
+    mean_patch = mpatches.Patch(color='white', label='Mean: '+str(mean))
+    std_patch = mpatches.Patch(color='white', label='Standard Dev: '+str(std))
+    med_patch = mpatches.Patch(color='white', label='Median: '+str(median))
+
+    plt.legend(handles=[mean_patch,std_patch,med_patch])
+    plt.xticks(x, keys, fontsize=8, rotation=75)
+    plt.show()
+
+
+def calc_ari(path):
+    words = count_words(path)
+    sents = count_sentences(path)
+    chars = count_characters(path)
+    if 0 in [words,chars,sents]:
+        return 0.0
+    return 4.71*(chars/words)+0.5*(words/sents)-21.43
+
+def ari_distribution():
+    
+    bar_graph_map = {}
+    aggr = []
+
+    #max page length found through experimentation
+    for i in range(1,15):
+        bar_graph_map[i] = []
+
+    file_list = to_path(os.listdir("./web_crawl"))
+
+    for fname in file_list:
+        contents = [fname+'/'+text_file for text_file in os.listdir(fname)]
+        page_count = [calc_ari(path) for path in contents]
+        page_count = list(filter(lambda x: x > 0.0 and x <= 14 ,page_count))
+        aggr += page_count
+        map_from_list(page_count,bar_graph_map)
+    
+    mean = np.average(aggr)
+    median = np.median(aggr)
+    std = np.std(aggr)
+
+    keys = bar_graph_map.keys()
+    values = bar_graph_map.values()
+
+    values = [len(val) for val in values]
+    x = np.arange(len(keys))
+
+    plt.bar(x, values,color="grey")
+    plt.ylabel('No. of Documents', fontsize=10)
+    plt.xlabel('Automated Readbility Index', fontsize=10)
+
+    mean_patch = mpatches.Patch(color='white', label='Mean: '+str(mean))
+    std_patch = mpatches.Patch(color='white', label='Standard Dev: '+str(std))
+    med_patch = mpatches.Patch(color='white', label='Median: '+str(median))
+
+    plt.legend(handles=[mean_patch,std_patch,med_patch])
+    plt.xticks(x, keys, fontsize=8, rotation=75)
+    plt.show()
+
+def document_genre_distributions():
+    NotImplemented
+
+def document_subtypes_distributions():
+    NotImplemented
+
+def pca():
+    NotImplemented
 
 
 if __name__ == '__main__':
     print('starting document processing')
+    overall_page_distribution()
+    print('Starting ari calculation')
+    ari_distribution()
+    document_genre_distributions()
+    document_subtypes_distributions()
+    pca()
