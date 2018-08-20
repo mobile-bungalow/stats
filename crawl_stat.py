@@ -137,6 +137,29 @@ def count_words(path):
     words = len(word_tokenizer.tokenize(data))
     return words
 
+
+def count_words_if_genre(genre_name,path):
+    '''
+    @param genre_name: genre name
+    @param path:  path to html file
+    @param fname: file name to be checked for genre
+
+    @return: an integer representation of the number of words in the document,
+            if the fname cannot be found in reference_dict[genre_name], return 0.0
+    '''
+    fname = path.split('/')[3]
+    if fname in reference_dict[genre_name]:
+        f = open(path,'r',encoding="utf-8")
+        html = f.read()
+        f.close()
+        soup = BeautifulSoup(html,"html.parser")
+        data = soup.find_all(text=True)
+        data = "".join(data)
+        words = len(word_tokenizer.tokenize(data))
+        return words
+    else:
+        return 0.0
+
 def count_sentences(path):
     '''
     @param param1: file path
@@ -284,10 +307,58 @@ def ari_distribution():
     plt.xticks(x, keys, fontsize=8, rotation=75)
     plt.show()
 
-def document_genre_distributions():
-    NotImplemented
+def document_type_distributions():
+    subplot_dict = {'terms of service':{},
+                    'privacy agreement':{},
+                    'additional legal terms':{},
+                    }
+    aggr = []
 
-def document_subtypes_distributions():
+    #max page length found through experimentation
+    for k,v in subplot_dict.items():
+        for i in range(1,62):
+            subplot_dict[k][i] = []
+    
+
+    file_list = to_path(os.listdir("./web_crawl"))
+
+    index = 0
+    for j,v in subplot_dict.items():
+        plt.subplot(str(310+index))
+        index+=1    
+        for fname in file_list:
+            contents = [fname+'/'+text_file for text_file in os.listdir(fname)]
+            page_count = [count_words_if_genre(j,path)/PAGELENGTH for path in contents]
+            page_count = list(filter(lambda x: x != 0.0 ,page_count))
+            aggr += page_count
+            map_from_list(page_count,subplot_dict[j])
+        
+        mean = np.average(aggr)
+        median = np.median(aggr)
+        std = np.std(aggr)
+
+        keys = subplot_dict[j].keys()
+        values = subplot_dict[j].values()
+
+        values = [len(val) for val in values]
+        x = np.arange(len(keys))
+
+        plt.bar(x, values,color="black")
+        plt.ylabel(j, fontsize=10)
+        if index == 2:
+            plt.xlabel('approximate length in pages', fontsize=10)
+
+        mean_patch = mpatches.Patch(color='white', label='Mean: '+str(mean))
+        std_patch = mpatches.Patch(color='white', label='Standard Dev: '+str(std))
+        med_patch = mpatches.Patch(color='white', label='Median: '+str(median))
+
+        plt.legend(handles=[mean_patch,std_patch,med_patch])
+        plt.xticks(x, keys, fontsize=8, rotation=75)
+    
+    plt.show()
+            
+
+def document_genre_distributions():
     NotImplemented
 
 def pca():
@@ -299,6 +370,7 @@ if __name__ == '__main__':
     overall_page_distribution()
     print('Starting ari calculation')
     ari_distribution()
+    print('Start doc type distribution')
+    document_type_distributions()
     document_genre_distributions()
-    document_subtypes_distributions()
     pca()
