@@ -1,7 +1,7 @@
 import os
+import pickle
 import numpy as np
 import math
-import nltk
 from nltk.tokenize import RegexpTokenizer
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
@@ -114,6 +114,15 @@ streaming = ['spotify.com','netflix.com','syfy.com','hulu.com','pandora.com']
 search_engines = ['google.com','bing.com','yahoo.com','aol.com','duckduckgo.com','ask.com']
 
 banks_and_finanical = ['wellsfargo.com','chase.com','venmo.com','citizensbank.com','squareup.com']
+
+genre_dict = {
+            'social_media':social_media,
+            'retail':retail,
+            'geo_location':geo_location,
+            'search_engines':search_engines,
+            'streaming':streaming,
+            'banks_and_finanical':banks_and_finanical
+            }
 
 word_tokenizer = RegexpTokenizer(r'[\w\'.]+\w+')
 
@@ -322,6 +331,8 @@ def document_type_distributions():
 
     file_list = to_path(os.listdir("./web_crawl"))
 
+    colors = ['green','blue','red','grey']
+
     index = 0
     for j,v in subplot_dict.items():
         plt.subplot(str(310+index))
@@ -343,7 +354,7 @@ def document_type_distributions():
         values = [len(val) for val in values]
         x = np.arange(len(keys))
 
-        plt.bar(x, values,color="black")
+        plt.bar(x, values,color=colors[index])
         plt.ylabel(j, fontsize=10)
         if index == 2:
             plt.xlabel('approximate length in pages', fontsize=10)
@@ -359,7 +370,54 @@ def document_type_distributions():
             
 
 def document_genre_distributions():
-    NotImplemented
+
+    aggr = []
+
+    subplot_dict = {'social_media':{},'retail':{},'streaming':{},'geo_location':{},'search_engines':{},'banks_and_finanical':{}}
+    
+    #max page length found through experimentation
+    for k,v in subplot_dict.items():
+        for i in range(1,62):
+            subplot_dict[k][i] = []
+    
+
+    colors = ['green','blue','red','grey','orange','green','blue','grey']
+
+    index = 0
+    for j,v in subplot_dict.items():
+        plt.subplot(str(510+index))
+        index+=1
+        file_list = ['./web_crawl/'+company for company in genre_dict[j]]    
+        for fname in file_list:
+            contents = [fname+'/'+text_file for text_file in os.listdir(fname)]
+            page_count = [count_words(path)/PAGELENGTH for path in contents]
+            page_count = list(filter(lambda x: x != 0.0 ,page_count))
+            aggr += page_count
+            map_from_list(page_count,subplot_dict[j])
+        
+        mean = np.average(aggr)
+        median = np.median(aggr)
+        std = np.std(aggr)
+
+        keys = subplot_dict[j].keys()
+        values = subplot_dict[j].values()
+
+        values = [len(val) for val in values]
+        x = np.arange(len(keys))
+
+        plt.bar(x, values,color=colors[index])
+        plt.ylabel(j, fontsize=10)
+        if index == 4:
+            plt.xlabel('approximate length in pages', fontsize=10)
+
+        mean_patch = mpatches.Patch(color='white', label='Mean: '+str(mean))
+        std_patch = mpatches.Patch(color='white', label='Standard Dev: '+str(std))
+        med_patch = mpatches.Patch(color='white', label='Median: '+str(median))
+
+        plt.legend(handles=[mean_patch,std_patch,med_patch])
+        plt.xticks(x, keys, fontsize=8, rotation=75)
+    
+    plt.show()
 
 def pca():
     NotImplemented
@@ -367,10 +425,10 @@ def pca():
 
 if __name__ == '__main__':
     print('starting document processing')
-    overall_page_distribution()
+    #overall_page_distribution()
     print('Starting ari calculation')
-    ari_distribution()
+    #ari_distribution()
     print('Start doc type distribution')
-    document_type_distributions()
+    #document_type_distributions()
     document_genre_distributions()
     pca()
