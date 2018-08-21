@@ -1,5 +1,0 @@
- <p>We're sorry but this service is not available at this time.
-Please try again later.<br>
-</p>
-<p>If you need assistance, call Delta at 800-221-1212, or at the number on the back of your SkyMiles membership card.
-For non-U.S. based customers, please call the Delta Reservation Sales office for your country.</p>
