@@ -101,13 +101,14 @@ Todo:
 '''
 
 social_media = ['facebook.com','twitter.com','instagram.com','pinterest.com',
-'reddit.com','tumblr.com','myspace.com','okcupid.com']
+'reddit.com','tumblr.com','myspace.com','okcupid.com','google+.com','flickr.com',
+'snap.com','badoo.com','hi5.com','periscope.com','zoosk.com','foursquare.com','gotinder.com']
 
 retail = ['amazon.com','target.com','alibaba.com','adidas.com','basspro.com',
-'barneys.com','crateandbarrel.com','safeway.com','walmart.com',
+'barneys.com','crateandbarrel.com','safeway.com','walmart.com', 'stubhub.com',
 'gap.com','dickssportinggoods.com','ikea.com','officemax.com','orientaltrading.com']
 
-geo_location = []
+geo_location = ['foursquare.com','uber.com','gotinder.com','maps.google.com',]
 
 streaming = ['spotify.com','netflix.com','syfy.com','hulu.com','pandora.com']
 
@@ -137,7 +138,7 @@ def count_words(path):
     @param param1: path of the html file to be counted
     @return: an integer representation of the number of words in the document
     '''
-    f = open(path,'r',encoding="utf-8")
+    f = open(path,'r',encoding="utf-8", errors='ignore')
     html = f.read()
     f.close()
     soup = BeautifulSoup(html,"html.parser")
@@ -385,7 +386,7 @@ def document_genre_distributions():
 
     index = 0
     for j,v in subplot_dict.items():
-        plt.subplot(str(510+index))
+        plt.subplot(str(610+index))
         index+=1
         file_list = ['./web_crawl/'+company for company in genre_dict[j]]    
         for fname in file_list:
@@ -431,4 +432,4 @@ if __name__ == '__main__':
     print('Start doc type distribution')
     #document_type_distributions()
     document_genre_distributions()
-    pca()
+    #pca()

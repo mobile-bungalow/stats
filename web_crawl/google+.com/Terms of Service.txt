@@ -1,0 +1,90 @@
+<div class="maia-col-8">
+          <h1>
+            Google+ Pages Additional Terms of Service
+          </h1>
+          <p>
+            These Additional Terms, the <a href="//www.google.com/accounts/TOS">Google Terms of
+            Service</a> and other terms and policies referenced here, will govern your use of
+            Google+ Pages (Google+ Pages Terms). Please check from time to time for updates. Your
+            use of Google+ Pages means you have accepted the Google+ Pages Terms and your continued
+            use of Google+ Pages means you are consenting to any updates. If you do not wish to
+            agree to the Google+ Pages Terms, please do not use Google+ Pages.
+          </p>
+          <h2>
+            Authority and Access
+          </h2>
+          <p>
+            Subject to the Google+ Pages Terms, any Google+ user may create a Google+ Page, but
+            only users with authority over the subject matter may own and/or manage the Google+
+            Page. You may not share login credentials for your Page. You and Google may authorize
+            users who have authority over the subject matter to act as managers or to become an
+            owner of your Page. Any such user must accept these Additional Terms before becoming a
+            manager or owner. If you transfer ownership of your Page you will no longer be able to
+            take certain actions on the Page (for example, deleting a Page). Please see the Google+
+            Help Center for additional information on multiple managers, multiple owners and
+            transferring ownership of your Google+ Page.
+          </p>
+          <h2>
+            Content
+          </h2>
+          <p>
+            Text, images, or other content posted on Google+ Pages must comply with the <a href="content.html">Google+ User Content and Conduct Policy</a>, which are incorporated into
+            the Google+ Pages Terms. As with Google+ profiles, your Google+ Page is public to the
+            world. Google+ Pages are a type of Google+ profile, and each Google+ Page created has a
+            separate Google Account associated with it. You may select appropriate restrictions
+            (e.g. age categories) in the Google+ Pages user interface to limit interaction with
+            your Google+ Pages by signed-in Google+ users. Google reserves the right to restrict
+            the content on your Google+ Page at its discretion. Except as otherwise required by the
+            Google+ Pages Terms, you may not include terms, conditions or non-Google provided
+            technical restrictions on Google+ Pages.
+          </p>
+          <h2>
+            Data
+          </h2>
+          <p>
+            Googles use of the information you provide is described in the <a href="//www.google.com/policies/privacy/">Privacy Policy</a>. You may not do anything to
+            determine the identity of a visitor on your Google+ Page without the visitors
+            permission. Before collecting any information from a visitor, you must first obtain the
+            visitors express, prior consent, be clear that you (and not Google) are collecting the
+            information and you must post a privacy policy that complies with applicable law.
+          </p>
+          <h2>
+            Contests, Applications and Ads
+          </h2>
+          <p>
+            Any contests, sweepstakes, or similar promotion on your Google+ Page must also comply
+            with the <a href="contestspolicy.html">Google+ Pages Contest and Promotion
+            Policies</a>. You may post links to applications on Google+ Pages so long as the
+            applications comply with the <a href="//developers.google.com/+/policies">Google+
+            Platform Development Policies</a>. You may not display third party advertising on your
+            Google+ Page.
+          </p>
+          <h2>
+            Suspension and Termination
+          </h2>
+          <p>
+            Google reserves the right to block or remove Google+ Pages that violate law, third
+            party rights, the Google+ Pages Terms or if you are using Google+ Pages to violate or
+            circumvent terms or policies for other Google products or services. Repeated violations
+            of Google+ Pages Terms, may cause your Google+ account to be suspended or your entire
+            Google account to be terminated, depending on the seriousness of the violation. Google
+            may, without notice, remove your Google+ Pages if they are dormant for more than nine
+            months.
+          </p>
+          <h2>
+            Names
+          </h2>
+          <p>
+            You may choose any name for your Page so long as it complies with our <a href="/intl/en/+/policy/content.html">Google+ content policies</a>. Once you have selected a
+            Page name, you may change it up to 3 times in a calendar year. Once your Page has a
+            significant number of followers, we no longer allow a name change.
+          </p>
+          <h2>
+            Local Pages
+          </h2>
+          <p>
+            If you create, own or manage a Google+ Page in the Local Business or Place category
+            then in addition to these Additional Terms you also agree to the <a href="/intl/en/+/policy/pages-services.html">Google My Business Additional Terms</a> in
+            relation to those Google+ Pages.
+          </p>
+        </div>
