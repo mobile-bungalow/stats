@@ -95,26 +95,27 @@ reference_dict = {'terms of service':terms,
 
 #-------------- Company Groups ---------------
 
-'''
-Todo:
-    fill these lists with at least 30 files each
-'''
 
 social_media = ['facebook.com','twitter.com','instagram.com','pinterest.com',
 'reddit.com','tumblr.com','myspace.com','okcupid.com','google+.com','flickr.com',
 'snap.com','badoo.com','hi5.com','periscope.com','zoosk.com','foursquare.com','gotinder.com']
 
-retail = ['amazon.com','target.com','alibaba.com','adidas.com','basspro.com',
-'barneys.com','crateandbarrel.com','safeway.com','walmart.com', 'stubhub.com',
+retail = ['amazon.com','target.com','alibaba.com','adidas.com','basspro.com','crateandbarrel.com','safeway.com','walmart.com', 'stubhub.com',
 'gap.com','dickssportinggoods.com','ikea.com','officemax.com','orientaltrading.com']
 
-geo_location = ['foursquare.com','uber.com','gotinder.com','maps.google.com',]
+geo_location = ['foursquare.com','uber.com','gotinder.com','maps.google.com','waze.com',
+'lyft.com','grubhub.com','pokemongo.com','spothero.com','scoutapp.com','jumpbikes.com',
+]
 
-streaming = ['spotify.com','netflix.com','syfy.com','hulu.com','pandora.com']
+streaming = ['spotify.com','netflix.com','hulu.com','pandora.com',
+'amazonprimevideo.com','sling.com','tidal.com','hbo.com','slacker.com','psvue.com'
+]
 
 search_engines = ['google.com','bing.com','yahoo.com','aol.com','duckduckgo.com','ask.com']
 
-banks_and_finanical = ['wellsfargo.com','chase.com','venmo.com','citizensbank.com','squareup.com']
+banks_and_finanical = ['wellsfargo.com','chase.com','venmo.com','citizensbank.com','squareup.com',
+'paypal.com','capitalone.com','americanexpress.com','Zelle.com','googlepay.com',
+'creditcheck.experiandirect.com','creditkarma.com']
 
 genre_dict = {
             'social_media':social_media,
@@ -159,7 +160,7 @@ def count_words_if_genre(genre_name,path):
     '''
     fname = path.split('/')[3]
     if fname in reference_dict[genre_name]:
-        f = open(path,'r',encoding="utf-8")
+        f = open(path,'r',encoding="utf-8", errors='ignore')
         html = f.read()
         f.close()
         soup = BeautifulSoup(html,"html.parser")
@@ -175,7 +176,7 @@ def count_sentences(path):
     @param param1: file path
     @return: an integer representation of the number of sentences in the document
     '''
-    f = open(path,'r',encoding="utf-8")
+    f = open(path,'r',encoding="utf-8", errors='ignore')
     html = f.read()
     f.close()
     soup = BeautifulSoup(html,"html.parser")
@@ -189,7 +190,7 @@ def count_characters(path):
     @param param1: file path
     @return: an integer representation of the number of chracters in the document
     '''
-    f = open(path,'r',encoding="utf-8")
+    f = open(path,'r',encoding="utf-8", errors='ignore')
     html = f.read()
     f.close()
     soup = BeautifulSoup(html,"html.parser")
@@ -420,9 +421,48 @@ def document_genre_distributions():
     
     plt.show()
 
-def pca():
-    NotImplemented
 
+def length_from_folder_name(fname):
+    '''
+        take folder name, build path, enumerate files
+        get lengths, return dict of file lengths
+    '''
+    ret_dict = {}
+    path_name = './web_crawl/'+ fname
+    files = [path_name + '/' + f for f in os.listdir(path_name)]
+    for i in files:
+        ret_dict[i] = count_words(i)/350
+
+
+    return ret_dict
+    
+def filter_files_from_len_dict(len_dict):
+    aggr = []
+    for k,v in len_dict.items():
+        if v >= 7.50 and v <= 9.31:
+            aggr += [k]
+    
+    return aggr
+
+def generate_lists():
+    '''
+    should pump out a list of the most median documents to occur in the set.
+
+    first looking in the preselcted genre fields and try to build a list of 
+
+    15 with no more than two items from each field
+
+    '''
+
+    file_dict  = {}
+
+    for k,v in genre_dict.items():
+        file_dict[k] = []
+        for fname in v:
+            len_dict = length_from_folder_name(fname)
+            file_dict[k] += filter_files_from_len_dict(len_dict)
+
+    print(file_dict)
 
 if __name__ == '__main__':
     print('starting document processing')
@@ -431,5 +471,5 @@ if __name__ == '__main__':
     #ari_distribution()
     print('Start doc type distribution')
     #document_type_distributions()
-    document_genre_distributions()
-    #pca()
+    #document_genre_distributions()
+    generate_lists()

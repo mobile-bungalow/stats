@@ -1,0 +1,335 @@
+<div class="span12 fullPageContent">
+
+					<h1 class="pagetitle">Slacker, Inc. Terms of Use</h1>
+				<p>
+					This Slacker, Inc. Terms of Use Agreement (this "Agreement") is a legal agreement between you and Slacker, Inc. 
+					("Slacker", "we", "us" or "our") providing, among other things, the terms and conditions for your use of Slacker's 
+					basic and/or subscription music services, associated mobile applications, software and Internet services under our 
+					control, whether partial or otherwise, in connection with providing a platform for Slacker's services (collectively, 
+					the "Slacker Products and Services"), including our Web site; http://www.slacker.com (the "Site").
+				</p>
+				<p>
+					We may from time to time modify these Terms of Use and will post a copy of the amended Agreement on this page.
+					If you do not agree to, or cannot comply with, the Agreement as amended, you must stop using the Slacker Products and 
+					Services or, if applicable, cancel your subscription for Slacker Products and Services. You will be deemed to have 
+					accepted the Agreement, as it may be amended from time to time, if you continue to use any of the Slacker Products 
+					and Services after any amendments to such Agreement are posted on the Site.
+				</p>
+				<h3>
+					PARENTAL ADVISORY
+				</h3>
+				<p>
+					IF YOU ARE A USER BETWEEN THE AGES OF 13 AND 17, PLEASE REVIEW THESE TERMS OF USE WITH YOUR PARENTS. THE SLACKER 
+					PRODUCTS AND SERVICES ARE INTENDED FOR USERS WHO ARE AT LEAST 13 YEARS OF AGE OR OLDER. BECAUSE THE SLACKER PRODUCTS 
+					AND SERVICES MAY PROVIDE ACCESS TO MUSIC THAT CONTAINS EXPLICIT CONTENT INCLUDING STRONG LANGUAGE OR DEPICTIONS OF 
+					VIOLENCE, SEX OR SUBSTANCE ABUSE, PARENTAL DISCRETION IS ADVISED FOR ALL USERS AGES 13 TO 17. THIS AGREEMENT CONTAINS 
+					WARRANTY AND LIABILITY DISCLAIMERS. BY USING OR SUBSCRIBING TO THE SLACKER PRODUCTS AND SERVICES, YOU ACCEPT AND AGREE 
+					TO THE TERMS AND CONDITIONS OF THIS AGREEMENT. IN ORDER FOR YOU TO HAVE ACCESS TO THE SLACKER PRODUCTS AND SERVICES, 
+					THIS AGREEMENT MUST BE ACCEPTED BY YOU WITHOUT ANY MODIFICATIONS, ADDITIONS, OR DELETIONS. IF YOU DO NOT AGREE TO THE 
+					TERMS OF USE CONTAINED IN THIS AGREEMENT, YOU ARE NOT AUTHORIZED TO USE THE SLACKER PRODUCTS AND SERVICES. YOU MAY BE 
+					DENIED ACCESS TO THE SLACKER PRODUCTS AND SERVICES, WITH OR WITHOUT PRIOR NOTICE TO YOU, FOR NONCOMPLIANCE WITH ANY 
+					PROVISION OF THIS AGREEMENT.
+				</p>
+				<h3>
+					Your Account Information
+				</h3>
+				<p>
+					To use any aspect of the Slacker Products and Services, you may be required to register and provide certain 
+					information, including a member or user name, a password, a valid email address (the "Account Information") and 
+					your credit card information, if applicable. You agree that the Account Information and credit card information 
+					that you provide is true, accurate, current and complete information about yourself and your billing information, 
+					if applicable.
+				</p>
+				<p>
+					You may update any of your Account Information, designate a different credit card to be billed, or change the 
+					applicable expiration date on your currently designated credit card by going to the Options menu and selecting 
+					Account &gt; Manage Account. You will be asked to sign in again. Once signed in, an account summary screen is displayed. 
+					You can click the appropriate Edit button to edit Account Information. If you register for the Slacker Products and 
+					Services through a device manufacturer portal for use with a device, you are agreeing to receive at least one Slacker 
+					newsletter at the email address you provide during registration. To avoid receiving future newsletter mailings you may 
+					unsubscribe from the mailing list by clicking the "unsubscribe" link at the bottom of the Slacker Newsletter. Clicking 
+					that link will lead to the confirmation of your removal from the Slacker mailing list.
+				</p>
+				<p>
+					We understand that you care about the protection of your personal information, including your Account Information, 
+					and shall treat such information in accordance with our <a href="/privacy" data-bind="click:function () {APP.slackerVM.showStaticPage('privacy')}">Privacy Policy</a>.
+				</p>
+				<p>
+					You are solely and entirely responsible for maintaining the confidentiality of your password, and for any and all 
+					activities that occur with your account. If you believe someone has accessed any of the Slacker Products and Services 
+					using your user name and password without your authorization, it is your responsibility to set up a new password. To do 
+					this, go to the Sign In screen, click the "Forgot your Password?" link, and follow the instructions. Slacker will not be 
+					responsible for any losses arising out of the unauthorized use of your user name, password and/or account, and you agree 
+					to indemnify and hold harmless Slacker, its partners, parents, subsidiaries, agents, affiliates and/or licensors, 
+					as applicable, for any improper, unauthorized or illegal uses of the same.
+				</p>
+				<p>
+					If you own a Slacker Portable Radio Player, you agree that in connection with use of the Wi-Fi capability therein that 
+					you accept the terms of service of any service provider of such Wi-Fi service and further authorize Slacker to accept 
+					such terms on your behalf. Slacker will not be responsible for any losses arising out of your use of any Wi-Fi service 
+					or your violation of any Wi-Fi terms of service.
+				</p>
+				<h3>
+					Privacy Policy
+				</h3>
+				<p>
+					Unless otherwise addressed in this Agreement, the Slacker Products and Services are subject to Slacker's Privacy 
+					Policy which can be found here: <a href="/privacy" data-bind="click:function () {APP.slackerVM.showStaticPage('privacy')}">Privacy Policy</a>, and by reference is made a part of this 
+					Agreement. It is important 
+					that you read and understand the terms of Slacker's Privacy Policy. Slacker may cooperate with and disclose information 
+					(including your Account Information) to any authority, government official or third-party, without giving any notice to 
+					you, in connection with any investigation, proceeding or claim arising from an asserted illegal action or infringement 
+					due to your use of the Slacker Products and Services, and under certain other circumstances set forth in our Privacy 
+					Policy.
+				</p>
+				<h3>
+					License
+				</h3>
+				<p>
+					Slacker grants to you a limited, non-exclusive, non-transferable license to access and use the Slacker Products and 
+					Services in the territory for which you have purchased a license for personal non-commercial purposes only. If you 
+					subscribe to any of the Slacker Products and Services, this license is contingent upon your payment of any applicable 
+					subscription fees and your compliance with any other terms and conditions applicable to you as a subscriber.
+
+				</p>
+				<p>
+					By subscribing to or accessing any of the Slacker Products and Services, you are representing to us that you are 
+					authorized to use the credit card or other form of payment you provided (including having your telecommunications 
+					carrier bill you) and that you reside in the territory for which you have purchased a license. If you are a parent 
+					or guardian paying on behalf of a minor or other person, then you hereby agree to the terms of this Agreement and 
+					agree to take responsibility for the actions of such other person, any charges associated with that person's use of 
+					any of the Slacker Products and Services, and that person's compliance with this Agreement. You agree to take such 
+					steps as are appropriate to ensure such compliance and will indemnify and hold Slacker and its affiliates and 
+					distribution and syndication partners harmless from any breach of this Agreement. Any violation by you of the license 
+					provisions contained in this Agreement may result in the immediate termination of your right to use the Slacker Products 
+					and Services. Slacker reserves all right, title and interest not expressly granted under this license to the fullest 
+					extent possible under applicable laws. ANY USE OF THE SLACKER PRODUCTS AND SERVICES NOT SPECIFICALLY PERMITTED UNDER 
+					THIS AGREEMENT IS STRICTLY PROHIBITED.
+				</p>
+				<h3>
+					Restrictions
+				</h3>
+				<div>
+					<p>
+						You agree that with regard to your access of the Slacker Site, you will not:
+					</p>
+					<ul>
+							<li>use the Slacker Products or Services to reproduce, copy or distribute copyrighted materials;</li>
+							<li>upload, transmit or otherwise distribute any content that is unlawful, defamatory, libelous, harassing, abusive, 
+							fraudulent, obscene, contains viruses, or is otherwise objectionable as reasonably determined by Slacker;</li> 
+							<li>upload, transmit or otherwise distribute content that infringes upon another party's intellectual property rights 
+							or other proprietary, contractual or fiduciary rights or obligations;</li> 
+							<li>prevent or attempt to prevent others from using the Slacker Products and Services or take any action designed to 
+							harm, slow down or adversely affect the Slacker Products and Services or the Slacker Site;</li> 
+							<li>use the Slacker Products and Services for any fraudulent or inappropriate purpose;</li> 
+							<li>post adult-oriented material;</li> 
+							<li>use the Slacker Products and Services to facilitate sending “spam” or unsolicited commercial email;</li>
+							<li>copy, store, edit, change, prepare any derivative work of or alter in any way any of the tracks delivered through 
+							the Slacker Products and Services or any cover art shown therein;</li>
+							<li>make the Slacker Products and Services available over a network (other than Slacker's network) where it could be 
+							used by others;</li>
+							<li>provide your password to any other person;</li>
+							<li>translate, reverse engineer, decompile, disassemble, modify or create derivative works based on the Slacker Services 
+							or any portion of them;</li>
+							<li>circumvent any technology used by Slacker or its licensors to protect content accessible via the Slacker Services;</li>
+							<li>rent, lease or sublicense any of the Slacker Products and Services;</li>
+							<li>collect and use any product listings, descriptions, or prices;</li>
+							<li>use any data mining, robots, or similar data gathering and extraction tools;</li>
+							<li>download or copy account information for the benefit of another merchant;</li>
+							<li>frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, 
+							text, page layout, or form) of Slacker and our affiliates;</li>
+							<li>use any meta tags or any other "hidden text" utilizing Slacker's name or trademarks; or</li>
+							<li>use the Slacker Products and Services in any way that violates the terms of this Agreement or any Wi-Fi terms of service.</li>
+					</ul>
+				</div>
+				<p>
+					Violation of any of the foregoing may result in immediate termination of this Agreement, and may subject you to state 
+					and federal penalties and other legal consequences. Slacker reserves the right, but shall have no obligation, to 
+					investigate your use of the Slacker Products and Services in order to determine whether a violation of this Agreement 
+					has occurred or to comply with any applicable law, regulation, legal process or governmental request.
+				</p>
+				<h3>
+					User Content
+				</h3>
+				<p>
+					By submitting any content, you grant Slacker a royalty-free, perpetual, irrevocable, non-exclusive right and license to 
+					use, license, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, derive revenue or 
+					other remuneration from, communicate to the public, perform and display the content (in whole or in part) worldwide 
+					and/or to incorporate it in other works in any form, media, or technology now known or later developed, for the full 
+					term of any intellectual property rights that may exist in such content. You also warrant that the holder of any 
+					intellectual property rights, including moral rights in such content, has completely and effectively waived all such 
+					rights and validly and irrevocably granted to you the right to grant the license stated above. You also permit any 
+					subscriber to access, display, view, store and reproduce such content for personal use. Subject to the foregoing, the 
+					owner of such content submitted through the Products and Services retains any and all intellectual property rights that 
+					may exist in such content.
+				</p>
+				<p>
+					Slacker takes no responsibility for any content contained within the Slacker Products and Services, nor does Slacker 
+					have any obligation to monitor such third party content. Slacker reserves the right at all times to remove or refuse 
+					to distribute any content on the Slacker Products and Services, such as content that violates the terms of this 
+					Agreement. Slacker also reserves the right to access, read, preserve, and disclose any information as it reasonably 
+					believes is necessary to (a) satisfy any applicable law, regulation, legal process or governmental request, (b) 
+					enforce this Agreement, including investigation of potential violations hereof, (c) detect, prevent, or otherwise 
+					address fraud, security or technical issues, (d) respond to user support requests, or (e) protect the rights, property 
+					or safety of Slacker, its users and the public.  Slacker will not be responsible or liable for the exercise or 
+					non-exercise of its rights under this Agreement.
+				</p>
+				<h3>
+					Security
+				</h3>
+				<p>
+					The Slacker Products and Services utilize technology to protect transmitted digital information. Your use of the 
+					Slacker Products and Services may be limited by such technology. You acknowledge that, from time to time, Slacker 
+					may modify or discontinue using such technology. Security modifications made by Slacker may from time to time include 
+					required or automated updates, modifications, patches, and/or reinstallations of software. IF YOU ATTEMPT TO VIOLATE 
+					OR CIRCUMVENT ANY SYSTEM OR NETWORK SECURITY COMPONENTS OR TECHNOLOGY, YOUR ACCESS TO THE SLACKER SITE MAY BE 
+					TERMINATED AND YOU MAY BE SUBJECT TO CIVIL OR CRIMINAL LIABILITY.
+				</p>
+				<h3>
+					Intellectual Property
+				</h3>
+				<p>
+					As between you and Slacker, you acknowledge that Slacker owns or has a license to all title and copyrights and all 
+					other worldwide intellectual property rights in and to the Slacker Products and Services, including all content on 
+					this site (other than user uploaded content), such as text, graphics, logos, button icons, images, audio clips, 
+					digital downloads, data compilations, and software. All title and intellectual property rights in and to the 
+					licensed content in the Slacker Products and Services is the property of the respective content owner and may be 
+					protected by applicable copyright or other intellectual property laws and treaties and subject to use restrictions 
+					under such laws or treaties.
+				</p>
+				<h3>
+					Slacker Trademarks and Third-Party Trademarks
+				</h3>
+				<p>
+					The following are registered trademarks or trademarks of Slacker: Slacker, and its registered design logo, as well as 
+					certain other Slacker trademarks, service marks, graphics, and logos (collectively, the "Slacker Trademarks") used in 
+					connection with the Slacker Products and Services. The Slacker Products and Services may contain third-party 
+					trademarks, service marks, graphics, and logos. You are not granted any right or license with respect to Slacker 
+					Trademarks or the trademarks of any third party.
+				</p>
+				<h3>
+					Electronic Communications
+				</h3>
+				<p>
+					When you visit the Site, use the Products or Services or send e-mails to us, you are communicating with us 
+					electronically. By doing so, you consent to receive communications from us electronically. We will communicate 
+					with you through the Products and Services, by e-mail or by posting notices on this Site. You agree that all agreements, 
+					notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that 
+					such communications be in writing.
+				</p>
+				<h3>
+					DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+				</h3>
+				<p>
+					THIS SITE IS PROVIDED BY SLACKER ON AN "AS IS" AND "AS AVAILABLE" BASIS. SLACKER MAKES NO REPRESENTATIONS OR WARRANTIES 
+					OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
+					PARTICULAR PURPOSE. AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON 
+					THIS SITE, YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK. SLACKER DOES NOT WARRANT THAT THIS SITE, 
+					ITS SERVERS, OR E-MAIL SENT FROM SLACKER ARE FREE OF VIRUSES, INTERFERENCE, HACKING OR OTHER HARMFUL COMPONENTS AND SLACKER 
+					DISCLAIMS ANY LIABILITY RELATING THERETO. WITHOUT PRIOR NOTICE, SLACKER MAY MODIFY, SUSPEND, OR DISCONTINUE THE SLACKER 
+					SERVICES (INCLUDING ANY CONTENT) OR YOUR USE OF THEM. WHENEVER SLACKER ELECTS TO MODIFY, SUSPEND, OR DISCONTINUE THE SLACKER 
+					SERVICES, IT WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY.
+				</p>
+				<p>
+					SLACKER WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE, THE SLACKER PRODUCTS AND 
+					SERVICES, THE SLACKER PORTABLE RADIO PLAYER OR ANY WI-FI SERVICE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, 
+					PUNITIVE, AND CONSEQUENTIAL DAMAGES.
+				</p>
+				<p>
+					CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE 
+					LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE 
+					ADDITIONAL RIGHTS.
+				</p>
+				<p>
+					YOU ACKNOWLEDGE THAT YOUR SUBMISSION OF ANY INFORMATION TO US IS AT YOUR OWN RISK. SLACKER DOES NOT ASSUME ANY LIABILITY TO 
+					YOU WITH REGARD TO ANY LOSS OR LIABILITY RELATING TO SUCH INFORMATION IN ANY WAY.
+				</p>
+				<p>
+					YOU UNDERSTAND THAT YOU MAY ENCOUNTER OFFENSIVE, INDECENT OR OTHER OBJECTIONABLE CONTENT WHEN USING THE SLACKER SERVICES. 
+					SLACKER WILL HAVE NO LIABILITY TO YOU FOR ANY SUCH CONTENT.
+				</p>
+				<p>
+					SOME OF THE CONTENT, PRODUCTS, AND SERVICES AVAILABLE THROUGH THE SLACKER SERVICES MAY INCLUDE MATERIALS THAT BELONG TO THIRD 
+					PARTIES. YOU ACKNOWLEDGE THAT SLACKER ASSUMES NO RESPONSIBILITY FOR SUCH CONTENT, PRODUCTS OR SERVICES. INDEMNITY
+				</p>
+				<p>
+					YOU WILL INDEMNIFY AND HOLD SLACKER, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, CONTRACTORS, AND LICENSORS HARMLESS 
+					WITH RESPECT TO ANY SUITS OR CLAIMS ARISING OUT OF (I) YOUR BREACH OF THIS AGREEMENT, INCLUDING, BUT NOT LIMITED TO, ANY 
+					INFRINGEMENT BY YOU OF THE COPYRIGHT OR INTELLECTUAL PROPERTY RIGHTS OF ANY THIRD PARTY; OR (II) YOUR USE OF THE SLACKER SERVICES OR 
+					ANY WI-FI SERVICE.
+				</p>
+				<h3>
+					Third Parties
+				</h3>
+				<p>
+					Slacker or its business partners may present advertisements or promotional materials on or through the Site and the Slacker 
+					Products and Services. Your dealings with, or participation in promotions of, any third-party advertisers on or through the 
+					Site are solely between you and such third party and your participation is subject to the terms and conditions associated with 
+					that advertisement or promotion. You agree that Slacker is not responsible or liable for any loss or damage of any sort incurred 
+					as the result of any such dealings or as the result of the presence of such third parties on the Site.
+				</p>
+				<p>
+					The Site and the Slacker Products and Services may present links to third-party Web sites not owned or operated by us. We are not 
+					responsible for the availability of these third-party sites or their contents. You agree that we are not responsible or liable, 
+					directly or indirectly, for any damage or loss caused by or in connection with your use of or reliance on any content of any such 
+					third-party site or goods or services available through any such third-party site.
+				</p>
+				<p>
+					You may be able to link and/or post content to or from third party websites (e.g., Facebook) and the Site.  You are solely responsible 
+					for any such content you post, and for any information contained therein.  You are also solely responsible for complying with any applicable 
+					law, regulation and or rule of any applicable government agency and/or such third party website.
+				</p>
+				<p>
+					The Slacker Products and Services may contain content supplied by third parties and links to and from Internet sites maintained by third 
+					parties.  Slacker does not control such content or operate such third-party sites.  Third party content (including advertisements) on and 
+					links on or to the Slacker Products and Services do not constitute any endorsement by Slacker.  Slacker is not responsible for the accuracy 
+					or reliability of third party information and you assume sole responsibility for the use of third party information. 
+				</p>
+				<p>
+					You acknowledge that Slacker neither endorses the contents of your communications or the communications of third parties on or relating to 
+					the Slacker Products and Services, nor assumes the responsibility for any threatening, libelous, obscene, harassing or offensive material 
+					contained therein, any infringement of third party intellectual property rights arising therefrom or any crime facilitated thereby.
+				</p>
+				<p>
+					Slacker is not involved in any transaction between you and the merchants linked from the Slacker Products and Services. If you have a dispute 
+					with one or more merchants, you agree to release and hereby release Slacker (and Slacker's officers, directors, agents, subsidiaries, 
+					affiliates, employees, successors, assigns, content providers and service providers) from claims, demands, actual and consequential 
+					damages of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way 
+					connected with such disputes.
+				</p>
+				<h3>
+					Applicable Law and Assignment
+				</h3>
+				<p>
+					By visiting the Site or using the Slacker Products and Services, you agree that the laws of the state of California, without regard to 
+					principles of conflict of laws, will govern these Terms of Use and any dispute of any sort that might arise between you and Slacker or 
+					its affiliates.
+				</p>
+				<p>
+					You will not sublicense, assign, or transfer the license granted to you under this Agreement. Any attempt to sublicense, assign, or transfer 
+					any of the rights, duties, or obligations in violation of the provisions of this Agreement is void.
+				</p>
+				<h3>
+					Disputes
+				</h3>
+				<p>
+					Any dispute relating in any way to your visit to the Site or to Products or Services you purchase or use through Slacker shall be submitted 
+					to confidential arbitration in San Diego, California, except that, to the extent you have in any manner violated or threatened to violate 
+					Slacker's intellectual property rights, Slacker may seek injunctive or other appropriate relief in any state or federal court in the state 
+					of California, and you consent to exclusive jurisdiction and venue in such courts. Arbitration under this agreement shall be conducted under 
+					the rules then prevailing of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment 
+					in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration under this Agreement shall be joined 
+					to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise.
+				</p>
+				<p>
+					Our Address:<br>
+					Slacker, Inc.<br>
+					16935 W. Bernardo Dr. Suite 270<br> 
+					San Diego, CA 92127<br>
+					858.943-5000<br>
+				</p>
+				<p>
+					Last revision date: July 18, 2012   
+				</p>
+
+				</div>
