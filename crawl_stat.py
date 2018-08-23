@@ -115,7 +115,7 @@ search_engines = ['google.com','bing.com','yahoo.com','aol.com','duckduckgo.com'
 
 banks_and_finanical = ['wellsfargo.com','chase.com','venmo.com','citizensbank.com','squareup.com',
 'paypal.com','capitalone.com','americanexpress.com','Zelle.com','googlepay.com',
-'creditcheck.experiandirect.com','creditkarma.com']
+'creditcheck.experiandirect.com','creditkarma.com','citi.com']
 
 genre_dict = {
             'social_media':social_media,
@@ -439,7 +439,7 @@ def length_from_folder_name(fname):
 def filter_files_from_len_dict(len_dict):
     aggr = []
     for k,v in len_dict.items():
-        if v >= 7.50 and v <= 9.31:
+        if v >= 7.00 and v <= 9.31:
             aggr += [k]
     
     return aggr
@@ -470,8 +470,24 @@ def sel_lengths():
         for j in os.listdir('./the select few'+'/'+i):
             for k in os.listdir('./the select few/'+i+'/'+j):
                 len_dict[j+'/'+k] = count_words('./the select few/'+i+'/'+j+'/'+k)/350
+
+    plt.rcdefaults()
+    fig, ax = plt.subplots()
     
-    print(len_dict)
+    names = list(len_dict.keys())
+    names = [name.replace('Terms of Service', 'ToS').replace('Privacy Policy','PP') for name in names]
+    lengths = list(len_dict.values())
+    y_pos = np.arange(len(names))
+
+    ax.barh(y_pos, lengths, align='center',color='green')
+    ax.set_yticks(y_pos,)
+    ax.set_yticklabels(names,rotation=50)
+    ax.invert_yaxis()  # labels read top-to-bottom
+    ax.set_xlabel('Length in Pages')
+    ax.set_title('Lengths of The 12 Selected Docs')
+
+    plt.show()
+   
 
 
 if __name__ == '__main__':
@@ -480,7 +496,7 @@ if __name__ == '__main__':
     print('Starting ari calculation')
     #ari_distribution()
     print('Start doc type distribution')
-    #document_type_distributions()
-    #document_genre_distributions()
-    sel_lengths()
+    document_type_distributions()
+    document_genre_distributions()
+    #sel_lengths()
     #generate_genre_lists()

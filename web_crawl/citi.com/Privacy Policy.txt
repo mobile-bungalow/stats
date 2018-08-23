@@ -1,0 +1,239 @@
+<div id="body">
+ 
+
+<form id="OnlineBranchForm" action="?JFP_TOKEN=SQTS3ZNF" method="post">
+	<input type="hidden" name="attendee_person_firstName" value="">
+	<input type="hidden" name="attendee_person_lastName" value="">
+	<input type="hidden" name="attendee_email" value="">
+	<input type="hidden" name="attendee_customField0" value="">
+	<input type="hidden" name="ch" value="">
+	<input type="hidden" name="isTimeTrade" id="isTimeTrade" value="false">
+<input type="hidden" class="extraField" name="XXX_Extra" value="08c759d54976f"><input type="hidden" class="extraField" name="XYZ_Extra" value="de6ee99ef1e5da9"><input type="hidden" name="JFP_TOKEN" value="SQTS3ZNF"></form>
+
+
+
+
+<style type="text/css">
+	ul li {
+		list-style:none;
+	}
+</style>
+
+<div>
+	<h2>Privacy for Consumers at Citi</h2>
+	<p>Our goal is to maintain your trust and confidence when handling personal information about you.</p>
+
+	<p><strong>YOU HAVE CHOICES</strong></p>
+	
+	 
+	
+	
+	
+	<p>Citi customers have the opportunity to make choices about how their personal information may be shared. As you consider this, we encourage you to make choices that enable us to provide you with quality products and services that help you meet your financial needs and objectives.</p>
+
+	<p><strong>SECURITY OF PERSONAL INFORMATION</strong></p>
+	
+	<p>The security of your personal information is our priority. We protect this information by maintaining physical, electronic and procedural safeguards that meet applicable law. We train our employees in the proper handling of personal information. When we use other companies to provide services for us, we require them to protect the confidentiality of personal information they receive.</p>
+<!-- Citi Online Privacy -->	
+
+	<h2>Citi <span class="CitiPayContent" style="display: none;">Pay</span> <span class="CitiMastepassContent" style="display: none;">/ Masterpass</span> Online Privacy Statement</h2>
+
+	<p>Our Online Privacy Statement describes how we may collect, use and share information you provide when you visit this website, receive our emails or interact with advertisements we have on <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=ThirdpartyWebsites&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">third-party websites</a>.</p>
+
+	<p>Our Online Privacy Statement does not cover:</p>
+	
+	<ul>
+		<li>Information collected and used on Citi social media sites such as <a id="cmlink_NewCitiSpeedBump" href="http://blog.citigroup.com" target="_blank">blog.citigroup.com</a></li>
+		<li>Information you provide to the websites we advertise or place content on and may link to</li>
+	</ul>
+   
+	<p>We encourage you to read the privacy policies on these sites.</p>
+
+	<ol>
+		<li><a href="#info-collect">What Information Do We Collect?</a></li>
+		<li><a href="#info-use">How Do We Use the Information We Collect?</a></li>
+		<li><a href="#ad-info-external-use">How Do Our Online Services Use Cookies and Other Tracking Technologies?</a></li>
+		<li><a href="#info-control">Can You Control Your Information that’s Collected and Used  Online?</a></li>
+	</ol>
+
+<!-- End of Citi Online Privacy -->
+<!-- Dynamic content for CitiPay and Citi / Masterpass -->
+<!-- CitiPay -->
+<div class="CitiPayContent" style="display: none;">
+<p><strong>For Customers Enrolled in Citi Pay</strong></p>
+
+<p>
+We and our service providers may use information about your use of Citi Pay/Masterpass in order to create a customized checkout experience.  After using Masterpass or visiting our website, a cookie may be placed on your device that will provide a customized Citi Pay/Masterpass checkout button on merchant websites. You can opt-out of seeing a customized checkout button on merchant websites and Mastercard's collection of analytical information by configuring the settings on Masterpass' <a id="cmlink_AdChoicesSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=AdChoicesSpeedbump','AdChoices','status,resizable,scrollbars,location,toolbar,width=590,height=480') " target="_top">AdChoices page</a>.</p>
+</div>
+<!-- END CitiPay -->
+<!-- CitiMasterpass -->
+<div class="CitiMastepassContent" style="display: none;">
+<p><strong>For Customers Enrolled in Citi / Masterpass</strong></p>
+<p>
+We and our service providers may use information about your use of Citi / Masterpass in order to create a customized checkout experience.  After using Masterpass or visiting our website, a cookie may be placed on your device that will provide a customized Citi / Masterpass checkout button on merchant websites. You can opt-out of seeing a customized checkout button on merchant websites and Mastercard's collection of analytical information by configuring the settings on Masterpass' <a id="cmlink_AdChoicesSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=AdChoicesSpeedbump','AdChoices','status,resizable,scrollbars,location,toolbar,width=590,height=480') " target="_top">AdChoices page</a>.
+</p>
+</div>
+<!-- END CitiMasterpass -->
+<!-- END Dynamic content for CitiPay and Citi / Masterpass -->
+
+	
+	<p><a name="info-collect"></a><strong>1. What Information Do We Collect</strong></p>
+
+	<p>We collect two types of online information: non-personal and personal.</p>
+
+	<p><strong>Non-Personal Information</strong></p>
+
+	<p>When you visit our site, we collect the <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=IPAddress&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">IP address</a> of the device you use to connect to the Internet. In addition, we gather information such as what browser and which version of it you're using, the type of operating system you have, and which site you came from or advertisement you viewed or clicked on. This <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=DeviceInformation&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">device information</a> helps us provide an online experience that matches your device and to manage our online advertising.</p>
+	
+	<p>We may also supplement the information we collect with information we receive from other companies. For example, we may use  <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=MarketingSegments&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">marketing segments</a> developed by us or other companies to customize certain services to your local area and provide relevant Citi offers tailored to you.</p>
+
+	<p><strong>Personal Information</strong></p>
+
+	<p>In addition to the information described in the previous section, we may also gather personal information that you provide to us such as your name, address, phone number, and email address. Collecting this personal information enables us to offer you online experiences that help you with your financial needs. For example, we collect personal information when you are:</p>
+			
+	<ul>
+		<li>Banking online</li>
+		<li>Applying for a new program or account</li>
+	</ul>
+
+	<p>If you've enrolled in Citi services, such as online bill payment, we collect personal information about your transactions, and how you interact with third parties such as those you pay like a utility company or phone company. Collecting this information enables us to provide you these services. You can refer to the terms and conditions for your account or service to learn how your information is collected and used.</p>
+
+	<p>If we have received personal information from you, or have information that is publicly available from other sources, we may use it in combination with the information that Citi collects online. This information may be used to better tailor or personalize our service and marketing communications with you, both online and offline.</p>
+
+	<p>If you are a Citi customer, the personal information you provide online is held by the Citi business that maintains your account or is processing your application for a new product or service. You can access and/or change information in connection with your account or application by logging on to your account online or telephoning customer service.</p>
+
+	<p>Please see our Privacy Notices, which we provide to all our individual customers, for a comprehensive explanation of how we collect, use and share personal information and what you can do to limit the use and sharing of your information as our customer. If you have a retail store or gas card issued by Citibank, N.A., you may call the number that appears on the Privacy Statement you receive. All customers may also call Customer Service at any time with questions or to make privacy choices.</p>
+
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td>&nbsp;&nbsp;&nbsp;</td>
+			<td>Citibank</td>
+			<td>
+				<a href="javascript:launchPopup('/JRS/popups/ao/Citibank_Consumer_Privacy_Notice.pdf','Privacy','scrollable,resizable,width=650,height=575')">Citibank<sup>®</sup> Consumer Privacy Notice</a>
+			</td>
+		</tr>
+        	<tr>
+			<td></td>
+			<td>Citi Mortgage &nbsp;&nbsp;</td>
+			<td><a id="cmlink_CitiMortgagePDF" href="javascript:launchPopup('/JRS/popups/pwm/CitiMortgagePrivacyNotice.pdf','Privacy','scrollable,resizable,width=650,height=575')" target="_top">Citi Mortgage Privacy Notice</a></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Citi Personal Wealth Management &nbsp;&nbsp;</td>
+			<td><a id="cmlink_CitiPersonalWealthMgmtPrivacy" href="javascript:launchPopup('/JRS/popups/pwm/PrivacyNotice.pdf','Privacy','scrollable,resizable,width=650,height=575')" target="_top">Citi Personal Wealth Management Privacy Notice</a></td>
+		</tr>
+
+        <tr>
+            <td></td>
+            <td>Citi Cards</td>
+            <td><a id="cmlink_CitiCardsPrivacy" href="javascript:launchPopup('https://www.citicards.com/cards/wv/JRS/ACQ/img/Generic_AO_version.pdf','','resizable,status,menubar,toolbar,scrollbars,width=650,height=550')" target="_top">Citi Consumer Cards Privacy Notice</a></td>
+        </tr>
+
+		<tr>
+			<td></td>
+			<td>Citi Private Bank</td>
+			<td><a id="cmlink_CitiPrivateBankInternetPolicy" href="https://www.privatebank.citibank.com/privacy.htm#1" target="_blank">Internet Privacy Policy &amp; Statement</a></td>
+		</tr>
+	</tbody></table>
+
+	<p><a name="info-use"></a><strong>2. How Do We Use the Information We Collect?</strong></p>
+
+	<p>Citi uses the information we collect about and from you to provide services, to manage our business and to offer an enhanced, personalized online experience on our site and <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=ThirdpartyWebsites&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">third-party websites</a>.</p>
+	
+	<p>The information we collect allows us to:</p>
+	
+	<ul>
+		<li>Recognize you when you return to our site so we can personalize your experience</li>
+		<li>Process applications and transactions</li>
+		<li>Respond to your requests</li>
+		<li>Recognize and provide you account related benefits and information on our sites.</li>
+		<li>Provide you more relevant product and service offers on our sites and in other advertising</li>
+	</ul>
+	
+	<p>We may also use personal information we have about you such as your email or postal address to deliver advertising to you directly or on third party websites.</p>
+
+	<p><a name="ad-info-external-use"></a><strong>3. How Do Our Online Services Use Cookies and other Tracking Technologies?</strong></p>
+	
+	<a name="flash-objects"></a><strong>Cookies and Flash Objects</strong>
+	
+	<p>When you browse our site or view one of our emails, or advertisements, Citi and <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=CompaniesWeWorkWith&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">companies we work with</a>, use Flash objects, <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a>, <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=PixelTag&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">web beacons</a> and/or <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=PixelTag&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">pixel tags</a> to collect device information and store your online preferences, but they do not capture any information that can be used to personally identify you. The information they gather helps us improve your online experience and may include:</p>
+
+	<ul>
+		<li>Your response to one of our emails or advertisements</li>
+		<li>Time and duration of your visit to our site</li>
+		<li>Pages you viewed while on our site</li>
+	</ul>
+
+	<p><strong>Device Tracking</strong></p>
+	
+	<p>We may use similar technologies, particularly in mobile advertising, that use <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=DeviceInformation&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">device information</a> to help deliver our advertisements and measure advertising campaign effectiveness. We and companies we work with may collect your device information when you visit one of our sites or see our ads. Compiling and comparing these attributes can create a unique ID for individual devices and can be "matched" to the same attributes appearing on other sites or mobile applications. Some companies we work with are also able to associate related devices into households based on common characteristics, such as IP addresses.</p>
+			
+	<p><strong>Targeted Advertising</strong></p>
+	
+	<p><a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=CompaniesWeWorkWith&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">Companies we work with</a> place and track our advertisements on <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=ThirdpartyWebsites&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">third-party websites</a>.</p>
+	
+	<p>Like most advertisers, we place advertisements where we think they will be most relevant to customers. We place advertisements by developing and using our own <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=MarketingSegments&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">marketing segments</a> that may combine online and offline information about our current and prospective customers.</p>
+	
+	<p>Network advertising companies that provide these services have their own privacy policies and are not subject to our Online Privacy Statement.</p>
+	
+	<p><a name="info-control"></a><strong>4. Can You Control Your Information That's Collected and Used Online?</strong></p>
+
+	<p>It's important to note that the information we use about you helps us provide you with products, services and experiences that benefit you. You have the ability to control how your non-personal information is collected and used online.</p>
+	
+	<p><strong>E-Mail</strong></p>
+	
+	<p>When you provide your email address, we will use it to send you general notices or important news about your account, request your feedback or opinions and provide updates on special deals and offers that might interest you.</p>
+	
+	<p>We believe you should be able to choose what kinds of information you receive via email. If you do not want to receive marketing materials by email, just indicate your preference on the contact information for your account or the 'opt-out' link provided in our marketing emails. Please keep in mind that we will continue to notify you by email regarding your account.</p>
+	
+	<p><strong>Cookies and Flash Objects</strong></p>
+	
+	<p>You can control whether to accept <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a> or not.  If you decide to not accept <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a>, some features and services on our site may not work properly because we may not be able to recognize and associate you with your Citi account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.</p>
+
+	<p>If you would prefer not to accept <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a>, you can:</p>	
+	
+	<ul>
+		<li>Change your browser settings to notify you when you receive a <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookie</a>, which lets you choose whether or not to accept it; or</li>
+		<li>Set your browser to automatically not accept any <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a></li>
+	</ul>
+	
+	<p>Deleting cookies does not delete <a href="#flash-objects">Flash objects</a>. You can learn more about Flash objects - including how to control and disable them - through the <u>Adobe interface</u>. If you choose to delete Flash objects from our sites, then you may not be able to access and use all or part of the sites or benefit from the information and services offered.</p>
+	
+	<p><strong>Targeted Advertising</strong></p>
+
+	<p>We believe that online behavioral advertising helps to provide you with more relevant advertising based upon on the websites you visit.</p>
+
+	<p>If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information. To do so please visit the <a id="cmlink_NAIOptOutPageSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=NAIOptOutPageSpeedbump','NAIOptOutPageSpeedbump','status,resizable,scrollbars,location,toolbar,width=590,height=480')" target="_top">NAI Opt-Out Page</a>. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests.</p>
+
+	<p>Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The <a id="cmlink_NAIOptOutPageSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=NAIOptOutPageSpeedbump','NAIOptOutPageSpeedbump','status,resizable,scrollbars,location,toolbar,width=590,height=480')" target="_top">NAI Opt-Out Page</a> provides a tool that identifies its member companies that have <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=Cookies&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">cookies</a> on your browser and provides links to those companies.</p>
+	
+	<p>The Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising govern certain online advertising and data collection practices. The principles facilitate transparency about online advertising practices and support consumer choice in managing behavioral advertising. We subscribe to these Principles. For more information about the Principles and the Ad Choices icon visit <a id="cmlink_YourAdChoicesSpeedbump" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=YourAdChoicesSpeedbump','YourAdChoicesSpeedbump','status,resizable,scrollbars,location,toolbar,width=590,height=480')" target="_top">http://www.youradchoices.com/</a></p>
+	
+	<p>Because mobile devices may vary in how they operate and may not use cookies, the choice management options listed above may not work for all mobile devices and mobile apps. <a id="cmlink_ContextHelp" href="javascript:displayHelp('/US/JRS/helpcenter/getHelpContent.do?dispFormat=popup&amp;contentId=MobileAdManagement&amp;contentType=help_item', 'help', 'width=911,height=586,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,location=yes,directories=no,status=no', 75, 0);" target="_top">Mobile ad management providers</a> make available tools for managing your choices regarding behavioral advertising on mobile devices and mobile apps. Depending upon the advertising company, if you opt out on one device they may also opt you out on any screen considered part of the same household.</p>
+	
+	<p><strong>Do Not Track</strong></p>
+
+	<p>Although, there is no standard for how Do Not Track consumer browser settings should work on commercial websites, the industry has self-regulatory initiatives designed to provide consumers a choice in the types of ads they may see online and to conveniently opt-out from online behavioral ads served by some or all of the companies participating in these programs. Due to a lack of such standards, our websites do not respond to Do Not Track consumer browser settings. For more information see the "About Ads" or NAI links provided above. Many of Citi's advertising vendors and companies participate in these programs. Using the choice mechanisms these programs make available may help you see advertising that is relevant to you or help you avoid seeing interest based advertising generally.</p>
+
+	<p><strong>Notice of changes.</strong></p>
+
+	<p>From time to time, we may change this Online Privacy Statement. The effective date of this statement, as indicated below, shows the last time this statement was revised or materially changed. Checking the effective date below allows you to determine whether there have been changes since the last time you reviewed the statement.</p>
+
+	<p><strong>Effective Date.</strong></p>
+
+    <p>This Online Privacy Statement was last modified January 22, 2015.</p>
+</div>
+
+						
+					 </td>
+				</tr>
+				
+					
+				
+			</tbody></table>
+			</td>
+			
+		</tr>
+	</tbody></table>
+</div>
