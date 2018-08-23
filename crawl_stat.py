@@ -101,7 +101,7 @@ social_media = ['facebook.com','twitter.com','instagram.com','pinterest.com',
 'snap.com','badoo.com','hi5.com','periscope.com','zoosk.com','foursquare.com','gotinder.com']
 
 retail = ['amazon.com','target.com','alibaba.com','adidas.com','basspro.com','crateandbarrel.com','safeway.com','walmart.com', 'stubhub.com',
-'gap.com','dickssportinggoods.com','ikea.com','officemax.com','orientaltrading.com']
+'gap.com','dickssportinggoods.com','ikea.com','officemax.com','orientaltrading.com','ebay.com']
 
 geo_location = ['foursquare.com','uber.com','gotinder.com','maps.google.com','waze.com',
 'lyft.com','grubhub.com','pokemongo.com','spothero.com','scoutapp.com','jumpbikes.com',
@@ -444,7 +444,7 @@ def filter_files_from_len_dict(len_dict):
     
     return aggr
 
-def generate_lists():
+def generate_genre_lists():
     '''
     should pump out a list of the most median documents to occur in the set.
 
@@ -464,6 +464,16 @@ def generate_lists():
 
     print(file_dict)
 
+def sel_lengths():
+    len_dict = {}
+    for i in os.listdir('./the select few'):
+        for j in os.listdir('./the select few'+'/'+i):
+            for k in os.listdir('./the select few/'+i+'/'+j):
+                len_dict[j+'/'+k] = count_words('./the select few/'+i+'/'+j+'/'+k)/350
+    
+    print(len_dict)
+
+
 if __name__ == '__main__':
     print('starting document processing')
     #overall_page_distribution()
@@ -472,4 +482,5 @@ if __name__ == '__main__':
     print('Start doc type distribution')
     #document_type_distributions()
     #document_genre_distributions()
-    generate_lists()
+    sel_lengths()
+    #generate_genre_lists()
